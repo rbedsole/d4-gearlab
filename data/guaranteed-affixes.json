@@ -1,0 +1,98 @@
+{
+  "_meta": {
+    "source": "Blizzard Diablo IV Patch Notes 3.1",
+    "source_url": "https://news.blizzard.com/en-us/article/24287406/diablo-iv-patch-notes-3-1",
+    "scope": "Spiritborn uniques plus cross-class uniques currently used by GearLab test build",
+    "rule": "All Uniques, Mythic Uniques, and Iconic Mythics have two guaranteed affixes."
+  },
+  "items": {
+    "Balazan's Maxtlatl": [
+      "Primary Core Stat",
+      "Thorns"
+    ],
+    "Band of First Breath": [
+      "Primary Core Stat",
+      "Attack Speed"
+    ],
+    "Craze of the Dead God": [
+      "Primary Core Stat",
+      "Skill Ranks to Touch of Death"
+    ],
+    "Echo of Kwatli": [
+      "Primary Core Stat",
+      "Vulnerable Damage Multiplier"
+    ],
+    "Harmony of Ebewaka": [
+      "Primary Core Stat",
+      "Maximum Life"
+    ],
+    "Hesha e Kesungi": [
+      "Primary Core Stat",
+      "Skill Ranks to Gorilla Skills"
+    ],
+    "Jacinth Shell": [
+      "Primary Core Stat",
+      "Vigor per Second"
+    ],
+    "Loyalty's Mantle": [
+      "Primary Core Stat",
+      "Maximum Life"
+    ],
+    "Nesekem, the Herald": [
+      "Weapon Damage",
+      "Vulnerable Damage Multiplier"
+    ],
+    "Path of the Emissary": [
+      "Primary Core Stat",
+      "Skill Ranks to Core Skills"
+    ],
+    "Peacemonger's Signet": [
+      "Primary Core Stat",
+      "Attack Speed"
+    ],
+    "Protean Heart": [
+      "Primary Core Stat",
+      "Skill Ranks to All Skills"
+    ],
+    "Protection of the Prime": [
+      "Primary Core Stat",
+      "Armor"
+    ],
+    "Ring of the Midday Hunt": [
+      "Primary Core Stat",
+      "Poison Damage Multiplier"
+    ],
+    "Ring of the Midnight Sun": [
+      "Primary Core Stat",
+      "Critical Strike Chance"
+    ],
+    "Ring of Writhing Moon": [
+      "Primary Core Stat",
+      "Poison Damage Multiplier"
+    ],
+    "Rod of Kepeleke": [
+      "Weapon Damage",
+      "Skill Ranks to Core Skills"
+    ],
+    "Scorn of the Earth": [
+      "Primary Core Stat",
+      "Skill Ranks to Soar"
+    ],
+    "Sepazontec": [
+      "Weapon Damage",
+      "Skill Ranks to Basic Skills"
+    ],
+    "Sunbird's Gorget": [
+      "Primary Core Stat",
+      "Fire Damage Multiplier"
+    ],
+    "Sunstained War-Crozier": [
+      "Weapon Damage",
+      "Skill Ranks to Potency Skills"
+    ],
+    "Tibault's Will": [
+      "Primary Core Stat",
+      "Maximum Life"
+    ]
+  }
+}
