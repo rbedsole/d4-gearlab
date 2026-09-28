@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 104,
+      "processed": 116,
       "total": 294,
       "status": "partial"
     }
@@ -1903,7 +1903,12 @@
       "keys": [
         "rabies",
         "ranks-to-rabies"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1884547,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC185",
@@ -1915,7 +1920,12 @@
       "keys": [
         "ravens",
         "ranks-to-ravens"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1884549,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC188",
@@ -1927,7 +1937,12 @@
       "keys": [
         "trample",
         "ranks-to-trample"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1884552,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC18A",
@@ -1939,7 +1954,12 @@
       "keys": [
         "poison-creeper",
         "ranks-to-poison-creeper"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1884554,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC18D",
@@ -1951,7 +1971,12 @@
       "keys": [
         "wolves",
         "ranks-to-wolves"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1884557,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D3A11",
@@ -1973,7 +1998,9 @@
         16,
         17,
         9
-      ]
+      ],
+      "snoId": 1915409,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D5E13",
@@ -1988,7 +2015,9 @@
       "allowedItemTypes": [
         19,
         28
-      ]
+      ],
+      "snoId": 1924627,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D5E25",
@@ -1999,7 +2028,14 @@
       ],
       "keys": [
         "energy-on-kill"
-      ]
+      ],
+      "allowedItemTypes": [
+        26,
+        19,
+        9
+      ],
+      "snoId": 1924645,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D5E27",
@@ -2010,7 +2046,15 @@
       ],
       "keys": [
         "essence-on-kill"
-      ]
+      ],
+      "allowedItemTypes": [
+        26,
+        19,
+        9,
+        23
+      ],
+      "snoId": 1924647,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D5E29",
@@ -2021,7 +2065,14 @@
       ],
       "keys": [
         "fury-on-kill"
-      ]
+      ],
+      "allowedItemTypes": [
+        26,
+        19,
+        9
+      ],
+      "snoId": 1924649,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D5E2B",
@@ -2032,7 +2083,15 @@
       ],
       "keys": [
         "mana-on-kill"
-      ]
+      ],
+      "allowedItemTypes": [
+        26,
+        19,
+        9,
+        23
+      ],
+      "snoId": 1924651,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D5E2D",
@@ -2043,7 +2102,15 @@
       ],
       "keys": [
         "spirit-on-kill"
-      ]
+      ],
+      "allowedItemTypes": [
+        26,
+        19,
+        9,
+        23
+      ],
+      "snoId": 1924653,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D5E30",
