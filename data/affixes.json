@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 212,
+      "processed": 224,
       "total": 294,
       "status": "partial"
     }
@@ -3826,7 +3826,12 @@
       "keys": [
         "falling-star",
         "ranks-to-falling-star"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 2497245,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261AE2",
@@ -3838,7 +3843,12 @@
       "keys": [
         "rally",
         "ranks-to-rally"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 2497250,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261AE4",
@@ -3850,7 +3860,12 @@
       "keys": [
         "consecration",
         "ranks-to-consecration"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 2497252,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261AE6",
@@ -3862,7 +3877,12 @@
       "keys": [
         "purify",
         "ranks-to-purify"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 2497254,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261AE8",
@@ -3874,7 +3894,12 @@
       "keys": [
         "condemn",
         "ranks-to-condemn"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 2497256,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261AEA",
@@ -3886,7 +3911,12 @@
       "keys": [
         "spear-of-the-heavens",
         "ranks-to-spear-of-the-heavens"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 2497258,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00266B1E",
@@ -3902,7 +3932,17 @@
       ],
       "keys": [
         "damage-while-fortified"
-      ]
+      ],
+      "allowedItemTypes": [
+        29,
+        17,
+        28,
+        16,
+        30,
+        15
+      ],
+      "snoId": 2517790,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00266B22",
@@ -3925,7 +3965,9 @@
         28,
         16,
         30
-      ]
+      ],
+      "snoId": 2517794,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002674B9",
@@ -3936,7 +3978,15 @@
       ],
       "keys": [
         "faith-regeneration"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        17,
+        29,
+        30
+      ],
+      "snoId": 2520249,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002674BB",
@@ -3947,7 +3997,15 @@
       ],
       "keys": [
         "faith-on-kill"
-      ]
+      ],
+      "allowedItemTypes": [
+        26,
+        19,
+        9,
+        23
+      ],
+      "snoId": 2520251,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026A374",
@@ -3958,7 +4016,15 @@
       ],
       "keys": [
         "wrath-on-kill"
-      ]
+      ],
+      "allowedItemTypes": [
+        26,
+        19,
+        9,
+        23
+      ],
+      "snoId": 2532212,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026A37C",
@@ -3969,7 +4035,15 @@
       ],
       "keys": [
         "wrath-regeneration"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        17,
+        29,
+        30
+      ],
+      "snoId": 2532220,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD42",
