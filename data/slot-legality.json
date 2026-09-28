@@ -1,0 +1,56 @@
+{
+  "_meta": {
+    "game_build": "3.2.1.73552",
+    "patch": "3.2.1",
+    "season": 15,
+    "coverage": "verified-bootstrap",
+    "validated": "2026-09-28",
+    "mechanism_source": "WiseOwl.Casc AffixDefinition.AllowedItemTypes",
+    "slot_source": "D4Guides.gg Season 15 Patch 3.2.1",
+    "note": "Only entries verified against current 3.2.1 sources are enforced. Unknown affixes remain unverified rather than being rejected."
+  },
+  "slots": {
+    "Dexterity": [
+      "Boots",
+      "Chest Armor",
+      "Helm",
+      "Pants",
+      "Ring",
+      "Amulet",
+      "Gloves",
+      "Weapon"
+    ],
+    "Maximum Life": [
+      "Boots",
+      "Chest Armor",
+      "Helm",
+      "Pants",
+      "Ring",
+      "Amulet",
+      "Gloves",
+      "Weapon"
+    ],
+    "Armor": [
+      "Boots",
+      "Chest Armor",
+      "Helm",
+      "Pants",
+      "Ring",
+      "Amulet",
+      "Gloves",
+      "Weapon"
+    ],
+    "Attack Speed": [
+      "Amulet",
+      "Gloves",
+      "Ring",
+      "Weapon"
+    ],
+    "Vulnerable Damage": [
+      "Amulet",
+      "Gloves",
+      "Ring",
+      "Weapon"
+    ]
+  }
+}
