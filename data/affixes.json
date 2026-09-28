@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 10,
+      "processed": 20,
       "total": 294,
       "status": "partial"
     }
@@ -232,7 +232,9 @@
       "allowedItemTypes": [
         19,
         0
-      ]
+      ],
+      "snoId": 1829588,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAD6",
@@ -248,7 +250,9 @@
       "allowedItemTypes": [
         19,
         0
-      ]
+      ],
+      "snoId": 1829590,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAD8",
@@ -268,7 +272,9 @@
         16,
         30,
         19
-      ]
+      ],
+      "snoId": 1829592,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEADA",
@@ -285,7 +291,9 @@
         19,
         28,
         15
-      ]
+      ],
+      "snoId": 1829594,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEADC",
@@ -304,7 +312,9 @@
         59,
         47,
         31
-      ]
+      ],
+      "snoId": 1829596,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEADE",
@@ -319,7 +329,9 @@
       "allowedItemTypes": [
         26,
         29
-      ]
+      ],
+      "snoId": 1829598,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAE0",
@@ -335,7 +347,9 @@
         0,
         28,
         19
-      ]
+      ],
+      "snoId": 1829600,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAE2",
@@ -349,7 +363,9 @@
       ],
       "allowedItemTypes": [
         30
-      ]
+      ],
+      "snoId": 1829602,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAEE",
@@ -370,7 +386,9 @@
         30,
         19,
         15
-      ]
+      ],
+      "snoId": 1829614,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAF2",
@@ -391,7 +409,9 @@
         30,
         19,
         15
-      ]
+      ],
+      "snoId": 1829618,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAF4",
