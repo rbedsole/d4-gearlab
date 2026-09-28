@@ -1,8 +1,12 @@
 {
   "_meta": {
-    "description": "Diablo 4 affix SNO IDs for native loot-filter import codes.",
-    "source": "Derived from ThunderEagle/D4LootBench d4-data.json (MIT), cross-checked vs fnuecke/diablo4-loot-filter-viewer names.json.",
-    "d4lootbench_build": "LootBenchDataExtract build 3.1.0.72592"
+    "description": "Diablo IV affix catalog for D4 GearLab.",
+    "source": "DiabloTools/d4data extracted AffixDefinition data",
+    "game_build": "3.2.1.73552",
+    "validated": "2026-09-28",
+    "allowed_item_types_field": "arAllowedItemLabels",
+    "legality_coverage": "78/78 Spiritborn-compatible catalog affixes",
+    "display_names": "Retained from prior canonical catalog; legality refreshed from current extracted game data."
   },
   "affixes": [
     {
@@ -14,6 +18,13 @@
       ],
       "keys": [
         "armor"
+      ],
+      "allowedItemTypes": [
+        26,
+        29,
+        28,
+        16,
+        19
       ]
     },
     {
@@ -25,6 +36,11 @@
       ],
       "keys": [
         "attack-speed"
+      ],
+      "allowedItemTypes": [
+        26,
+        19,
+        28
       ]
     },
     {
@@ -36,6 +52,13 @@
       ],
       "keys": [
         "impairment-reduction"
+      ],
+      "allowedItemTypes": [
+        17,
+        30,
+        29,
+        16,
+        15
       ]
     },
     {
@@ -47,6 +70,13 @@
       ],
       "keys": [
         "cooldown-reduction"
+      ],
+      "allowedItemTypes": [
+        26,
+        16,
+        28,
+        19,
+        23
       ]
     },
     {
@@ -59,6 +89,13 @@
       ],
       "keys": [
         "dexterity"
+      ],
+      "allowedItemTypes": [
+        16,
+        17,
+        30,
+        29,
+        19
       ]
     },
     {
@@ -107,6 +144,12 @@
       "keys": [
         "critical-strike-chance",
         "crit-chance"
+      ],
+      "allowedItemTypes": [
+        28,
+        23,
+        26,
+        15
       ]
     },
     {
@@ -120,6 +163,10 @@
         "critical-strike-damage",
         "crit-damage",
         "critical-strike-damage-multiplier"
+      ],
+      "allowedItemTypes": [
+        19,
+        0
       ]
     },
     {
@@ -132,6 +179,10 @@
       "keys": [
         "all-damage",
         "all-damage-multiplier"
+      ],
+      "allowedItemTypes": [
+        19,
+        0
       ]
     },
     {
@@ -144,6 +195,10 @@
       "keys": [
         "damage-over-time",
         "damage-over-time-multiplier"
+      ],
+      "allowedItemTypes": [
+        19,
+        0
       ]
     },
     {
@@ -157,6 +212,13 @@
         "maximum-life",
         "max-life",
         "life"
+      ],
+      "allowedItemTypes": [
+        29,
+        17,
+        16,
+        30,
+        19
       ]
     },
     {
@@ -168,6 +230,12 @@
       ],
       "keys": [
         "life-regeneration"
+      ],
+      "allowedItemTypes": [
+        26,
+        19,
+        28,
+        15
       ]
     },
     {
@@ -179,6 +247,14 @@
       ],
       "keys": [
         "lucky-hit-chance"
+      ],
+      "allowedItemTypes": [
+        26,
+        28,
+        16,
+        59,
+        47,
+        31
       ]
     },
     {
@@ -190,6 +266,10 @@
       ],
       "keys": [
         "movement-speed"
+      ],
+      "allowedItemTypes": [
+        26,
+        29
       ]
     },
     {
@@ -201,6 +281,11 @@
       ],
       "keys": [
         "overpower-damage"
+      ],
+      "allowedItemTypes": [
+        0,
+        28,
+        19
       ]
     },
     {
@@ -212,6 +297,9 @@
       ],
       "keys": [
         "potion-capacity"
+      ],
+      "allowedItemTypes": [
+        30
       ]
     },
     {
@@ -223,6 +311,16 @@
       ],
       "keys": [
         "fire-resistance"
+      ],
+      "allowedItemTypes": [
+        26,
+        29,
+        17,
+        28,
+        16,
+        30,
+        19,
+        15
       ]
     },
     {
@@ -234,6 +332,16 @@
       ],
       "keys": [
         "lightning-resistance"
+      ],
+      "allowedItemTypes": [
+        26,
+        29,
+        17,
+        28,
+        16,
+        30,
+        19,
+        15
       ]
     },
     {
@@ -245,6 +353,16 @@
       ],
       "keys": [
         "poison-resistance"
+      ],
+      "allowedItemTypes": [
+        26,
+        29,
+        17,
+        28,
+        16,
+        30,
+        19,
+        15
       ]
     },
     {
@@ -256,6 +374,16 @@
       ],
       "keys": [
         "shadow-resistance"
+      ],
+      "allowedItemTypes": [
+        26,
+        29,
+        17,
+        28,
+        16,
+        30,
+        19,
+        15
       ]
     },
     {
@@ -267,6 +395,10 @@
       ],
       "keys": [
         "generation"
+      ],
+      "allowedItemTypes": [
+        19,
+        16
       ]
     },
     {
@@ -278,6 +410,11 @@
       ],
       "keys": [
         "thorns"
+      ],
+      "allowedItemTypes": [
+        30,
+        17,
+        16
       ]
     },
     {
@@ -289,6 +426,16 @@
       ],
       "keys": [
         "cold-resistance"
+      ],
+      "allowedItemTypes": [
+        26,
+        29,
+        17,
+        28,
+        16,
+        30,
+        19,
+        15
       ]
     },
     {
@@ -301,6 +448,14 @@
       "keys": [
         "maximum-resource",
         "max-resource"
+      ],
+      "allowedItemTypes": [
+        16,
+        26,
+        59,
+        47,
+        31,
+        17
       ]
     },
     {
@@ -313,6 +468,9 @@
       "keys": [
         "vulnerable-damage",
         "vulnerable-damage-multiplier"
+      ],
+      "allowedItemTypes": [
+        19
       ]
     },
     {
@@ -324,6 +482,10 @@
       ],
       "keys": [
         "dodge-chance"
+      ],
+      "allowedItemTypes": [
+        29,
+        30
       ]
     },
     {
@@ -335,6 +497,13 @@
       ],
       "keys": [
         "healing-received"
+      ],
+      "allowedItemTypes": [
+        17,
+        16,
+        30,
+        29,
+        15
       ]
     },
     {
@@ -346,6 +515,19 @@
       ],
       "keys": [
         "basic-skill-damage"
+      ],
+      "allowedItemTypes": [
+        1,
+        10,
+        11,
+        6,
+        3,
+        7,
+        46,
+        13,
+        2,
+        12,
+        9
       ]
     },
     {
@@ -357,6 +539,19 @@
       ],
       "keys": [
         "core-spender-skill-damage"
+      ],
+      "allowedItemTypes": [
+        1,
+        10,
+        11,
+        6,
+        3,
+        7,
+        46,
+        13,
+        2,
+        12,
+        9
       ]
     },
     {
@@ -369,6 +564,16 @@
       "keys": [
         "resistance-to-all-elements",
         "all-resistance"
+      ],
+      "allowedItemTypes": [
+        26,
+        29,
+        17,
+        28,
+        16,
+        30,
+        19,
+        15
       ]
     },
     {
@@ -1304,6 +1509,17 @@
       ],
       "keys": [
         "resource-cost-reduction"
+      ],
+      "allowedItemTypes": [
+        26,
+        28,
+        19,
+        47,
+        59,
+        31,
+        16,
+        17,
+        9
       ]
     },
     {
@@ -1315,6 +1531,10 @@
       ],
       "keys": [
         "life-on-hit"
+      ],
+      "allowedItemTypes": [
+        19,
+        28
       ]
     },
     {
@@ -1436,6 +1656,15 @@
       ],
       "keys": [
         "lucky-hit-vulnerable-chance"
+      ],
+      "allowedItemTypes": [
+        19,
+        26,
+        28,
+        8,
+        9,
+        23,
+        15
       ]
     },
     {
@@ -1447,6 +1676,25 @@
       ],
       "keys": [
         "lucky-hit-restore-primary-resource"
+      ],
+      "allowedItemTypes": [
+        28,
+        1,
+        10,
+        11,
+        6,
+        3,
+        7,
+        46,
+        13,
+        2,
+        12,
+        9,
+        31,
+        59,
+        47,
+        61,
+        62
       ]
     },
     {
@@ -1739,6 +1987,10 @@
       "keys": [
         "defensive-skills",
         "ranks-to-defensive-skills"
+      ],
+      "allowedItemTypes": [
+        17,
+        26
       ]
     },
     {
@@ -1763,6 +2015,10 @@
       "keys": [
         "basic-skills",
         "ranks-to-basic-skills"
+      ],
+      "allowedItemTypes": [
+        30,
+        26
       ]
     },
     {
@@ -1775,6 +2031,10 @@
       "keys": [
         "core-skills",
         "ranks-to-core-skills"
+      ],
+      "allowedItemTypes": [
+        28,
+        26
       ]
     },
     {
@@ -1930,6 +2190,9 @@
       ],
       "keys": [
         "damage-reduction"
+      ],
+      "allowedItemTypes": [
+        15
       ]
     },
     {
@@ -2003,6 +2266,11 @@
       ],
       "keys": [
         "vigor-on-kill"
+      ],
+      "allowedItemTypes": [
+        26,
+        19,
+        9
       ]
     },
     {
@@ -2014,6 +2282,12 @@
       ],
       "keys": [
         "vigor-regeneration"
+      ],
+      "allowedItemTypes": [
+        16,
+        17,
+        29,
+        30
       ]
     },
     {
@@ -2026,6 +2300,9 @@
       "keys": [
         "rock-splitter",
         "ranks-to-rock-splitter"
+      ],
+      "allowedItemTypes": [
+        30
       ]
     },
     {
@@ -2038,6 +2315,9 @@
       "keys": [
         "thunderspike",
         "ranks-to-thunderspike"
+      ],
+      "allowedItemTypes": [
+        30
       ]
     },
     {
@@ -2050,6 +2330,9 @@
       "keys": [
         "thrash",
         "ranks-to-thrash"
+      ],
+      "allowedItemTypes": [
+        30
       ]
     },
     {
@@ -2062,6 +2345,9 @@
       "keys": [
         "withering-fist",
         "ranks-to-withering-fist"
+      ],
+      "allowedItemTypes": [
+        30
       ]
     },
     {
@@ -2074,6 +2360,9 @@
       "keys": [
         "crushing-hand",
         "ranks-to-crushing-hand"
+      ],
+      "allowedItemTypes": [
+        28
       ]
     },
     {
@@ -2086,6 +2375,9 @@
       "keys": [
         "quill-volley",
         "ranks-to-quill-volley"
+      ],
+      "allowedItemTypes": [
+        28
       ]
     },
     {
@@ -2098,6 +2390,9 @@
       "keys": [
         "rake",
         "ranks-to-rake"
+      ],
+      "allowedItemTypes": [
+        28
       ]
     },
     {
@@ -2110,6 +2405,9 @@
       "keys": [
         "stinger",
         "ranks-to-stinger"
+      ],
+      "allowedItemTypes": [
+        28
       ]
     },
     {
@@ -2122,6 +2420,10 @@
       "keys": [
         "focus-skills",
         "ranks-to-focus-skills"
+      ],
+      "allowedItemTypes": [
+        29,
+        26
       ]
     },
     {
@@ -2134,6 +2436,9 @@
       "keys": [
         "vortex",
         "ranks-to-vortex"
+      ],
+      "allowedItemTypes": [
+        29
       ]
     },
     {
@@ -2146,6 +2451,9 @@
       "keys": [
         "soar",
         "ranks-to-soar"
+      ],
+      "allowedItemTypes": [
+        29
       ]
     },
     {
@@ -2158,6 +2466,9 @@
       "keys": [
         "ravager",
         "ranks-to-ravager"
+      ],
+      "allowedItemTypes": [
+        29
       ]
     },
     {
@@ -2170,6 +2481,9 @@
       "keys": [
         "toxic-skin",
         "ranks-to-toxic-skin"
+      ],
+      "allowedItemTypes": [
+        29
       ]
     },
     {
@@ -2182,6 +2496,9 @@
       "keys": [
         "armored-hide",
         "ranks-to-armored-hide"
+      ],
+      "allowedItemTypes": [
+        17
       ]
     },
     {
@@ -2194,6 +2511,9 @@
       "keys": [
         "concussivestormp-skills",
         "ranks-to-concussivestormp-skills"
+      ],
+      "allowedItemTypes": [
+        17
       ]
     },
     {
@@ -2206,6 +2526,9 @@
       "keys": [
         "counterattack",
         "ranks-to-counterattack"
+      ],
+      "allowedItemTypes": [
+        17
       ]
     },
     {
@@ -2218,6 +2541,9 @@
       "keys": [
         "scourge",
         "ranks-to-scourge"
+      ],
+      "allowedItemTypes": [
+        17
       ]
     },
     {
@@ -2230,6 +2556,10 @@
       "keys": [
         "potency-skills",
         "ranks-to-potency-skills"
+      ],
+      "allowedItemTypes": [
+        16,
+        26
       ]
     },
     {
@@ -2242,6 +2572,9 @@
       "keys": [
         "payback",
         "ranks-to-payback"
+      ],
+      "allowedItemTypes": [
+        16
       ]
     },
     {
@@ -2254,6 +2587,9 @@
       "keys": [
         "razor-wings",
         "ranks-to-razor-wings"
+      ],
+      "allowedItemTypes": [
+        16
       ]
     },
     {
@@ -2266,6 +2602,9 @@
       "keys": [
         "rushing-claw",
         "ranks-to-rushing-claw"
+      ],
+      "allowedItemTypes": [
+        16
       ]
     },
     {
@@ -2278,6 +2617,9 @@
       "keys": [
         "touch-of-death",
         "ranks-to-touch-of-death"
+      ],
+      "allowedItemTypes": [
+        16
       ]
     },
     {
@@ -2289,6 +2631,10 @@
       ],
       "keys": [
         "lucky-hit-restore-primary-resource"
+      ],
+      "allowedItemTypes": [
+        0,
+        28
       ]
     },
     {
@@ -2372,6 +2718,16 @@
       ],
       "keys": [
         "physical-resistance"
+      ],
+      "allowedItemTypes": [
+        26,
+        29,
+        17,
+        28,
+        16,
+        30,
+        19,
+        15
       ]
     },
     {
@@ -2401,6 +2757,12 @@
       ],
       "keys": [
         "life-on-kill"
+      ],
+      "allowedItemTypes": [
+        29,
+        17,
+        30,
+        19
       ]
     },
     {
@@ -2625,6 +2987,13 @@
       ],
       "keys": [
         "barrier-generation"
+      ],
+      "allowedItemTypes": [
+        29,
+        17,
+        28,
+        16,
+        30
       ]
     },
     {
@@ -2968,6 +3337,9 @@
       ],
       "keys": [
         "attacks-reduce-evade-cooldown"
+      ],
+      "allowedItemTypes": [
+        29
       ]
     },
     {
@@ -2979,6 +3351,9 @@
       ],
       "keys": [
         "maximum-evade-charge"
+      ],
+      "allowedItemTypes": [
+        29
       ]
     },
     {
@@ -2990,6 +3365,9 @@
       ],
       "keys": [
         "evade-grants-movement-speed"
+      ],
+      "allowedItemTypes": [
+        29
       ]
     },
     {
@@ -3008,6 +3386,10 @@
       "keys": [
         "physical-damage",
         "physical-damage-multiplier"
+      ],
+      "allowedItemTypes": [
+        19,
+        0
       ]
     },
     {
@@ -3037,6 +3419,10 @@
       "keys": [
         "fire-damage",
         "fire-damage-multiplier"
+      ],
+      "allowedItemTypes": [
+        19,
+        0
       ]
     },
     {
@@ -3065,6 +3451,10 @@
       "keys": [
         "poison-damage",
         "poison-damage-multiplier"
+      ],
+      "allowedItemTypes": [
+        19,
+        0
       ]
     },
     {
@@ -3079,6 +3469,10 @@
       "keys": [
         "lightning-damage",
         "lightning-damage-multiplier"
+      ],
+      "allowedItemTypes": [
+        19,
+        0
       ]
     },
     {
@@ -3103,6 +3497,9 @@
       "keys": [
         "all-skills",
         "ranks-to-all-skills"
+      ],
+      "allowedItemTypes": [
+        26
       ]
     },
     {
@@ -3222,6 +3619,10 @@
       ],
       "keys": [
         "weapon-damage"
+      ],
+      "allowedItemTypes": [
+        8,
+        1
       ]
     },
     {
@@ -3486,6 +3887,9 @@
       "keys": [
         "centipede-skills",
         "ranks-to-centipede-skills"
+      ],
+      "allowedItemTypes": [
+        26
       ]
     },
     {
@@ -3498,6 +3902,9 @@
       "keys": [
         "eagle-skills",
         "ranks-to-eagle-skills"
+      ],
+      "allowedItemTypes": [
+        26
       ]
     },
     {
@@ -3510,6 +3917,9 @@
       "keys": [
         "gorilla-skills",
         "ranks-to-gorilla-skills"
+      ],
+      "allowedItemTypes": [
+        26
       ]
     },
     {
@@ -3522,6 +3932,9 @@
       "keys": [
         "jaguar-skills",
         "ranks-to-jaguar-skills"
+      ],
+      "allowedItemTypes": [
+        26
       ]
     }
   ]
