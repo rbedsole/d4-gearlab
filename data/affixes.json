@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 20,
+      "processed": 30,
       "total": 294,
       "status": "partial"
     }
@@ -432,7 +432,9 @@
         30,
         19,
         15
-      ]
+      ],
+      "snoId": 1829620,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAF6",
@@ -453,7 +455,9 @@
         30,
         19,
         15
-      ]
+      ],
+      "snoId": 1829622,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEB20",
@@ -468,7 +472,9 @@
       "allowedItemTypes": [
         19,
         16
-      ]
+      ],
+      "snoId": 1829664,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEB22",
@@ -484,7 +490,9 @@
         30,
         17,
         16
-      ]
+      ],
+      "snoId": 1829666,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEB2E",
@@ -505,7 +513,9 @@
         30,
         19,
         15
-      ]
+      ],
+      "snoId": 1829678,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BFC79",
@@ -525,7 +535,9 @@
         47,
         31,
         17
-      ]
+      ],
+      "snoId": 1834105,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BFC80",
@@ -540,7 +552,9 @@
       ],
       "allowedItemTypes": [
         19
-      ]
+      ],
+      "snoId": 1834112,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BFC85",
@@ -555,7 +569,9 @@
       "allowedItemTypes": [
         29,
         30
-      ]
+      ],
+      "snoId": 1834117,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BFCBF",
@@ -573,7 +589,9 @@
         30,
         29,
         15
-      ]
+      ],
+      "snoId": 1834175,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BFCE4",
@@ -597,7 +615,9 @@
         2,
         12,
         9
-      ]
+      ],
+      "snoId": 1834212,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BFD1A",
