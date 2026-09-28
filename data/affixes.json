@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 164,
+      "processed": 176,
       "total": 294,
       "status": "partial"
     }
@@ -2988,7 +2988,12 @@
       "keys": [
         "stone-burst",
         "ranks-to-stone-burst"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1997086,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001E7931",
@@ -3000,7 +3005,12 @@
       "keys": [
         "dance-of-knives",
         "ranks-to-dance-of-knives"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1997105,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001E79A1",
@@ -3012,7 +3022,12 @@
       "keys": [
         "mighty-throw",
         "ranks-to-mighty-throw"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1997217,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001E79A8",
@@ -3024,7 +3039,12 @@
       "keys": [
         "familiar",
         "ranks-to-familiar"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1997224,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EB481",
@@ -3040,7 +3060,9 @@
         26,
         19,
         9
-      ]
+      ],
+      "snoId": 2012289,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EB549",
@@ -3057,7 +3079,9 @@
         17,
         29,
         30
-      ]
+      ],
+      "snoId": 2012489,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EB8A4",
@@ -3072,7 +3096,9 @@
       ],
       "allowedItemTypes": [
         30
-      ]
+      ],
+      "snoId": 2013348,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EBBAD",
@@ -3087,7 +3113,9 @@
       ],
       "allowedItemTypes": [
         30
-      ]
+      ],
+      "snoId": 2014125,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EBBB7",
@@ -3102,7 +3130,9 @@
       ],
       "allowedItemTypes": [
         30
-      ]
+      ],
+      "snoId": 2014135,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EBD1B",
@@ -3117,7 +3147,9 @@
       ],
       "allowedItemTypes": [
         30
-      ]
+      ],
+      "snoId": 2014491,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EBD36",
@@ -3132,7 +3164,9 @@
       ],
       "allowedItemTypes": [
         28
-      ]
+      ],
+      "snoId": 2014518,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EBD49",
@@ -3147,7 +3181,9 @@
       ],
       "allowedItemTypes": [
         28
-      ]
+      ],
+      "snoId": 2014537,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EBD60",
