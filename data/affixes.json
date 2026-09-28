@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 248,
+      "processed": 258,
       "total": 294,
       "status": "partial"
     }
@@ -4469,7 +4469,9 @@
       ],
       "allowedItemTypes": [
         29
-      ]
+      ],
+      "snoId": 2540908,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026C56E",
@@ -4483,7 +4485,9 @@
       ],
       "allowedItemTypes": [
         29
-      ]
+      ],
+      "snoId": 2540910,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026C570",
@@ -4497,7 +4501,9 @@
       ],
       "allowedItemTypes": [
         29
-      ]
+      ],
+      "snoId": 2540912,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00270AD0",
@@ -4519,7 +4525,9 @@
       "allowedItemTypes": [
         19,
         0
-      ]
+      ],
+      "snoId": 2558672,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00270AF5",
@@ -4533,7 +4541,13 @@
       "keys": [
         "cold-damage",
         "cold-damage-multiplier"
-      ]
+      ],
+      "allowedItemTypes": [
+        19,
+        0
+      ],
+      "snoId": 2558709,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00270AF7",
@@ -4552,7 +4566,9 @@
       "allowedItemTypes": [
         19,
         0
-      ]
+      ],
+      "snoId": 2558711,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00270AF9",
@@ -4566,7 +4582,13 @@
       "keys": [
         "shadow-damage",
         "shadow-damage-multiplier"
-      ]
+      ],
+      "allowedItemTypes": [
+        19,
+        0
+      ],
+      "snoId": 2558713,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00270AFB",
@@ -4584,7 +4606,9 @@
       "allowedItemTypes": [
         19,
         0
-      ]
+      ],
+      "snoId": 2558715,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00270AFD",
@@ -4602,7 +4626,9 @@
       "allowedItemTypes": [
         19,
         0
-      ]
+      ],
+      "snoId": 2558717,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00270AFF",
@@ -4614,7 +4640,13 @@
       "keys": [
         "holy-damage",
         "holy-damage-multiplier"
-      ]
+      ],
+      "allowedItemTypes": [
+        19,
+        0
+      ],
+      "snoId": 2558719,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00273C0A",
