@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 140,
+      "processed": 152,
       "total": 294,
       "status": "partial"
     }
@@ -2560,7 +2560,12 @@
       "keys": [
         "ice-blades",
         "ranks-to-ice-blades"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1927010,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6764",
@@ -2572,7 +2577,12 @@
       "keys": [
         "lightning-spear",
         "ranks-to-lightning-spear"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1927012,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6766",
@@ -2584,7 +2594,12 @@
       "keys": [
         "meteor",
         "ranks-to-meteor"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1927014,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6768",
@@ -2596,7 +2611,12 @@
       "keys": [
         "teleport",
         "ranks-to-teleport"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1927016,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E25",
@@ -2608,7 +2628,13 @@
       "keys": [
         "brawling-skills",
         "ranks-to-brawling-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        29,
+        26
+      ],
+      "snoId": 1928741,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E27",
@@ -2620,7 +2646,13 @@
       "keys": [
         "weaponmastery-skills",
         "ranks-to-weaponmastery-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        26
+      ],
+      "snoId": 1928743,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E2B",
@@ -2640,7 +2672,9 @@
       "allowedItemTypes": [
         17,
         26
-      ]
+      ],
+      "snoId": 1928747,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E2D",
@@ -2652,7 +2686,13 @@
       "keys": [
         "companion-skills",
         "ranks-to-companion-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        26
+      ],
+      "snoId": 1928749,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E2F",
@@ -2668,7 +2708,9 @@
       "allowedItemTypes": [
         30,
         26
-      ]
+      ],
+      "snoId": 1928751,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E31",
@@ -2684,7 +2726,9 @@
       "allowedItemTypes": [
         28,
         26
-      ]
+      ],
+      "snoId": 1928753,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E33",
@@ -2696,7 +2740,13 @@
       "keys": [
         "wrath-skills",
         "ranks-to-wrath-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        29,
+        26
+      ],
+      "snoId": 1928755,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E3D",
@@ -2708,7 +2758,13 @@
       "keys": [
         "conjuration-skills",
         "ranks-to-conjuration-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        26
+      ],
+      "snoId": 1928765,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E3F",
