@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 176,
+      "processed": 188,
       "total": 294,
       "status": "partial"
     }
@@ -3198,7 +3198,9 @@
       ],
       "allowedItemTypes": [
         28
-      ]
+      ],
+      "snoId": 2014560,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EBDB9",
@@ -3213,7 +3215,9 @@
       ],
       "allowedItemTypes": [
         28
-      ]
+      ],
+      "snoId": 2014649,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EBDFD",
@@ -3229,7 +3233,9 @@
       "allowedItemTypes": [
         29,
         26
-      ]
+      ],
+      "snoId": 2014717,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EBEE9",
@@ -3244,7 +3250,9 @@
       ],
       "allowedItemTypes": [
         29
-      ]
+      ],
+      "snoId": 2014953,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EC0FE",
@@ -3259,7 +3267,9 @@
       ],
       "allowedItemTypes": [
         29
-      ]
+      ],
+      "snoId": 2015486,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EC119",
@@ -3274,7 +3284,9 @@
       ],
       "allowedItemTypes": [
         29
-      ]
+      ],
+      "snoId": 2015513,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EC199",
@@ -3289,7 +3301,9 @@
       ],
       "allowedItemTypes": [
         29
-      ]
+      ],
+      "snoId": 2015641,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001EC1B8",
@@ -3304,7 +3318,9 @@
       ],
       "allowedItemTypes": [
         17
-      ]
+      ],
+      "snoId": 2015672,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001ED05A",
@@ -3319,7 +3335,9 @@
       ],
       "allowedItemTypes": [
         17
-      ]
+      ],
+      "snoId": 2019418,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001ED0CB",
@@ -3334,7 +3352,9 @@
       ],
       "allowedItemTypes": [
         17
-      ]
+      ],
+      "snoId": 2019531,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001ED1D4",
@@ -3349,7 +3369,9 @@
       ],
       "allowedItemTypes": [
         17
-      ]
+      ],
+      "snoId": 2019796,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001ED2C8",
@@ -3365,7 +3387,9 @@
       "allowedItemTypes": [
         16,
         26
-      ]
+      ],
+      "snoId": 2020040,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001ED2E9",
