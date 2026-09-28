@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 40,
+      "processed": 50,
       "total": 294,
       "status": "partial"
     }
@@ -815,7 +815,12 @@
       "keys": [
         "whirlwind",
         "ranks-to-whirlwind"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1861920,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C692A",
@@ -827,7 +832,12 @@
       "keys": [
         "challenging-shout",
         "ranks-to-challenging-shout"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1861930,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C692C",
@@ -839,7 +849,12 @@
       "keys": [
         "charge",
         "ranks-to-charge"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1861932,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C692E",
@@ -851,7 +866,12 @@
       "keys": [
         "death-blow",
         "ranks-to-death-blow"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1861934,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C6935",
@@ -863,7 +883,12 @@
       "keys": [
         "ground-stomp",
         "ranks-to-ground-stomp"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1861941,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C6938",
@@ -875,7 +900,12 @@
       "keys": [
         "iron-skin",
         "ranks-to-iron-skin"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1861944,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C693A",
@@ -887,7 +917,12 @@
       "keys": [
         "kick",
         "ranks-to-kick"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1861946,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C6941",
@@ -899,7 +934,12 @@
       "keys": [
         "leap",
         "ranks-to-leap"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1861953,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C6943",
@@ -911,7 +951,12 @@
       "keys": [
         "rallying-cry",
         "ranks-to-rallying-cry"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1861955,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C6945",
@@ -923,7 +968,12 @@
       "keys": [
         "rupture",
         "ranks-to-rupture"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1861957,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C6947",
