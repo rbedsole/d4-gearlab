@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 70,
+      "processed": 80,
       "total": 294,
       "status": "partial"
     }
@@ -1325,7 +1325,12 @@
       "keys": [
         "invigorating-strike",
         "ranks-to-invigorating-strike"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1873203,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9535",
@@ -1337,7 +1342,12 @@
       "keys": [
         "forceful-arrow",
         "ranks-to-forceful-arrow"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1873205,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9537",
@@ -1349,7 +1359,12 @@
       "keys": [
         "blade-shift",
         "ranks-to-blade-shift"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1873207,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C953B",
@@ -1361,7 +1376,12 @@
       "keys": [
         "rapid-fire",
         "ranks-to-rapid-fire"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1873211,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C953D",
@@ -1373,7 +1393,12 @@
       "keys": [
         "flurry",
         "ranks-to-flurry"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1873213,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C953F",
@@ -1385,7 +1410,12 @@
       "keys": [
         "barrage",
         "ranks-to-barrage"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1873215,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9541",
@@ -1397,7 +1427,12 @@
       "keys": [
         "twisting-blades",
         "ranks-to-twisting-blades"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1873217,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9543",
@@ -1409,7 +1444,12 @@
       "keys": [
         "penetrating-shot",
         "ranks-to-penetrating-shot"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1873219,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9545",
@@ -1421,7 +1461,12 @@
       "keys": [
         "poison-imbuement",
         "ranks-to-poison-imbuement"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1873221,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9547",
@@ -1433,7 +1478,12 @@
       "keys": [
         "caltrops",
         "ranks-to-caltrops"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1873223,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9549",
