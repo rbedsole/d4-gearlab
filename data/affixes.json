@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 224,
+      "processed": 236,
       "total": 294,
       "status": "partial"
     }
@@ -4055,7 +4055,12 @@
       "keys": [
         "hell-fracture",
         "ranks-to-hell-fracture"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 2534722,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD44",
@@ -4067,7 +4072,12 @@
       "keys": [
         "umbral-chains",
         "ranks-to-umbral-chains"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 2534724,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD46",
@@ -4079,7 +4089,12 @@
       "keys": [
         "blazing-scream",
         "ranks-to-blazing-scream"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 2534726,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD48",
@@ -4091,7 +4106,12 @@
       "keys": [
         "dread-claws",
         "ranks-to-dread-claws"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 2534728,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD4D",
@@ -4103,7 +4123,12 @@
       "keys": [
         "command-fallen",
         "ranks-to-command-fallen"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 2534733,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD68",
@@ -4115,7 +4140,12 @@
       "keys": [
         "molten-bomb",
         "ranks-to-molten-bomb"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 2534760,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD6A",
@@ -4127,7 +4157,12 @@
       "keys": [
         "doom",
         "ranks-to-doom"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 2534762,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD6C",
@@ -4139,7 +4174,12 @@
       "keys": [
         "hellion-sting",
         "ranks-to-hellion-sting"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 2534764,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD71",
@@ -4151,7 +4191,12 @@
       "keys": [
         "wall-of-agony",
         "ranks-to-wall-of-agony"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 2534769,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD78",
@@ -4163,7 +4208,12 @@
       "keys": [
         "tortured-wretch",
         "ranks-to-tortured-wretch"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 2534776,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD7A",
@@ -4175,7 +4225,12 @@
       "keys": [
         "dark-prison",
         "ranks-to-dark-prison"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 2534778,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD7C",
@@ -4187,7 +4242,12 @@
       "keys": [
         "nether-step",
         "ranks-to-nether-step"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 2534780,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD7E",
