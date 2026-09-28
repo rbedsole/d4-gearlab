@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 236,
+      "processed": 248,
       "total": 294,
       "status": "partial"
     }
@@ -4259,7 +4259,12 @@
       "keys": [
         "rampage",
         "ranks-to-rampage"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 2534782,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD80",
@@ -4271,7 +4276,12 @@
       "keys": [
         "infernal-breath",
         "ranks-to-infernal-breath"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 2534784,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD83",
@@ -4283,7 +4293,12 @@
       "keys": [
         "tyrants-grasp",
         "ranks-to-tyrants-grasp"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 2534787,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD85",
@@ -4295,7 +4310,12 @@
       "keys": [
         "profane-sentinel",
         "ranks-to-profane-sentinel"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 2534789,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD87",
@@ -4307,7 +4327,12 @@
       "keys": [
         "sigil-of-subversion",
         "ranks-to-sigil-of-subversion"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 2534791,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD89",
@@ -4319,7 +4344,12 @@
       "keys": [
         "sigil-of-summons",
         "ranks-to-sigil-of-summons"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 2534793,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026AD8B",
@@ -4331,7 +4361,12 @@
       "keys": [
         "sigil-of-chaos",
         "ranks-to-sigil-of-chaos"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 2534795,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026ADC2",
@@ -4343,7 +4378,13 @@
       "keys": [
         "occult-skills",
         "ranks-to-occult-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        29,
+        26
+      ],
+      "snoId": 2534850,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026ADC4",
@@ -4355,7 +4396,13 @@
       "keys": [
         "hellfire-skills",
         "ranks-to-hellfire-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        29,
+        26
+      ],
+      "snoId": 2534852,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026ADC6",
@@ -4367,7 +4414,13 @@
       "keys": [
         "abyss-skills",
         "ranks-to-abyss-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        26
+      ],
+      "snoId": 2534854,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026ADC8",
@@ -4379,7 +4432,13 @@
       "keys": [
         "demonology-skills",
         "ranks-to-demonology-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        26
+      ],
+      "snoId": 2534856,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026ADCD",
@@ -4391,7 +4450,12 @@
       "keys": [
         "bombardment",
         "ranks-to-bombardment"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 2534861,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0026C56C",
