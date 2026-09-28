@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 92,
+      "processed": 104,
       "total": 294,
       "status": "partial"
     }
@@ -1699,7 +1699,12 @@
       "keys": [
         "maul",
         "ranks-to-maul"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1884256,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC062",
@@ -1711,7 +1716,12 @@
       "keys": [
         "landslide",
         "ranks-to-landslide"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1884258,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC064",
@@ -1723,7 +1733,12 @@
       "keys": [
         "pulverize",
         "ranks-to-pulverize"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1884260,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC066",
@@ -1735,7 +1750,12 @@
       "keys": [
         "tornado",
         "ranks-to-tornado"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1884262,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC068",
@@ -1747,7 +1767,12 @@
       "keys": [
         "lightning-storm",
         "ranks-to-lightning-storm"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1884264,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC06A",
@@ -1759,7 +1784,12 @@
       "keys": [
         "shred",
         "ranks-to-shred"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1884266,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC06D",
@@ -1771,7 +1801,12 @@
       "keys": [
         "blood-howl",
         "ranks-to-blood-howl"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1884269,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC06F",
@@ -1783,7 +1818,12 @@
       "keys": [
         "boulder",
         "ranks-to-boulder"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1884271,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC071",
@@ -1795,7 +1835,12 @@
       "keys": [
         "cyclone-armor",
         "ranks-to-cyclone-armor"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1884273,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC073",
@@ -1807,7 +1852,12 @@
       "keys": [
         "debilitating-roar",
         "ranks-to-debilitating-roar"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1884275,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC075",
@@ -1819,7 +1869,12 @@
       "keys": [
         "earthen-bulwark",
         "ranks-to-earthen-bulwark"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1884277,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC077",
@@ -1831,7 +1886,12 @@
       "keys": [
         "hurricane",
         "ranks-to-hurricane"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1884279,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC183",
