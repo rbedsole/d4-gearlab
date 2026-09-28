@@ -11,10 +11,11 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 288,
+      "processed": 294,
       "total": 294,
-      "status": "partial"
-    }
+      "status": "complete"
+    },
+    "d4lootbench_build": "Revalidated against DiabloTools/d4data build 3.2.1.73552"
   },
   "affixes": [
     {
@@ -5168,7 +5169,12 @@
       "keys": [
         "pyromancy-skills",
         "ranks-to-pyromancy-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624427,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280BAD",
@@ -5180,7 +5186,12 @@
       "keys": [
         "shock-skills",
         "ranks-to-shock-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624429,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280BAF",
@@ -5195,7 +5206,9 @@
       ],
       "allowedItemTypes": [
         26
-      ]
+      ],
+      "snoId": 2624431,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280BB1",
@@ -5210,7 +5223,9 @@
       ],
       "allowedItemTypes": [
         26
-      ]
+      ],
+      "snoId": 2624433,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280BB3",
@@ -5225,7 +5240,9 @@
       ],
       "allowedItemTypes": [
         26
-      ]
+      ],
+      "snoId": 2624435,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280BB5",
@@ -5240,7 +5257,9 @@
       ],
       "allowedItemTypes": [
         26
-      ]
+      ],
+      "snoId": 2624437,
+      "gameBuild": "3.2.1.73552"
     }
   ]
 }
