@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 60,
+      "processed": 70,
       "total": 294,
       "status": "partial"
     }
@@ -1155,7 +1155,12 @@
       "keys": [
         "blood-lance",
         "ranks-to-blood-lance"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1867440,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7EB2",
@@ -1167,7 +1172,12 @@
       "keys": [
         "blood-mist",
         "ranks-to-blood-mist"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1867442,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7EB6",
@@ -1179,7 +1189,12 @@
       "keys": [
         "bone-prison",
         "ranks-to-bone-prison"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1867446,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7EB8",
@@ -1191,7 +1206,12 @@
       "keys": [
         "bone-spirit",
         "ranks-to-bone-spirit"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1867448,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7EBA",
@@ -1203,7 +1223,12 @@
       "keys": [
         "corpse-explosion",
         "ranks-to-corpse-explosion"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1867450,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7EBC",
@@ -1215,7 +1240,12 @@
       "keys": [
         "corpse-tendrils",
         "ranks-to-corpse-tendrils"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1867452,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7EBE",
@@ -1227,7 +1257,12 @@
       "keys": [
         "decrepify",
         "ranks-to-decrepify"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1867454,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7EC0",
@@ -1239,7 +1274,12 @@
       "keys": [
         "iron-maiden",
         "ranks-to-iron-maiden"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1867456,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C952F",
@@ -1251,7 +1291,12 @@
       "keys": [
         "heartseeker",
         "ranks-to-heartseeker"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1873199,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9531",
@@ -1263,7 +1308,12 @@
       "keys": [
         "puncture",
         "ranks-to-puncture"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1873201,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9533",
