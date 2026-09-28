@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 50,
+      "processed": 60,
       "total": 294,
       "status": "partial"
     }
@@ -985,7 +985,12 @@
       "keys": [
         "steel-grasp",
         "ranks-to-steel-grasp"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1861959,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C6949",
@@ -997,7 +1002,12 @@
       "keys": [
         "war-cry",
         "ranks-to-war-cry"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1861961,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7E6E",
@@ -1009,7 +1019,12 @@
       "keys": [
         "bone-splinters",
         "ranks-to-bone-splinters"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1867374,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7E7D",
@@ -1021,7 +1036,12 @@
       "keys": [
         "decompose",
         "ranks-to-decompose"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1867389,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7E84",
@@ -1033,7 +1053,12 @@
       "keys": [
         "hemorrhage",
         "ranks-to-hemorrhage"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1867396,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7E88",
@@ -1045,7 +1070,12 @@
       "keys": [
         "reap",
         "ranks-to-reap"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1867400,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7E90",
@@ -1057,7 +1087,12 @@
       "keys": [
         "bone-spear",
         "ranks-to-bone-spear"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1867408,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7E9A",
@@ -1069,7 +1104,12 @@
       "keys": [
         "blight",
         "ranks-to-blight"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1867418,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7EA1",
@@ -1081,7 +1121,12 @@
       "keys": [
         "sever",
         "ranks-to-sever"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1867425,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7EA8",
@@ -1093,7 +1138,12 @@
       "keys": [
         "blood-surge",
         "ranks-to-blood-surge"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1867432,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C7EB0",
