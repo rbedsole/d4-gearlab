@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 200,
+      "processed": 212,
       "total": 294,
       "status": "partial"
     }
@@ -3611,7 +3611,12 @@
       "keys": [
         "divine-lance",
         "ranks-to-divine-lance"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 2470114,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0025DA8C",
@@ -3634,7 +3639,9 @@
         17,
         30,
         19
-      ]
+      ],
+      "snoId": 2480780,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261AA5",
@@ -3646,7 +3653,12 @@
       "keys": [
         "holy-bolt",
         "ranks-to-holy-bolt"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 2497189,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261AA7",
@@ -3658,7 +3670,12 @@
       "keys": [
         "clash",
         "ranks-to-clash"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 2497191,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261ABB",
@@ -3670,7 +3687,12 @@
       "keys": [
         "fanaticism-aura",
         "ranks-to-fanaticism-aura"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 2497211,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261ABD",
@@ -3682,7 +3704,12 @@
       "keys": [
         "holy-light-aura",
         "ranks-to-holy-light-aura"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 2497213,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261ABF",
@@ -3694,7 +3721,12 @@
       "keys": [
         "defiance-aura",
         "ranks-to-defiance-aura"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 2497215,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261AC2",
@@ -3706,7 +3738,13 @@
       "keys": [
         "aura-skills",
         "ranks-to-aura-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        17,
+        26
+      ],
+      "snoId": 2497218,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261AC7",
@@ -3718,7 +3756,13 @@
       "keys": [
         "valor-skills",
         "ranks-to-valor-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        26
+      ],
+      "snoId": 2497223,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261ACC",
@@ -3730,7 +3774,13 @@
       "keys": [
         "arbiter-of-justice",
         "ranks-to-arbiter-of-justice"
-      ]
+      ],
+      "allowedItemTypes": [
+        29,
+        26
+      ],
+      "snoId": 2497228,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261ACE",
@@ -3742,7 +3792,12 @@
       "keys": [
         "aegis",
         "ranks-to-aegis"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 2497230,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261AD8",
@@ -3754,7 +3809,12 @@
       "keys": [
         "shield-charge",
         "ranks-to-shield-charge"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 2497240,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00261ADD",
