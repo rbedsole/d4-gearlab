@@ -6,7 +6,15 @@
     "validated": "2026-09-28",
     "allowed_item_types_field": "arAllowedItemLabels",
     "legality_coverage": "78/78 Spiritborn-compatible catalog affixes",
-    "display_names": "Retained from prior canonical catalog; legality refreshed from current extracted game data."
+    "display_names": "Retained from prior canonical catalog; legality refreshed from current extracted game data.",
+    "current_enrichment": {
+      "game_build": "3.2.1.73552",
+      "source": "DiabloTools/d4data",
+      "field": "AffixDefinition.arAllowedItemLabels",
+      "processed": 10,
+      "total": 294,
+      "status": "partial"
+    }
   },
   "affixes": [
     {
@@ -25,7 +33,9 @@
         28,
         16,
         19
-      ]
+      ],
+      "snoId": 1829554,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAB4",
@@ -41,7 +51,9 @@
         26,
         19,
         28
-      ]
+      ],
+      "snoId": 1829556,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAB6",
@@ -59,7 +71,9 @@
         29,
         16,
         15
-      ]
+      ],
+      "snoId": 1829558,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAB8",
@@ -77,7 +91,9 @@
         28,
         19,
         23
-      ]
+      ],
+      "snoId": 1829560,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEABA",
@@ -96,7 +112,9 @@
         30,
         29,
         19
-      ]
+      ],
+      "snoId": 1829562,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEABE",
@@ -108,7 +126,16 @@
       ],
       "keys": [
         "intelligence"
-      ]
+      ],
+      "allowedItemTypes": [
+        19,
+        16,
+        17,
+        30,
+        29
+      ],
+      "snoId": 1829566,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAC2",
@@ -120,7 +147,16 @@
       ],
       "keys": [
         "strength"
-      ]
+      ],
+      "allowedItemTypes": [
+        19,
+        16,
+        17,
+        30,
+        29
+      ],
+      "snoId": 1829570,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAC6",
@@ -132,7 +168,16 @@
       ],
       "keys": [
         "willpower"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        17,
+        30,
+        29,
+        19
+      ],
+      "snoId": 1829574,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEACE",
@@ -150,7 +195,9 @@
         23,
         26,
         15
-      ]
+      ],
+      "snoId": 1829582,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAD2",
@@ -167,7 +214,9 @@
       "allowedItemTypes": [
         19,
         0
-      ]
+      ],
+      "snoId": 1829586,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001BEAD4",
