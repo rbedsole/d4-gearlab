@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 278,
+      "processed": 288,
       "total": 294,
       "status": "partial"
     }
@@ -4998,7 +4998,12 @@
       "keys": [
         "blood-skills",
         "ranks-to-blood-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624405,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B97",
@@ -5010,7 +5015,12 @@
       "keys": [
         "bone-skills",
         "ranks-to-bone-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624407,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B99",
@@ -5022,7 +5032,12 @@
       "keys": [
         "darkness-skills",
         "ranks-to-darkness-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624409,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B9B",
@@ -5034,7 +5049,12 @@
       "keys": [
         "minion-skills",
         "ranks-to-minion-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624411,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B9D",
@@ -5046,7 +5066,12 @@
       "keys": [
         "disciple-skills",
         "ranks-to-disciple-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624413,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B9F",
@@ -5058,7 +5083,12 @@
       "keys": [
         "juggernaut-skills",
         "ranks-to-juggernaut-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624415,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280BA1",
@@ -5070,7 +5100,12 @@
       "keys": [
         "cutthroat-skills",
         "ranks-to-cutthroat-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624417,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280BA5",
@@ -5082,7 +5117,12 @@
       "keys": [
         "marksman-skills",
         "ranks-to-marksman-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624421,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280BA7",
@@ -5094,7 +5134,12 @@
       "keys": [
         "trap-skills",
         "ranks-to-trap-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624423,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280BA9",
@@ -5106,7 +5151,12 @@
       "keys": [
         "frost-skills",
         "ranks-to-frost-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624425,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280BAB",
