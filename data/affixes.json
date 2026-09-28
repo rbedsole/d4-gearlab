@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 80,
+      "processed": 92,
       "total": 294,
       "status": "partial"
     }
@@ -1495,7 +1495,12 @@
       "keys": [
         "cold-imbuement",
         "ranks-to-cold-imbuement"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1873225,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C954B",
@@ -1507,7 +1512,12 @@
       "keys": [
         "concealment",
         "ranks-to-concealment"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1873227,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C954D",
@@ -1519,7 +1529,12 @@
       "keys": [
         "dark-shroud",
         "ranks-to-dark-shroud"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1873229,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C954F",
@@ -1531,7 +1546,12 @@
       "keys": [
         "dash",
         "ranks-to-dash"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1873231,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9551",
@@ -1543,7 +1563,12 @@
       "keys": [
         "poison-trap",
         "ranks-to-poison-trap"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1873233,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9553",
@@ -1555,7 +1580,12 @@
       "keys": [
         "shadow-imbuement",
         "ranks-to-shadow-imbuement"
-      ]
+      ],
+      "allowedItemTypes": [
+        16
+      ],
+      "snoId": 1873235,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9555",
@@ -1567,7 +1597,12 @@
       "keys": [
         "shadow-step",
         "ranks-to-shadow-step"
-      ]
+      ],
+      "allowedItemTypes": [
+        29
+      ],
+      "snoId": 1873237,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001C9557",
@@ -1579,7 +1614,12 @@
       "keys": [
         "smoke-grenade",
         "ranks-to-smoke-grenade"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1873239,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC052",
@@ -1591,7 +1631,12 @@
       "keys": [
         "earth-spike",
         "ranks-to-earth-spike"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1884242,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC054",
@@ -1603,7 +1648,12 @@
       "keys": [
         "claw",
         "ranks-to-claw"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1884244,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC056",
@@ -1615,7 +1665,12 @@
       "keys": [
         "storm-strike",
         "ranks-to-storm-strike"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1884246,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC058",
@@ -1627,7 +1682,12 @@
       "keys": [
         "wind-shear",
         "ranks-to-wind-shear"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 1884248,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001CC060",
