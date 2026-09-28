@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 268,
+      "processed": 278,
       "total": 294,
       "status": "partial"
     }
@@ -4831,7 +4831,9 @@
       "allowedItemTypes": [
         8,
         1
-      ]
+      ],
+      "snoId": 2620563,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B83",
@@ -4843,7 +4845,12 @@
       "keys": [
         "bludgeoning-skills",
         "ranks-to-bludgeoning-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624387,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B85",
@@ -4855,7 +4862,12 @@
       "keys": [
         "dualwield-skills",
         "ranks-to-dualwield-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624389,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B87",
@@ -4867,7 +4879,12 @@
       "keys": [
         "slashing-skills",
         "ranks-to-slashing-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624391,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B89",
@@ -4879,7 +4896,12 @@
       "keys": [
         "earth-skills",
         "ranks-to-earth-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624393,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B8B",
@@ -4891,7 +4913,12 @@
       "keys": [
         "naturemagic-skills",
         "ranks-to-naturemagic-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624395,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B8D",
@@ -4903,7 +4930,12 @@
       "keys": [
         "shapeshifting-skills",
         "ranks-to-shapeshifting-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624397,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B8F",
@@ -4915,7 +4947,12 @@
       "keys": [
         "storm-skills",
         "ranks-to-storm-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624399,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B91",
@@ -4927,7 +4964,12 @@
       "keys": [
         "werebear-skills",
         "ranks-to-werebear-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624401,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B93",
@@ -4939,7 +4981,12 @@
       "keys": [
         "werewolf-skills",
         "ranks-to-werewolf-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2624403,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00280B95",
