@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 116,
+      "processed": 128,
       "total": 294,
       "status": "partial"
     }
@@ -2121,7 +2121,15 @@
       ],
       "keys": [
         "energy-regeneration"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        17,
+        29,
+        30
+      ],
+      "snoId": 1924656,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D5E33",
@@ -2132,7 +2140,15 @@
       ],
       "keys": [
         "spirit-regeneration"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        17,
+        29,
+        30
+      ],
+      "snoId": 1924659,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D5E36",
@@ -2143,7 +2159,15 @@
       ],
       "keys": [
         "mana-regeneration"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        17,
+        29,
+        30
+      ],
+      "snoId": 1924662,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D5E38",
@@ -2154,7 +2178,15 @@
       ],
       "keys": [
         "fury-regeneration"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        17,
+        29,
+        30
+      ],
+      "snoId": 1924664,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D5E3A",
@@ -2165,7 +2197,15 @@
       ],
       "keys": [
         "essence-regeneration"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        17,
+        29,
+        30
+      ],
+      "snoId": 1924666,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6244",
@@ -2185,7 +2225,9 @@
         9,
         23,
         15
-      ]
+      ],
+      "snoId": 1925700,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D62F1",
@@ -2215,7 +2257,9 @@
         47,
         61,
         62
-      ]
+      ],
+      "snoId": 1925873,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D673F",
@@ -2227,7 +2271,12 @@
       "keys": [
         "fireball",
         "ranks-to-fireball"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1926975,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6741",
@@ -2239,7 +2288,12 @@
       "keys": [
         "ice-shards",
         "ranks-to-ice-shards"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1926977,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6743",
@@ -2251,7 +2305,12 @@
       "keys": [
         "chain-lightning",
         "ranks-to-chain-lightning"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1926979,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6745",
@@ -2263,7 +2322,12 @@
       "keys": [
         "charged-bolts",
         "ranks-to-charged-bolts"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1926981,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6747",
@@ -2275,7 +2339,12 @@
       "keys": [
         "incinerate",
         "ranks-to-incinerate"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 1926983,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6749",
