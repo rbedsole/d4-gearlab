@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 152,
+      "processed": 164,
       "total": 294,
       "status": "partial"
     }
@@ -2776,7 +2776,13 @@
       "keys": [
         "mastery-skills",
         "ranks-to-mastery-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        29,
+        26
+      ],
+      "snoId": 1928767,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E41",
@@ -2788,7 +2794,13 @@
       "keys": [
         "agility-skills",
         "ranks-to-agility-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        29,
+        26
+      ],
+      "snoId": 1928769,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E43",
@@ -2800,7 +2812,13 @@
       "keys": [
         "subterfuge-skills",
         "ranks-to-subterfuge-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        17,
+        26
+      ],
+      "snoId": 1928771,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E45",
@@ -2812,7 +2830,13 @@
       "keys": [
         "imbuements-skills",
         "ranks-to-imbuements-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        26
+      ],
+      "snoId": 1928773,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E47",
@@ -2824,7 +2848,13 @@
       "keys": [
         "macabre-skills",
         "ranks-to-macabre-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        17,
+        26
+      ],
+      "snoId": 1928775,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E49",
@@ -2836,7 +2866,13 @@
       "keys": [
         "curse-skills",
         "ranks-to-curse-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        26
+      ],
+      "snoId": 1928777,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E4B",
@@ -2848,7 +2884,13 @@
       "keys": [
         "corpse-skills",
         "ranks-to-corpse-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        29,
+        26
+      ],
+      "snoId": 1928779,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E4F",
@@ -2860,7 +2902,13 @@
       "keys": [
         "skeleton-warrior",
         "ranks-to-skeleton-warrior"
-      ]
+      ],
+      "allowedItemTypes": [
+        16,
+        29
+      ],
+      "snoId": 1928783,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E51",
@@ -2872,7 +2920,13 @@
       "keys": [
         "skeleton-mage",
         "ranks-to-skeleton-mage"
-      ]
+      ],
+      "allowedItemTypes": [
+        28,
+        30
+      ],
+      "snoId": 1928785,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E53",
@@ -2884,7 +2938,12 @@
       "keys": [
         "golem",
         "ranks-to-golem"
-      ]
+      ],
+      "allowedItemTypes": [
+        17
+      ],
+      "snoId": 1928787,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E63",
@@ -2898,7 +2957,9 @@
       ],
       "allowedItemTypes": [
         15
-      ]
+      ],
+      "snoId": 1928803,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001D6E65",
@@ -2912,7 +2973,10 @@
       ],
       "keys": [
         "projectile-skill-damage"
-      ]
+      ],
+      "allowedItemTypes": [],
+      "snoId": 1928805,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001E791E",
