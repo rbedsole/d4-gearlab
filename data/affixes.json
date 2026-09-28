@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 258,
+      "processed": 268,
       "total": 294,
       "status": "partial"
     }
@@ -4661,7 +4661,9 @@
       ],
       "allowedItemTypes": [
         26
-      ]
+      ],
+      "snoId": 2571274,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002782A5",
@@ -4673,7 +4675,12 @@
       "keys": [
         "ancients-skills",
         "ranks-to-ancients-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2589349,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002782A9",
@@ -4685,7 +4692,12 @@
       "keys": [
         "dust-devil",
         "ranks-to-dust-devil"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2589353,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002782AB",
@@ -4697,7 +4709,12 @@
       "keys": [
         "earthquake",
         "ranks-to-earthquake"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2589355,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002782AF",
@@ -4709,7 +4726,12 @@
       "keys": [
         "iron-shrapnel",
         "ranks-to-iron-shrapnel"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2589359,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002782B1",
@@ -4721,7 +4743,12 @@
       "keys": [
         "grenade-skills",
         "ranks-to-grenade-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2589361,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002782B3",
@@ -4733,7 +4760,12 @@
       "keys": [
         "shade-skills",
         "ranks-to-shade-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2589363,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002782B5",
@@ -4745,7 +4777,12 @@
       "keys": [
         "arrow-storm",
         "ranks-to-arrow-storm"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2589365,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002782B7",
@@ -4757,7 +4794,12 @@
       "keys": [
         "human-skills",
         "ranks-to-human-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2589367,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002782B9",
@@ -4769,7 +4811,12 @@
       "keys": [
         "versatile-skills",
         "ranks-to-versatile-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2589369,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0027FC93",
