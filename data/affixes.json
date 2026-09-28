@@ -11,7 +11,7 @@
       "game_build": "3.2.1.73552",
       "source": "DiabloTools/d4data",
       "field": "AffixDefinition.arAllowedItemLabels",
-      "processed": 188,
+      "processed": 200,
       "total": 294,
       "status": "partial"
     }
@@ -3404,7 +3404,9 @@
       ],
       "allowedItemTypes": [
         16
-      ]
+      ],
+      "snoId": 2020073,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001ED2F1",
@@ -3419,7 +3421,9 @@
       ],
       "allowedItemTypes": [
         16
-      ]
+      ],
+      "snoId": 2020081,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001ED338",
@@ -3434,7 +3438,9 @@
       ],
       "allowedItemTypes": [
         16
-      ]
+      ],
+      "snoId": 2020152,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x001ED34D",
@@ -3449,7 +3455,9 @@
       ],
       "allowedItemTypes": [
         16
-      ]
+      ],
+      "snoId": 2020173,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0024527F",
@@ -3464,7 +3472,9 @@
       "allowedItemTypes": [
         0,
         28
-      ]
+      ],
+      "snoId": 2380415,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0024F051",
@@ -3476,7 +3486,12 @@
       "keys": [
         "blessed-shield",
         "ranks-to-blessed-shield"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 2420817,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0024F057",
@@ -3488,7 +3503,12 @@
       "keys": [
         "blessed-hammer",
         "ranks-to-blessed-hammer"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 2420823,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0024F06A",
@@ -3500,7 +3520,12 @@
       "keys": [
         "zealot-skills",
         "ranks-to-zealot-skills"
-      ]
+      ],
+      "allowedItemTypes": [
+        26
+      ],
+      "snoId": 2420842,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0025122E",
@@ -3512,7 +3537,12 @@
       "keys": [
         "shield-bash",
         "ranks-to-shield-bash"
-      ]
+      ],
+      "allowedItemTypes": [
+        28
+      ],
+      "snoId": 2429486,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002539AB",
@@ -3524,7 +3554,12 @@
       "keys": [
         "advance",
         "ranks-to-advance"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 2439595,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x00253A6C",
@@ -3536,7 +3571,12 @@
       "keys": [
         "brandish",
         "ranks-to-brandish"
-      ]
+      ],
+      "allowedItemTypes": [
+        30
+      ],
+      "snoId": 2439788,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x002557E4",
@@ -3557,7 +3597,9 @@
         30,
         19,
         15
-      ]
+      ],
+      "snoId": 2447332,
+      "gameBuild": "3.2.1.73552"
     },
     {
       "hash": "0x0025B0E2",
