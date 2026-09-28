@@ -1,21 +1,31 @@
 # D4 GearLab
 
-Mobile-first Diablo IV gear comparison tool.
+Mobile-first Diablo IV build + gear companion.
 
-## v0.2
+## v0.3 foundation
 
-The app now ships with a canonical extracted Diablo IV affix catalog derived from D4LootBench data through the MIT-licensed d4-lootfilter-generator dataset. The UI reads the dataset at runtime and filters to affixes marked All or Spiritborn.
+v0.3 keeps the v0.2 manual comparator and adds the architectural boundary required for build importing.
 
-### Added
-- Canonical affix names, hashes/SNO identifiers and class applicability
-- Source game-data build shown in the UI
-- Spiritborn-compatible affix picker
-- Gear-slot selector in the item model
-- Up to four affixes per item
-- GA, Quality and temper tracking
-- Mobile action bar no longer overlays the form
+Pipeline:
 
-### Deliberately withheld
-The current source catalog does not encode authoritative per-slot affix applicability, so v0.2 does **not** claim that every Spiritborn-compatible affix can roll on every selected slot. Build-priority scoring is also withheld until a build profile is imported.
+Build URL -> Provider Adapter -> Normalized GearLab Build -> Compare / Loot Filter
 
-Next: authoritative slot mappings + Stinger build-profile importer.
+### Separation of concerns
+- Game data: canonical Diablo IDs/catalogs
+- Build data: facts imported from a provider
+- Player data: equipped/candidate items
+- GearLab logic: comparisons and generated filter rules
+
+### UI sections
+Builds / Gear / Compare / Loot Filter
+
+### Normalized build contract
+The new `build-model.js` defines variants, equipment slots, desired affixes/GAs, unique/aspect fields, tempers, masterwork targets, gems, charms, seals, runes, skills, Spirit Hall, paragon, glyphs and mercenary data. Provider-specific leftovers stay in `providerData` rather than leaking into comparator logic.
+
+### Maxroll adapter
+The browser adapter detects Maxroll guide/planner URLs and contains the normalization path for Maxroll planner profile JSON. Direct browser import is capability-tested because Maxroll may restrict cross-origin requests. Import failures are shown explicitly and do not fall back to invented data.
+
+The existing manual comparator remains available when no build is imported.
+
+### Next
+Harden live Maxroll retrieval, map every planner slot/affix to canonical game IDs, then feed selected variant targets into Compare. Loot-filter generation follows only after the normalized build is trustworthy.
