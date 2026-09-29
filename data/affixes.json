@@ -15,7 +15,10 @@
       "total": 294,
       "status": "complete"
     },
-    "d4lootbench_build": "Revalidated against DiabloTools/d4data build 3.2.1.73552"
+    "d4lootbench_build": "Revalidated against DiabloTools/d4data build 3.2.1.73552",
+    "display_name_corrections": {
+      "S04_ResourceGain": "Resource Generation (corrected from legacy truncated label 'Generation')"
+    }
   },
   "affixes": [
     {
@@ -462,12 +465,13 @@
     },
     {
       "hash": "0x001BEB20",
-      "name": "Generation",
+      "name": "Resource Generation",
       "sno": "S04_ResourceGain",
       "classes": [
         "All"
       ],
       "keys": [
+        "resource-generation",
         "generation"
       ],
       "allowedItemTypes": [
