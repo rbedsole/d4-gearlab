@@ -1,0 +1,5765 @@
+{
+  "_meta": {
+    "source": "josdemmers/Diablo4Companion Aspects.enUS.json",
+    "purpose": "Maxroll aspect identity resolution"
+  },
+  "aspects": [
+    {
+      "sno": "578779",
+      "internal": "Legendary_Generic_110",
+      "name": "Accelerating",
+      "snoList": [
+        "578779"
+      ],
+      "internalList": [
+        "Legendary_Generic_110"
+      ]
+    },
+    {
+      "sno": "2547913",
+      "internal": "legendary_warlock_006_x2",
+      "name": "Aggressive",
+      "snoList": [
+        "2547913"
+      ],
+      "internalList": [
+        "legendary_warlock_006_x2"
+      ]
+    },
+    {
+      "sno": "1304554",
+      "internal": "legendary_rogue_118",
+      "name": "Agile",
+      "snoList": [
+        "1304554"
+      ],
+      "internalList": [
+        "legendary_rogue_118"
+      ]
+    },
+    {
+      "sno": "1754892",
+      "internal": "legendary_necro_126",
+      "name": "Aphotic",
+      "snoList": [
+        "1754892"
+      ],
+      "internalList": [
+        "legendary_necro_126"
+      ]
+    },
+    {
+      "sno": "2445862",
+      "internal": "legendary_paladin_039",
+      "name": "Apostle's",
+      "snoList": [
+        "2445862"
+      ],
+      "internalList": [
+        "legendary_paladin_039"
+      ]
+    },
+    {
+      "sno": "2543915",
+      "internal": "legendary_druid_104_x2",
+      "name": "Archdruid's",
+      "snoList": [
+        "2543915"
+      ],
+      "internalList": [
+        "legendary_druid_104_x2"
+      ]
+    },
+    {
+      "sno": "1226355",
+      "internal": "legendary_generic_104",
+      "name": "Assimilation",
+      "snoList": [
+        "1226355"
+      ],
+      "internalList": [
+        "legendary_generic_104"
+      ]
+    },
+    {
+      "sno": "579680",
+      "internal": "legendary_druid_060",
+      "name": "Balanced",
+      "snoList": [
+        "579680"
+      ],
+      "internalList": [
+        "legendary_druid_060"
+      ]
+    },
+    {
+      "sno": "1202439",
+      "internal": "legendary_druid_108",
+      "name": "Ballistic",
+      "snoList": [
+        "1202439"
+      ],
+      "internalList": [
+        "legendary_druid_108"
+      ]
+    },
+    {
+      "sno": "2547980",
+      "internal": "legendary_warlock_028_x2",
+      "name": "Bane-Link",
+      "snoList": [
+        "2547980"
+      ],
+      "internalList": [
+        "legendary_warlock_028_x2"
+      ]
+    },
+    {
+      "sno": "2576352",
+      "internal": "legendary_sorc_137_x2",
+      "name": "Battle Caster's",
+      "snoList": [
+        "2576352"
+      ],
+      "internalList": [
+        "legendary_sorc_137_x2"
+      ]
+    },
+    {
+      "sno": "2569782",
+      "internal": "legendary_barb_011_x2",
+      "name": "Battle Fervor's",
+      "snoList": [
+        "2569782"
+      ],
+      "internalList": [
+        "legendary_barb_011_x2"
+      ]
+    },
+    {
+      "sno": "2614308",
+      "internal": "legendary_barb_058_x2",
+      "name": "Battle-Mad",
+      "snoList": [
+        "2614308"
+      ],
+      "internalList": [
+        "legendary_barb_058_x2"
+      ]
+    },
+    {
+      "sno": "1199208",
+      "internal": "legendary_barb_107",
+      "name": "Bear Clan Berserker's",
+      "snoList": [
+        "1199208"
+      ],
+      "internalList": [
+        "legendary_barb_107"
+      ]
+    },
+    {
+      "sno": "578876",
+      "internal": "legendary_rogue_021",
+      "name": "Bladedancer's",
+      "snoList": [
+        "578876"
+      ],
+      "internalList": [
+        "legendary_rogue_021"
+      ]
+    },
+    {
+      "sno": "2580585",
+      "internal": "legendary_rogue_101_x2",
+      "name": "Blast-Trapper's",
+      "snoList": [
+        "2580585"
+      ],
+      "internalList": [
+        "legendary_rogue_101_x2"
+      ]
+    },
+    {
+      "sno": "2574550",
+      "internal": "legendary_sorc_116_x2",
+      "name": "Blasting",
+      "snoList": [
+        "2574550"
+      ],
+      "internalList": [
+        "legendary_sorc_116_x2"
+      ]
+    },
+    {
+      "sno": "2571947",
+      "internal": "legendary_generic_123_x2",
+      "name": "Blood Boiling",
+      "snoList": [
+        "2571947"
+      ],
+      "internalList": [
+        "legendary_generic_123_x2"
+      ]
+    },
+    {
+      "sno": "621955",
+      "internal": "legendary_necro_067",
+      "name": "Blood Getter's",
+      "snoList": [
+        "621955"
+      ],
+      "internalList": [
+        "legendary_necro_067"
+      ]
+    },
+    {
+      "sno": "667442",
+      "internal": "legendary_barb_057",
+      "name": "Bold Chieftain's",
+      "snoList": [
+        "667442"
+      ],
+      "internalList": [
+        "legendary_barb_057"
+      ]
+    },
+    {
+      "sno": "609903",
+      "internal": "legendary_necro_016",
+      "name": "Bone Breaker's",
+      "snoList": [
+        "609903"
+      ],
+      "internalList": [
+        "legendary_necro_016"
+      ]
+    },
+    {
+      "sno": "578716",
+      "internal": "legendary_barb_018",
+      "name": "Brawler's",
+      "snoList": [
+        "578716"
+      ],
+      "internalList": [
+        "legendary_barb_018"
+      ]
+    },
+    {
+      "sno": "1969083",
+      "internal": "legendary_rogue_131",
+      "name": "Breakneck Bandit's",
+      "snoList": [
+        "1969083"
+      ],
+      "internalList": [
+        "legendary_rogue_131"
+      ]
+    },
+    {
+      "sno": "1858280",
+      "internal": "legendary_spiritborn_019_x1",
+      "name": "Bristleback",
+      "snoList": [
+        "1858280"
+      ],
+      "internalList": [
+        "legendary_spiritborn_019_x1"
+      ]
+    },
+    {
+      "sno": "1822339",
+      "internal": "legendary_spiritborn_008_x1",
+      "name": "Bruiser's",
+      "snoList": [
+        "1822339"
+      ],
+      "internalList": [
+        "legendary_spiritborn_008_x1"
+      ]
+    },
+    {
+      "sno": "2547805",
+      "internal": "legendary_warlock_001_x2",
+      "name": "Brutal",
+      "snoList": [
+        "2547805"
+      ],
+      "internalList": [
+        "legendary_warlock_001_x2"
+      ]
+    },
+    {
+      "sno": "2617264",
+      "internal": "legendary_paladin_008_x2",
+      "name": "Bulwark's",
+      "snoList": [
+        "2617264"
+      ],
+      "internalList": [
+        "legendary_paladin_008_x2"
+      ]
+    },
+    {
+      "sno": "1222415",
+      "internal": "legendary_necro_119",
+      "name": "Cadaverous",
+      "snoList": [
+        "1222415"
+      ],
+      "internalList": [
+        "legendary_necro_119"
+      ]
+    },
+    {
+      "sno": "578914",
+      "internal": "legendary_sorc_027",
+      "name": "Charged",
+      "snoList": [
+        "578914"
+      ],
+      "internalList": [
+        "legendary_sorc_027"
+      ]
+    },
+    {
+      "sno": "1186374",
+      "internal": "legendary_rogue_111",
+      "name": "Cheat's",
+      "snoList": [
+        "1186374"
+      ],
+      "internalList": [
+        "legendary_rogue_111"
+      ]
+    },
+    {
+      "sno": "2044227",
+      "internal": "S05_BSK_Rogue_004",
+      "name": "Clandestine",
+      "snoList": [
+        "2044227"
+      ],
+      "internalList": [
+        "S05_BSK_Rogue_004"
+      ]
+    },
+    {
+      "sno": "610372",
+      "internal": "legendary_necro_023",
+      "name": "Coldbringer's",
+      "snoList": [
+        "610372"
+      ],
+      "internalList": [
+        "legendary_necro_023"
+      ]
+    },
+    {
+      "sno": "1943568",
+      "internal": "S05_BSK_Rogue_003",
+      "name": "Coldclip",
+      "snoList": [
+        "1943568"
+      ],
+      "internalList": [
+        "S05_BSK_Rogue_003"
+      ]
+    },
+    {
+      "sno": "578845",
+      "internal": "legendary_generic_027",
+      "name": "Conceited",
+      "snoList": [
+        "578845"
+      ],
+      "internalList": [
+        "legendary_generic_027"
+      ]
+    },
+    {
+      "sno": "2574498",
+      "internal": "legendary_sorc_039_x2",
+      "name": "Conjuration Master's",
+      "snoList": [
+        "2574498"
+      ],
+      "internalList": [
+        "legendary_sorc_039_x2"
+      ]
+    },
+    {
+      "sno": "1206645",
+      "internal": "legendary_druid_023",
+      "name": "Crashstone",
+      "snoList": [
+        "1206645"
+      ],
+      "internalList": [
+        "legendary_druid_023"
+      ]
+    },
+    {
+      "sno": "1437499",
+      "internal": "legendary_generic_112",
+      "name": "Craven",
+      "snoList": [
+        "1437499"
+      ],
+      "internalList": [
+        "legendary_generic_112"
+      ]
+    },
+    {
+      "sno": "2575266",
+      "internal": "legendary_fireUser_001_x2",
+      "name": "Cremator's",
+      "snoList": [
+        "2575266"
+      ],
+      "internalList": [
+        "legendary_fireUser_001_x2"
+      ]
+    },
+    {
+      "sno": "2542658",
+      "internal": "legendary_druid_049_x2",
+      "name": "Crushing",
+      "snoList": [
+        "2542658"
+      ],
+      "internalList": [
+        "legendary_druid_049_x2"
+      ]
+    },
+    {
+      "sno": "2556906",
+      "internal": "legendary_barb_004_x2",
+      "name": "Cut to the Bone",
+      "snoList": [
+        "2556906"
+      ],
+      "internalList": [
+        "legendary_barb_004_x2"
+      ]
+    },
+    {
+      "sno": "579709",
+      "internal": "legendary_rogue_010",
+      "name": "Deadeye's",
+      "snoList": [
+        "579709"
+      ],
+      "internalList": [
+        "legendary_rogue_010"
+      ]
+    },
+    {
+      "sno": "578731",
+      "internal": "legendary_barb_023",
+      "name": "Death Wish",
+      "snoList": [
+        "578731"
+      ],
+      "internalList": [
+        "legendary_barb_023"
+      ]
+    },
+    {
+      "sno": "2547920",
+      "internal": "legendary_warlock_009_x2",
+      "name": "Demonic",
+      "snoList": [
+        "2547920"
+      ],
+      "internalList": [
+        "legendary_warlock_009_x2"
+      ]
+    },
+    {
+      "sno": "1199626",
+      "internal": "Legendary_Barb_109",
+      "name": "Devilish",
+      "snoList": [
+        "1199626"
+      ],
+      "internalList": [
+        "Legendary_Barb_109"
+      ]
+    },
+    {
+      "sno": "2557499",
+      "internal": "legendary_barb_005_x2",
+      "name": "Duelist's",
+      "snoList": [
+        "2557499"
+      ],
+      "internalList": [
+        "legendary_barb_005_x2"
+      ]
+    },
+    {
+      "sno": "652950",
+      "internal": "legendary_barb_019",
+      "name": "Dust Devil's",
+      "snoList": [
+        "652950"
+      ],
+      "internalList": [
+        "legendary_barb_019"
+      ]
+    },
+    {
+      "sno": "2582877",
+      "internal": "legendary_barb_014_x2",
+      "name": "Earthstriker's",
+      "snoList": [
+        "2582877"
+      ],
+      "internalList": [
+        "legendary_barb_014_x2"
+      ]
+    },
+    {
+      "sno": "578875",
+      "internal": "legendary_generic_063",
+      "name": "Edgemaster's",
+      "snoList": [
+        "578875"
+      ],
+      "internalList": [
+        "legendary_generic_063"
+      ]
+    },
+    {
+      "sno": "1213533",
+      "internal": "legendary_sorc_127",
+      "name": "Elementalist's",
+      "snoList": [
+        "1213533"
+      ],
+      "internalList": [
+        "legendary_sorc_127"
+      ]
+    },
+    {
+      "sno": "1223890",
+      "internal": "legendary_generic_103",
+      "name": "Eluding",
+      "snoList": [
+        "1223890"
+      ],
+      "internalList": [
+        "legendary_generic_103"
+      ]
+    },
+    {
+      "sno": "2542976",
+      "internal": "legendary_druid_114_x2",
+      "name": "Embattled",
+      "snoList": [
+        "2542976"
+      ],
+      "internalList": [
+        "legendary_druid_114_x2"
+      ]
+    },
+    {
+      "sno": "2576122",
+      "internal": "legendary_coldUser_002_x2",
+      "name": "Encased",
+      "snoList": [
+        "2576122"
+      ],
+      "internalList": [
+        "legendary_coldUser_002_x2"
+      ]
+    },
+    {
+      "sno": "578879",
+      "internal": "legendary_rogue_014",
+      "name": "Energizing",
+      "snoList": [
+        "578879"
+      ],
+      "internalList": [
+        "legendary_rogue_014"
+      ]
+    },
+    {
+      "sno": "2547963",
+      "internal": "legendary_warlock_023_x2",
+      "name": "Enfeebling",
+      "snoList": [
+        "2547963"
+      ],
+      "internalList": [
+        "legendary_warlock_023_x2"
+      ]
+    },
+    {
+      "sno": "578860",
+      "internal": "legendary_rogue_004",
+      "name": "Enshrouding",
+      "snoList": [
+        "578860"
+      ],
+      "internalList": [
+        "legendary_rogue_004"
+      ]
+    },
+    {
+      "sno": "2541850",
+      "internal": "legendary_druid_077_x2",
+      "name": "Envenomed",
+      "snoList": [
+        "2541850"
+      ],
+      "internalList": [
+        "legendary_druid_077_x2"
+      ]
+    },
+    {
+      "sno": "1185976",
+      "internal": "legendary_rogue_107",
+      "name": "Escape Artist's",
+      "snoList": [
+        "1185976"
+      ],
+      "internalList": [
+        "legendary_rogue_107"
+      ]
+    },
+    {
+      "sno": "2574530",
+      "internal": "legendary_generic_130_x2",
+      "name": "Everliving",
+      "snoList": [
+        "2574530"
+      ],
+      "internalList": [
+        "legendary_generic_130_x2"
+      ]
+    },
+    {
+      "sno": "1929337",
+      "internal": "S05_BSK_Barbarian_003",
+      "name": "Executioner's",
+      "snoList": [
+        "1929337"
+      ],
+      "internalList": [
+        "S05_BSK_Barbarian_003"
+      ]
+    },
+    {
+      "sno": "1225581",
+      "internal": "Legendary_Generic_111",
+      "name": "Exploiter's",
+      "snoList": [
+        "1225581"
+      ],
+      "internalList": [
+        "Legendary_Generic_111"
+      ]
+    },
+    {
+      "sno": "1221651",
+      "internal": "legendary_necro_110",
+      "name": "Fastblood",
+      "snoList": [
+        "1221651"
+      ],
+      "internalList": [
+        "legendary_necro_110"
+      ]
+    },
+    {
+      "sno": "1966074",
+      "internal": "legendary_spiritborn_036_x1",
+      "name": "Fell Soothsayer's",
+      "snoList": [
+        "1966074"
+      ],
+      "internalList": [
+        "legendary_spiritborn_036_x1"
+      ]
+    },
+    {
+      "sno": "2617084",
+      "internal": "legendary_spiritborn_013_x2",
+      "name": "Ferocious",
+      "snoList": [
+        "2617084"
+      ],
+      "internalList": [
+        "legendary_spiritborn_013_x2"
+      ]
+    },
+    {
+      "sno": "1936204",
+      "internal": "S05_BSK_Sorcerer_003",
+      "name": "Firestarter",
+      "snoList": [
+        "1936204"
+      ],
+      "internalList": [
+        "S05_BSK_Sorcerer_003"
+      ]
+    },
+    {
+      "sno": "1755013",
+      "internal": "legendary_sorc_139",
+      "name": "Flamethrower's",
+      "snoList": [
+        "1755013"
+      ],
+      "internalList": [
+        "legendary_sorc_139"
+      ]
+    },
+    {
+      "sno": "578925",
+      "internal": "legendary_sorc_008",
+      "name": "Flash Fire",
+      "snoList": [
+        "578925"
+      ],
+      "internalList": [
+        "legendary_sorc_008"
+      ]
+    },
+    {
+      "sno": "1302634",
+      "internal": "legendary_rogue_123",
+      "name": "Frostbitten",
+      "snoList": [
+        "1302634"
+      ],
+      "internalList": [
+        "legendary_rogue_123"
+      ]
+    },
+    {
+      "sno": "579747",
+      "internal": "legendary_sorc_017",
+      "name": "Frostblitz",
+      "snoList": [
+        "579747"
+      ],
+      "internalList": [
+        "legendary_sorc_017"
+      ]
+    },
+    {
+      "sno": "2574502",
+      "internal": "legendary_lightningUser_001_x2",
+      "name": "Galvanic",
+      "snoList": [
+        "2574502"
+      ],
+      "internalList": [
+        "legendary_lightningUser_001_x2"
+      ]
+    },
+    {
+      "sno": "1970962",
+      "internal": "legendary_rogue_132",
+      "name": "Galvanized Slasher's ",
+      "snoList": [
+        "1970962"
+      ],
+      "internalList": [
+        "legendary_rogue_132"
+      ]
+    },
+    {
+      "sno": "1225423",
+      "internal": "legendary_generic_100",
+      "name": "Ghostwalker",
+      "snoList": [
+        "1225423"
+      ],
+      "internalList": [
+        "legendary_generic_100"
+      ]
+    },
+    {
+      "sno": "1212318",
+      "internal": "legendary_sorc_107",
+      "name": "Glacial",
+      "snoList": [
+        "1212318"
+      ],
+      "internalList": [
+        "legendary_sorc_107"
+      ]
+    },
+    {
+      "sno": "2547953",
+      "internal": "legendary_warlock_021_x2",
+      "name": "Gorefeast",
+      "snoList": [
+        "2547953"
+      ],
+      "internalList": [
+        "legendary_warlock_021_x2"
+      ]
+    },
+    {
+      "sno": "2540447",
+      "internal": "legendary_druid_059_x2",
+      "name": "Great Storm",
+      "snoList": [
+        "2540447"
+      ],
+      "internalList": [
+        "legendary_druid_059_x2"
+      ]
+    },
+    {
+      "sno": "2575120",
+      "internal": "legendary_rogue_147_x2",
+      "name": "Grenadier's",
+      "snoList": [
+        "2575120"
+      ],
+      "internalList": [
+        "legendary_rogue_147_x2"
+      ]
+    },
+    {
+      "sno": "2557986",
+      "internal": "legendary_barb_006_x2",
+      "name": "Heavy Hitting",
+      "snoList": [
+        "2557986"
+      ],
+      "internalList": [
+        "legendary_barb_006_x2"
+      ]
+    },
+    {
+      "sno": "1859769",
+      "internal": "legendary_generic_118",
+      "name": "Hectic",
+      "snoList": [
+        "1859769"
+      ],
+      "internalList": [
+        "legendary_generic_118"
+      ]
+    },
+    {
+      "sno": "2239052",
+      "internal": "legendary_necro_136",
+      "name": "Hellbent Commander",
+      "snoList": [
+        "2239052"
+      ],
+      "internalList": [
+        "legendary_necro_136"
+      ]
+    },
+    {
+      "sno": "1884339",
+      "internal": "legendary_rogue_129",
+      "name": "High Velocity",
+      "snoList": [
+        "1884339"
+      ],
+      "internalList": [
+        "legendary_rogue_129"
+      ]
+    },
+    {
+      "sno": "1222123",
+      "internal": "legendary_necro_114",
+      "name": "Hulking",
+      "snoList": [
+        "1222123"
+      ],
+      "internalList": [
+        "legendary_necro_114"
+      ]
+    },
+    {
+      "sno": "2574589",
+      "internal": "legendary_rogue_024_x2",
+      "name": "Icy Alchemist's",
+      "snoList": [
+        "2574589"
+      ],
+      "internalList": [
+        "legendary_rogue_024_x2"
+      ]
+    },
+    {
+      "sno": "2574460",
+      "internal": "legendary_rogue_139_x2",
+      "name": "Impairing",
+      "snoList": [
+        "2574460"
+      ],
+      "internalList": [
+        "legendary_rogue_139_x2"
+      ]
+    },
+    {
+      "sno": "1212483",
+      "internal": "legendary_sorc_103",
+      "name": "Incendiary",
+      "snoList": [
+        "1212483"
+      ],
+      "internalList": [
+        "legendary_sorc_103"
+      ]
+    },
+    {
+      "sno": "1304822",
+      "internal": "legendary_rogue_122",
+      "name": "Infiltrator's",
+      "snoList": [
+        "1304822"
+      ],
+      "internalList": [
+        "legendary_rogue_122"
+      ]
+    },
+    {
+      "sno": "1858278",
+      "internal": "legendary_spiritborn_018_x1",
+      "name": "Insatiable",
+      "snoList": [
+        "1858278"
+      ],
+      "internalList": [
+        "legendary_spiritborn_018_x1"
+      ]
+    },
+    {
+      "sno": "2547906",
+      "internal": "legendary_warlock_003_x2",
+      "name": "Insidious",
+      "snoList": [
+        "2547906"
+      ],
+      "internalList": [
+        "legendary_warlock_003_x2"
+      ]
+    },
+    {
+      "sno": "1949276",
+      "internal": "S05_BSK_Necro_003",
+      "name": "Inspiring Leader",
+      "snoList": [
+        "1949276"
+      ],
+      "internalList": [
+        "S05_BSK_Necro_003"
+      ]
+    },
+    {
+      "sno": "578749",
+      "internal": "legendary_barb_005",
+      "name": "Iron Blood",
+      "snoList": [
+        "578749"
+      ],
+      "internalList": [
+        "legendary_barb_005"
+      ]
+    },
+    {
+      "sno": "2558637",
+      "internal": "legendary_barb_008_x2",
+      "name": "Irrepressible",
+      "snoList": [
+        "2558637"
+      ],
+      "internalList": [
+        "legendary_barb_008_x2"
+      ]
+    },
+    {
+      "sno": "1935062",
+      "internal": "S05_BSK_Sorcerer_002",
+      "name": "Jolting",
+      "snoList": [
+        "1935062"
+      ],
+      "internalList": [
+        "S05_BSK_Sorcerer_002"
+      ]
+    },
+    {
+      "sno": "2585058",
+      "internal": "x1_legendary_sorc_140_x2",
+      "name": "Joltkeeper's",
+      "snoList": [
+        "2585058"
+      ],
+      "internalList": [
+        "x1_legendary_sorc_140_x2"
+      ]
+    },
+    {
+      "sno": "1746093",
+      "internal": "legendary_generic_117",
+      "name": "Juggernaut's",
+      "snoList": [
+        "1746093"
+      ],
+      "internalList": [
+        "legendary_generic_117"
+      ]
+    },
+    {
+      "sno": "578786",
+      "internal": "Legendary_Druid_115",
+      "name": "Lightning Dancer's",
+      "snoList": [
+        "578786"
+      ],
+      "internalList": [
+        "Legendary_Druid_115"
+      ]
+    },
+    {
+      "sno": "2574559",
+      "internal": "legendary_lightningUser_002_x2",
+      "name": "Lightning Rod",
+      "snoList": [
+        "2574559"
+      ],
+      "internalList": [
+        "legendary_lightningUser_002_x2"
+      ]
+    },
+    {
+      "sno": "2575303",
+      "internal": "legendary_sorc_107_x2",
+      "name": "Lingering",
+      "snoList": [
+        "2575303"
+      ],
+      "internalList": [
+        "legendary_sorc_107_x2"
+      ]
+    },
+    {
+      "sno": "2617223",
+      "internal": "legendary_paladin_009_x2",
+      "name": "Lord of Blood's",
+      "snoList": [
+        "2617223"
+      ],
+      "internalList": [
+        "legendary_paladin_009_x2"
+      ]
+    },
+    {
+      "sno": "1199206",
+      "internal": "legendary_barb_106",
+      "name": "Luckbringer",
+      "snoList": [
+        "1199206"
+      ],
+      "internalList": [
+        "legendary_barb_106"
+      ]
+    },
+    {
+      "sno": "2576064",
+      "internal": "legendary_sorc_120_x2",
+      "name": "Mage-Lord's",
+      "snoList": [
+        "2576064"
+      ],
+      "internalList": [
+        "legendary_sorc_120_x2"
+      ]
+    },
+    {
+      "sno": "2547904",
+      "internal": "legendary_warlock_002_x2",
+      "name": "Malicious",
+      "snoList": [
+        "2547904"
+      ],
+      "internalList": [
+        "legendary_warlock_002_x2"
+      ]
+    },
+    {
+      "sno": "578807",
+      "internal": "legendary_druid_005",
+      "name": "Mangled",
+      "snoList": [
+        "578807"
+      ],
+      "internalList": [
+        "legendary_druid_005"
+      ]
+    },
+    {
+      "sno": "1186690",
+      "internal": "legendary_rogue_114",
+      "name": "Mangler's",
+      "snoList": [
+        "1186690"
+      ],
+      "internalList": [
+        "legendary_rogue_114"
+      ]
+    },
+    {
+      "sno": "1981977",
+      "internal": "legendary_spiritborn_041_x1",
+      "name": "Menacing",
+      "snoList": [
+        "1981977"
+      ],
+      "internalList": [
+        "legendary_spiritborn_041_x1"
+      ]
+    },
+    {
+      "sno": "2547997",
+      "internal": "legendary_warlock_033_x2",
+      "name": "Methodical",
+      "snoList": [
+        "2547997"
+      ],
+      "internalList": [
+        "legendary_warlock_033_x2"
+      ]
+    },
+    {
+      "sno": "579682",
+      "internal": "legendary_druid_112",
+      "name": "Mighty Storm's",
+      "snoList": [
+        "579682"
+      ],
+      "internalList": [
+        "legendary_druid_112"
+      ]
+    },
+    {
+      "sno": "1980708",
+      "internal": "legendary_rogue_134",
+      "name": "Mired Sharpshooter's ",
+      "snoList": [
+        "1980708"
+      ],
+      "internalList": [
+        "legendary_rogue_134"
+      ]
+    },
+    {
+      "sno": "2547950",
+      "internal": "legendary_warlock_020_x2",
+      "name": "Misanthropic",
+      "snoList": [
+        "2547950"
+      ],
+      "internalList": [
+        "legendary_warlock_020_x2"
+      ]
+    },
+    {
+      "sno": "1457950",
+      "internal": "s01_orb_offensive_druid_001",
+      "name": "Moonrage",
+      "snoList": [
+        "1457950"
+      ],
+      "internalList": [
+        "s01_orb_offensive_druid_001"
+      ]
+    },
+    {
+      "sno": "2537990",
+      "internal": "legendary_druid_078_x2",
+      "name": "Nature's Reach",
+      "snoList": [
+        "2537990"
+      ],
+      "internalList": [
+        "legendary_druid_078_x2"
+      ]
+    },
+    {
+      "sno": "615173",
+      "internal": "legendary_necro_031",
+      "name": "Necrotic Carapace",
+      "snoList": [
+        "615173"
+      ],
+      "internalList": [
+        "legendary_necro_031"
+      ]
+    },
+    {
+      "sno": "1227651",
+      "internal": "legendary_generic_106",
+      "name": "Needleflare",
+      "snoList": [
+        "1227651"
+      ],
+      "internalList": [
+        "legendary_generic_106"
+      ]
+    },
+    {
+      "sno": "2547991",
+      "internal": "legendary_warlock_031_x2",
+      "name": "Nefarious",
+      "snoList": [
+        "2547991"
+      ],
+      "internalList": [
+        "legendary_warlock_031_x2"
+      ]
+    },
+    {
+      "sno": "2541747",
+      "internal": "Legendary_Druid_116_x2",
+      "name": "Neurotoxic",
+      "snoList": [
+        "2541747"
+      ],
+      "internalList": [
+        "Legendary_Druid_116_x2"
+      ]
+    },
+    {
+      "sno": "2579588",
+      "internal": "legendary_rogue_151_x2",
+      "name": "Nightstalker's",
+      "snoList": [
+        "2579588"
+      ],
+      "internalList": [
+        "legendary_rogue_151_x2"
+      ]
+    },
+    {
+      "sno": "2547966",
+      "internal": "legendary_warlock_024_x2",
+      "name": "Obstinate",
+      "snoList": [
+        "2547966"
+      ],
+      "internalList": [
+        "legendary_warlock_024_x2"
+      ]
+    },
+    {
+      "sno": "2547915",
+      "internal": "legendary_warlock_007_x2",
+      "name": "Ominous",
+      "snoList": [
+        "2547915"
+      ],
+      "internalList": [
+        "legendary_warlock_007_x2"
+      ]
+    },
+    {
+      "sno": "1189297",
+      "internal": "legendary_rogue_109",
+      "name": "Opportunist's",
+      "snoList": [
+        "1189297"
+      ],
+      "internalList": [
+        "legendary_rogue_109"
+      ]
+    },
+    {
+      "sno": "1220408",
+      "internal": "legendary_necro_102",
+      "name": "Osseous Gale",
+      "snoList": [
+        "1220408"
+      ],
+      "internalList": [
+        "legendary_necro_102"
+      ]
+    },
+    {
+      "sno": "2620614",
+      "internal": "legendary_druid_028_x2",
+      "name": "Overcharged",
+      "snoList": [
+        "2620614"
+      ],
+      "internalList": [
+        "legendary_druid_028_x2"
+      ]
+    },
+    {
+      "sno": "2574616",
+      "internal": "legendary_burningUser_001_x2",
+      "name": "Overheating",
+      "snoList": [
+        "2574616"
+      ],
+      "internalList": [
+        "legendary_burningUser_001_x2"
+      ]
+    },
+    {
+      "sno": "2547917",
+      "internal": "legendary_warlock_008_x2",
+      "name": "Overwhelming",
+      "snoList": [
+        "2547917"
+      ],
+      "internalList": [
+        "legendary_warlock_008_x2"
+      ]
+    },
+    {
+      "sno": "2215574",
+      "internal": "legendary_rogue_137",
+      "name": "Perforator's",
+      "snoList": [
+        "2215574"
+      ],
+      "internalList": [
+        "legendary_rogue_137"
+      ]
+    },
+    {
+      "sno": "2543092",
+      "internal": "legendary_druid_113_x2",
+      "name": "Powershifting",
+      "snoList": [
+        "2543092"
+      ],
+      "internalList": [
+        "legendary_druid_113_x2"
+      ]
+    },
+    {
+      "sno": "2574510",
+      "internal": "legendary_rogue_141_x2",
+      "name": "Prepared Assailant's",
+      "snoList": [
+        "2574510"
+      ],
+      "internalList": [
+        "legendary_rogue_141_x2"
+      ]
+    },
+    {
+      "sno": "1214116",
+      "internal": "legendary_sorc_125",
+      "name": "Prodigy's",
+      "snoList": [
+        "1214116"
+      ],
+      "internalList": [
+        "legendary_sorc_125"
+      ]
+    },
+    {
+      "sno": "2618120",
+      "internal": "legendary_barb_015_x2",
+      "name": "Progenitor's",
+      "snoList": [
+        "2618120"
+      ],
+      "internalList": [
+        "legendary_barb_015_x2"
+      ]
+    },
+    {
+      "sno": "578909",
+      "internal": "legendary_generic_034",
+      "name": "Protecting",
+      "snoList": [
+        "578909"
+      ],
+      "internalList": [
+        "legendary_generic_034"
+      ]
+    },
+    {
+      "sno": "2547989",
+      "internal": "legendary_warlock_030_x2",
+      "name": "Pyroclastic",
+      "snoList": [
+        "2547989"
+      ],
+      "internalList": [
+        "legendary_warlock_030_x2"
+      ]
+    },
+    {
+      "sno": "2558525",
+      "internal": "legendary_barb_007_x2",
+      "name": "Raid Leader's",
+      "snoList": [
+        "2558525"
+      ],
+      "internalList": [
+        "legendary_barb_007_x2"
+      ]
+    },
+    {
+      "sno": "1822345",
+      "internal": "legendary_spiritborn_011_x1",
+      "name": "Raider's",
+      "snoList": [
+        "1822345"
+      ],
+      "internalList": [
+        "legendary_spiritborn_011_x1"
+      ]
+    },
+    {
+      "sno": "1206103",
+      "internal": "Legendary_Rogue_124",
+      "name": "Ranger's",
+      "snoList": [
+        "1206103"
+      ],
+      "internalList": [
+        "Legendary_Rogue_124"
+      ]
+    },
+    {
+      "sno": "578710",
+      "internal": "legendary_generic_043",
+      "name": "Rapid",
+      "snoList": [
+        "578710"
+      ],
+      "internalList": [
+        "legendary_generic_043"
+      ]
+    },
+    {
+      "sno": "1184469",
+      "internal": "legendary_rogue_106",
+      "name": "Ravenous",
+      "snoList": [
+        "1184469"
+      ],
+      "internalList": [
+        "legendary_rogue_106"
+      ]
+    },
+    {
+      "sno": "2620610",
+      "internal": "legendary_druid_122_x2",
+      "name": "Raw Might",
+      "snoList": [
+        "2620610"
+      ],
+      "internalList": [
+        "legendary_druid_122_x2"
+      ]
+    },
+    {
+      "sno": "1822347",
+      "internal": "legendary_spiritborn_012_x1",
+      "name": "Reaper's",
+      "snoList": [
+        "1822347"
+      ],
+      "internalList": [
+        "legendary_spiritborn_012_x1"
+      ]
+    },
+    {
+      "sno": "1858272",
+      "internal": "legendary_spiritborn_015_x1",
+      "name": "Rebounding",
+      "snoList": [
+        "1858272"
+      ],
+      "internalList": [
+        "legendary_spiritborn_015_x1"
+      ]
+    },
+    {
+      "sno": "2575383",
+      "internal": "legendary_sorc_118_x2",
+      "name": "Recharging",
+      "snoList": [
+        "2575383"
+      ],
+      "internalList": [
+        "legendary_sorc_118_x2"
+      ]
+    },
+    {
+      "sno": "1933286",
+      "internal": "S05_BSK_Druid_002",
+      "name": "Rejuvenating",
+      "snoList": [
+        "1933286"
+      ],
+      "internalList": [
+        "S05_BSK_Druid_002"
+      ]
+    },
+    {
+      "sno": "578699",
+      "internal": "legendary_barb_011",
+      "name": "Relentless Berserker's",
+      "snoList": [
+        "578699"
+      ],
+      "internalList": [
+        "legendary_barb_011"
+      ]
+    },
+    {
+      "sno": "2547911",
+      "internal": "legendary_warlock_005_x2",
+      "name": "Remorseless",
+      "snoList": [
+        "2547911"
+      ],
+      "internalList": [
+        "legendary_warlock_005_x2"
+      ]
+    },
+    {
+      "sno": "1223239",
+      "internal": "legendary_necro_117",
+      "name": "Requiem",
+      "snoList": [
+        "1223239"
+      ],
+      "internalList": [
+        "legendary_necro_117"
+      ]
+    },
+    {
+      "sno": "1739655",
+      "internal": "legendary_rogue_128",
+      "name": "Resistant Assailant's",
+      "snoList": [
+        "1739655"
+      ],
+      "internalList": [
+        "legendary_rogue_128"
+      ]
+    },
+    {
+      "sno": "2469489",
+      "internal": "legendary_paladin_084",
+      "name": "Revelator's",
+      "snoList": [
+        "2469489"
+      ],
+      "internalList": [
+        "legendary_paladin_084"
+      ]
+    },
+    {
+      "sno": "2208083",
+      "internal": "legendary_spiritborn_050",
+      "name": "Rip and Tear",
+      "snoList": [
+        "2208083"
+      ],
+      "internalList": [
+        "legendary_spiritborn_050"
+      ]
+    },
+    {
+      "sno": "610241",
+      "internal": "legendary_necro_020",
+      "name": "Rotting",
+      "snoList": [
+        "610241"
+      ],
+      "internalList": [
+        "legendary_necro_020"
+      ]
+    },
+    {
+      "sno": "1811514",
+      "internal": "legendary_spiritborn_001_x1",
+      "name": "Ruthless",
+      "snoList": [
+        "1811514"
+      ],
+      "internalList": [
+        "legendary_spiritborn_001_x1"
+      ]
+    },
+    {
+      "sno": "1222268",
+      "internal": "legendary_necro_116",
+      "name": "Sacrificial",
+      "snoList": [
+        "1222268"
+      ],
+      "internalList": [
+        "legendary_necro_116"
+      ]
+    },
+    {
+      "sno": "2547987",
+      "internal": "legendary_warlock_029_x2",
+      "name": "Sadistic",
+      "snoList": [
+        "2547987"
+      ],
+      "internalList": [
+        "legendary_warlock_029_x2"
+      ]
+    },
+    {
+      "sno": "2577234",
+      "internal": "legendary_generic_132_x2",
+      "name": "Sapping",
+      "snoList": [
+        "2577234"
+      ],
+      "internalList": [
+        "legendary_generic_132_x2"
+      ]
+    },
+    {
+      "sno": "2574544",
+      "internal": "S05_BSK_Sorcerer_003_x2",
+      "name": "Scornful",
+      "snoList": [
+        "2574544"
+      ],
+      "internalList": [
+        "S05_BSK_Sorcerer_003_x2"
+      ]
+    },
+    {
+      "sno": "2542234",
+      "internal": "legendary_druid_047_x2",
+      "name": "Seismic-shift",
+      "snoList": [
+        "2542234"
+      ],
+      "internalList": [
+        "legendary_druid_047_x2"
+      ]
+    },
+    {
+      "sno": "579752",
+      "internal": "legendary_sorc_039",
+      "name": "Serpentine",
+      "snoList": [
+        "579752"
+      ],
+      "internalList": [
+        "legendary_sorc_039"
+      ]
+    },
+    {
+      "sno": "615483",
+      "internal": "legendary_necro_032",
+      "name": "Shadow-Soaked",
+      "snoList": [
+        "615483"
+      ],
+      "internalList": [
+        "legendary_necro_032"
+      ]
+    },
+    {
+      "sno": "578878",
+      "internal": "legendary_rogue_026",
+      "name": "Shadowslicer",
+      "snoList": [
+        "578878"
+      ],
+      "internalList": [
+        "legendary_rogue_026"
+      ]
+    },
+    {
+      "sno": "2574623",
+      "internal": "legendary_sorc_135_x2",
+      "name": "Shattered",
+      "snoList": [
+        "2574623"
+      ],
+      "internalList": [
+        "legendary_sorc_135_x2"
+      ]
+    },
+    {
+      "sno": "1064169",
+      "internal": "legendary_druid_080",
+      "name": "Shepherd's",
+      "snoList": [
+        "1064169"
+      ],
+      "internalList": [
+        "legendary_druid_080"
+      ]
+    },
+    {
+      "sno": "2535903",
+      "internal": "legendary_druid_109_x2",
+      "name": "Shifter's",
+      "snoList": [
+        "2535903"
+      ],
+      "internalList": [
+        "legendary_druid_109_x2"
+      ]
+    },
+    {
+      "sno": "2249121",
+      "internal": "legendary_sorc_147",
+      "name": "Shivering",
+      "snoList": [
+        "2249121"
+      ],
+      "internalList": [
+        "legendary_sorc_147"
+      ]
+    },
+    {
+      "sno": "2585075",
+      "internal": "legendary_generic_133_x2",
+      "name": "Sickfoot's",
+      "snoList": [
+        "2585075"
+      ],
+      "internalList": [
+        "legendary_generic_133_x2"
+      ]
+    },
+    {
+      "sno": "1200309",
+      "internal": "legendary_druid_042",
+      "name": "Skinwalker's",
+      "snoList": [
+        "1200309"
+      ],
+      "internalList": [
+        "legendary_druid_042"
+      ]
+    },
+    {
+      "sno": "578754",
+      "internal": "legendary_barb_003",
+      "name": "Skullbreaker's",
+      "snoList": [
+        "578754"
+      ],
+      "internalList": [
+        "legendary_barb_003"
+      ]
+    },
+    {
+      "sno": "1202013",
+      "internal": "legendary_barb_103",
+      "name": "Slaking",
+      "snoList": [
+        "1202013"
+      ],
+      "internalList": [
+        "legendary_barb_103"
+      ]
+    },
+    {
+      "sno": "578703",
+      "internal": "legendary_generic_109",
+      "name": "Smiting",
+      "snoList": [
+        "578703"
+      ],
+      "internalList": [
+        "legendary_generic_109"
+      ]
+    },
+    {
+      "sno": "1219216",
+      "internal": "Legendary_Rogue_125",
+      "name": "Snap Frozen",
+      "snoList": [
+        "1219216"
+      ],
+      "internalList": [
+        "Legendary_Rogue_125"
+      ]
+    },
+    {
+      "sno": "578919",
+      "internal": "legendary_sorc_006",
+      "name": "Snowguard's",
+      "snoList": [
+        "578919"
+      ],
+      "internalList": [
+        "legendary_sorc_006"
+      ]
+    },
+    {
+      "sno": "2575214",
+      "internal": "legendary_sorc_108_x2",
+      "name": "Snowveiled",
+      "snoList": [
+        "2575214"
+      ],
+      "internalList": [
+        "legendary_sorc_108_x2"
+      ]
+    },
+    {
+      "sno": "1934391",
+      "internal": "S05_BSK_Druid_003",
+      "name": "Spirit Bond",
+      "snoList": [
+        "1934391"
+      ],
+      "internalList": [
+        "S05_BSK_Druid_003"
+      ]
+    },
+    {
+      "sno": "608902",
+      "internal": "legendary_necro_012",
+      "name": "Splintering",
+      "snoList": [
+        "608902"
+      ],
+      "internalList": [
+        "legendary_necro_012"
+      ]
+    },
+    {
+      "sno": "2445852",
+      "internal": "legendary_paladin_037",
+      "name": "Squire's",
+      "snoList": [
+        "2445852"
+      ],
+      "internalList": [
+        "legendary_paladin_037"
+      ]
+    },
+    {
+      "sno": "1227270",
+      "internal": "legendary_sorc_124",
+      "name": "Stable",
+      "snoList": [
+        "1227270"
+      ],
+      "internalList": [
+        "legendary_sorc_124"
+      ]
+    },
+    {
+      "sno": "578840",
+      "internal": "legendary_generic_006",
+      "name": "Starlight",
+      "snoList": [
+        "578840"
+      ],
+      "internalList": [
+        "legendary_generic_006"
+      ]
+    },
+    {
+      "sno": "1967627",
+      "internal": "legendary_spiritborn_023_x1",
+      "name": "Starving Ravager's ",
+      "snoList": [
+        "1967627"
+      ],
+      "internalList": [
+        "legendary_spiritborn_023_x1"
+      ]
+    },
+    {
+      "sno": "2614304",
+      "internal": "legendary_barb_055_x2",
+      "name": "Steadfast Berserker's",
+      "snoList": [
+        "2614304"
+      ],
+      "internalList": [
+        "legendary_barb_055_x2"
+      ]
+    },
+    {
+      "sno": "1922389",
+      "internal": "S05_BSK_Generic_007",
+      "name": "Sticker-thought",
+      "snoList": [
+        "1922389"
+      ],
+      "internalList": [
+        "S05_BSK_Generic_007"
+      ]
+    },
+    {
+      "sno": "578803",
+      "internal": "legendary_druid_111",
+      "name": "Stoneworker's",
+      "snoList": [
+        "578803"
+      ],
+      "internalList": [
+        "legendary_druid_111"
+      ]
+    },
+    {
+      "sno": "2574571",
+      "internal": "legendary_sorc_124_x2",
+      "name": "Storm Splitter's",
+      "snoList": [
+        "2574571"
+      ],
+      "internalList": [
+        "legendary_sorc_124_x2"
+      ]
+    },
+    {
+      "sno": "1224681",
+      "internal": "legendary_sorc_115",
+      "name": "Storm Swell",
+      "snoList": [
+        "1224681"
+      ],
+      "internalList": [
+        "legendary_sorc_115"
+      ]
+    },
+    {
+      "sno": "579702",
+      "internal": "legendary_druid_110",
+      "name": "Stormchaser's",
+      "snoList": [
+        "579702"
+      ],
+      "internalList": [
+        "legendary_druid_110"
+      ]
+    },
+    {
+      "sno": "1433953",
+      "internal": "legendary_druid_121",
+      "name": "Subterranean",
+      "snoList": [
+        "1433953"
+      ],
+      "internalList": [
+        "legendary_druid_121"
+      ]
+    },
+    {
+      "sno": "2575399",
+      "internal": "legendary_sorc_115_x2",
+      "name": "Sunderfrost",
+      "snoList": [
+        "2575399"
+      ],
+      "internalList": [
+        "legendary_sorc_115_x2"
+      ]
+    },
+    {
+      "sno": "2445870",
+      "internal": "legendary_paladin_040",
+      "name": "The Penitent's",
+      "snoList": [
+        "2445870"
+      ],
+      "internalList": [
+        "legendary_paladin_040"
+      ]
+    },
+    {
+      "sno": "1223790",
+      "internal": "legendary_necro_109",
+      "name": "Tidal",
+      "snoList": [
+        "1223790"
+      ],
+      "internalList": [
+        "legendary_necro_109"
+      ]
+    },
+    {
+      "sno": "1221659",
+      "internal": "legendary_necro_108",
+      "name": "Tides of Blood",
+      "snoList": [
+        "1221659"
+      ],
+      "internalList": [
+        "legendary_necro_108"
+      ]
+    },
+    {
+      "sno": "1858282",
+      "internal": "legendary_spiritborn_020_x1",
+      "name": "Tormentor's",
+      "snoList": [
+        "1858282"
+      ],
+      "internalList": [
+        "legendary_spiritborn_020_x1"
+      ]
+    },
+    {
+      "sno": "578882",
+      "internal": "legendary_rogue_023",
+      "name": "Toxic Alchemist's",
+      "snoList": [
+        "578882"
+      ],
+      "internalList": [
+        "legendary_rogue_023"
+      ]
+    },
+    {
+      "sno": "2575085",
+      "internal": "legendary_rogue_146_x2",
+      "name": "Trapper's",
+      "snoList": [
+        "2575085"
+      ],
+      "internalList": [
+        "legendary_rogue_146_x2"
+      ]
+    },
+    {
+      "sno": "2574909",
+      "internal": "legendary_rogue_144_x2",
+      "name": "Trickster's",
+      "snoList": [
+        "2574909"
+      ],
+      "internalList": [
+        "legendary_rogue_144_x2"
+      ]
+    },
+    {
+      "sno": "1220102",
+      "internal": "legendary_rogue_116",
+      "name": "Umbrous",
+      "snoList": [
+        "1220102"
+      ],
+      "internalList": [
+        "legendary_rogue_116"
+      ]
+    },
+    {
+      "sno": "1859813",
+      "internal": "legendary_generic_119",
+      "name": "Undying",
+      "snoList": [
+        "1859813"
+      ],
+      "internalList": [
+        "legendary_generic_119"
+      ]
+    },
+    {
+      "sno": "1858270",
+      "internal": "legendary_spiritborn_014_x1",
+      "name": "Unrelenting",
+      "snoList": [
+        "1858270"
+      ],
+      "internalList": [
+        "legendary_spiritborn_014_x1"
+      ]
+    },
+    {
+      "sno": "616486",
+      "internal": "legendary_necro_053",
+      "name": "Unyielding Commander's",
+      "snoList": [
+        "616486"
+      ],
+      "internalList": [
+        "legendary_necro_053"
+      ]
+    },
+    {
+      "sno": "2420868",
+      "internal": "legendary_paladin_011",
+      "name": "Vanguard's",
+      "snoList": [
+        "2420868"
+      ],
+      "internalList": [
+        "legendary_paladin_011"
+      ]
+    },
+    {
+      "sno": "1215769",
+      "internal": "legendary_sorc_129",
+      "name": "Vanquishing",
+      "snoList": [
+        "1215769"
+      ],
+      "internalList": [
+        "legendary_sorc_129"
+      ]
+    },
+    {
+      "sno": "2164939",
+      "internal": "legendary_generic_127",
+      "name": "Vehement Brawler's",
+      "snoList": [
+        "2164939"
+      ],
+      "internalList": [
+        "legendary_generic_127"
+      ]
+    },
+    {
+      "sno": "1184525",
+      "internal": "legendary_rogue_105",
+      "name": "Vengeful",
+      "snoList": [
+        "1184525"
+      ],
+      "internalList": [
+        "legendary_rogue_105"
+      ]
+    },
+    {
+      "sno": "578741",
+      "internal": "legendary_barb_040",
+      "name": "Veteran Brawler's",
+      "snoList": [
+        "578741"
+      ],
+      "internalList": [
+        "legendary_barb_040"
+      ]
+    },
+    {
+      "sno": "1206400",
+      "internal": "legendary_druid_100",
+      "name": "Vigorous",
+      "snoList": [
+        "1206400"
+      ],
+      "internalList": [
+        "legendary_druid_100"
+      ]
+    },
+    {
+      "sno": "2461971",
+      "internal": "legendary_paladin_074",
+      "name": "Virtuous",
+      "snoList": [
+        "2461971"
+      ],
+      "internalList": [
+        "legendary_paladin_074"
+      ]
+    },
+    {
+      "sno": "1738556",
+      "internal": "legendary_druid_123",
+      "name": "Virulent",
+      "snoList": [
+        "1738556"
+      ],
+      "internalList": [
+        "legendary_druid_123"
+      ]
+    },
+    {
+      "sno": "2584046",
+      "internal": "legendary_generic_129_x2",
+      "name": "Vulpine's",
+      "snoList": [
+        "2584046"
+      ],
+      "internalList": [
+        "legendary_generic_129_x2"
+      ]
+    },
+    {
+      "sno": "1603698",
+      "internal": "legendary_barb_112",
+      "name": "Wanton Rupture",
+      "snoList": [
+        "1603698"
+      ],
+      "internalList": [
+        "legendary_barb_112"
+      ]
+    },
+    {
+      "sno": "579643",
+      "internal": "legendary_barb_004",
+      "name": "Weapon Master's",
+      "snoList": [
+        "579643"
+      ],
+      "internalList": [
+        "legendary_barb_004"
+      ]
+    },
+    {
+      "sno": "1919997",
+      "internal": "S05_BSK_Generic_005",
+      "name": "Wildbolt",
+      "snoList": [
+        "1919997"
+      ],
+      "internalList": [
+        "S05_BSK_Generic_005"
+      ]
+    },
+    {
+      "sno": "578826",
+      "internal": "legendary_generic_016",
+      "name": "Wind Striker",
+      "snoList": [
+        "578826"
+      ],
+      "internalList": [
+        "legendary_generic_016"
+      ]
+    },
+    {
+      "sno": "578758",
+      "internal": "legendary_barb_027",
+      "name": "Windlasher",
+      "snoList": [
+        "578758"
+      ],
+      "internalList": [
+        "legendary_barb_027"
+      ]
+    },
+    {
+      "sno": "1934512",
+      "internal": "S05_BSK_Sorcerer_001",
+      "name": "Winter Touch",
+      "snoList": [
+        "1934512"
+      ],
+      "internalList": [
+        "S05_BSK_Sorcerer_001"
+      ]
+    },
+    {
+      "sno": "2574579",
+      "internal": "legendary_generic_134_x2",
+      "name": "Writhing",
+      "snoList": [
+        "2574579"
+      ],
+      "internalList": [
+        "legendary_generic_134_x2"
+      ]
+    },
+    {
+      "sno": "2574494",
+      "internal": "legendary_lightningUser_003_x2",
+      "name": "Wyward's",
+      "snoList": [
+        "2574494"
+      ],
+      "internalList": [
+        "legendary_lightningUser_003_x2"
+      ]
+    },
+    {
+      "sno": "1225570",
+      "internal": "Legendary_Sorc_134",
+      "name": "of Abundant Energy",
+      "snoList": [
+        "1225570"
+      ],
+      "internalList": [
+        "Legendary_Sorc_134"
+      ]
+    },
+    {
+      "sno": "1867840",
+      "internal": "legendary_generic_122",
+      "name": "of Accursed Touch",
+      "snoList": [
+        "1867840"
+      ],
+      "internalList": [
+        "legendary_generic_122"
+      ]
+    },
+    {
+      "sno": "1741829",
+      "internal": "legendary_generic_116",
+      "name": "of Adaptability",
+      "snoList": [
+        "1741829"
+      ],
+      "internalList": [
+        "legendary_generic_116"
+      ]
+    },
+    {
+      "sno": "2580591",
+      "internal": "legendary_rogue_153_x2",
+      "name": "of Aftermath",
+      "snoList": [
+        "2580591"
+      ],
+      "internalList": [
+        "legendary_rogue_153_x2"
+      ]
+    },
+    {
+      "sno": "2439343",
+      "internal": "legendary_paladin_019",
+      "name": "of Akarat's Blessing",
+      "snoList": [
+        "2439343"
+      ],
+      "internalList": [
+        "legendary_paladin_019"
+      ]
+    },
+    {
+      "sno": "1987448",
+      "internal": "legendary_spiritborn_048_x1",
+      "name": "of Alacrity",
+      "snoList": [
+        "1987448"
+      ],
+      "internalList": [
+        "legendary_spiritborn_048_x1"
+      ]
+    },
+    {
+      "sno": "2574581",
+      "internal": "legendary_rogue_142_x2",
+      "name": "of Alchemical Advantage",
+      "snoList": [
+        "2574581"
+      ],
+      "internalList": [
+        "legendary_rogue_142_x2"
+      ]
+    },
+    {
+      "sno": "1977735",
+      "internal": "legendary_necro_133",
+      "name": "of Amplified Damage",
+      "snoList": [
+        "1977735"
+      ],
+      "internalList": [
+        "legendary_necro_133"
+      ]
+    },
+    {
+      "sno": "1427873",
+      "internal": "legendary_barb_111",
+      "name": "of Ancestral Charge",
+      "snoList": [
+        "1427873"
+      ],
+      "internalList": [
+        "legendary_barb_111"
+      ]
+    },
+    {
+      "sno": "578765",
+      "internal": "legendary_barb_014",
+      "name": "of Ancestral Echoes",
+      "snoList": [
+        "578765"
+      ],
+      "internalList": [
+        "legendary_barb_014"
+      ]
+    },
+    {
+      "sno": "579653",
+      "internal": "legendary_barb_041",
+      "name": "of Ancestral Force",
+      "snoList": [
+        "579653"
+      ],
+      "internalList": [
+        "legendary_barb_041"
+      ]
+    },
+    {
+      "sno": "2577527",
+      "internal": "legendary_sorc_101_x2",
+      "name": "of Ancient Flame",
+      "snoList": [
+        "2577527"
+      ],
+      "internalList": [
+        "legendary_sorc_101_x2"
+      ]
+    },
+    {
+      "sno": "1201315",
+      "internal": "legendary_barb_102",
+      "name": "of Anemia",
+      "snoList": [
+        "1201315"
+      ],
+      "internalList": [
+        "legendary_barb_102"
+      ]
+    },
+    {
+      "sno": "2465656",
+      "internal": "legendary_paladin_068",
+      "name": "of Angelic Masterwork",
+      "snoList": [
+        "2465656"
+      ],
+      "internalList": [
+        "legendary_paladin_068"
+      ]
+    },
+    {
+      "sno": "2620618",
+      "internal": "S05_BSK_Barbarian_001_x2",
+      "name": "of Anger Management",
+      "snoList": [
+        "2620618"
+      ],
+      "internalList": [
+        "S05_BSK_Barbarian_001_x2"
+      ]
+    },
+    {
+      "sno": "2099442;2241686",
+      "internal": "legendary_druid_129;legendary_druid_132",
+      "name": "of Anticline Burst",
+      "snoList": [
+        "2099442",
+        "2241686"
+      ],
+      "internalList": [
+        "legendary_druid_129",
+        "legendary_druid_132"
+      ]
+    },
+    {
+      "sno": "2616416",
+      "internal": "legendary_generic_126_x2",
+      "name": "of Apogeic Furor",
+      "snoList": [
+        "2616416"
+      ],
+      "internalList": [
+        "legendary_generic_126_x2"
+      ]
+    },
+    {
+      "sno": "1975355",
+      "internal": "legendary_spiritborn_040_x1",
+      "name": "of Apprehension",
+      "snoList": [
+        "1975355"
+      ],
+      "internalList": [
+        "legendary_spiritborn_040_x1"
+      ]
+    },
+    {
+      "sno": "2574604",
+      "internal": "legendary_sorc_006_x2",
+      "name": "of Arcane Ward",
+      "snoList": [
+        "2574604"
+      ],
+      "internalList": [
+        "legendary_sorc_006_x2"
+      ]
+    },
+    {
+      "sno": "1040973",
+      "internal": "legendary_sorc_043_x2",
+      "name": "of Armageddon",
+      "snoList": [
+        "1040973"
+      ],
+      "internalList": [
+        "legendary_sorc_043_x2"
+      ]
+    },
+    {
+      "sno": "2574567",
+      "internal": "S05_BSK_Sorcerer_002_x2",
+      "name": "of Arrogance",
+      "snoList": [
+        "2574567"
+      ],
+      "internalList": [
+        "S05_BSK_Sorcerer_002_x2"
+      ]
+    },
+    {
+      "sno": "578874",
+      "internal": "legendary_rogue_028",
+      "name": "of Arrow Storms",
+      "snoList": [
+        "578874"
+      ],
+      "internalList": [
+        "legendary_rogue_028"
+      ]
+    },
+    {
+      "sno": "1620630",
+      "internal": "legendary_rogue_127",
+      "name": "of Artful Initiative",
+      "snoList": [
+        "1620630"
+      ],
+      "internalList": [
+        "legendary_rogue_127"
+      ]
+    },
+    {
+      "sno": "2448316",
+      "internal": "legendary_paladin_047",
+      "name": "of Ascension",
+      "snoList": [
+        "2448316"
+      ],
+      "internalList": [
+        "legendary_paladin_047"
+      ]
+    },
+    {
+      "sno": "2107188",
+      "internal": "legendary_generic_126_x1",
+      "name": "of Assistance",
+      "snoList": [
+        "2107188"
+      ],
+      "internalList": [
+        "legendary_generic_126_x1"
+      ]
+    },
+    {
+      "sno": "1438479",
+      "internal": "legendary_generic_113",
+      "name": "of Audacity",
+      "snoList": [
+        "1438479"
+      ],
+      "internalList": [
+        "legendary_generic_113"
+      ]
+    },
+    {
+      "sno": "2548006",
+      "internal": "legendary_warlock_035_x2",
+      "name": "of Authority",
+      "snoList": [
+        "2548006"
+      ],
+      "internalList": [
+        "legendary_warlock_035_x2"
+      ]
+    },
+    {
+      "sno": "1974257",
+      "internal": "legendary_spiritborn_022_x1",
+      "name": "of Avoidance",
+      "snoList": [
+        "1974257"
+      ],
+      "internalList": [
+        "legendary_spiritborn_022_x1"
+      ]
+    },
+    {
+      "sno": "2439248",
+      "internal": "legendary_paladin_018",
+      "name": "of Barbed Roses",
+      "snoList": [
+        "2439248"
+      ],
+      "internalList": [
+        "legendary_paladin_018"
+      ]
+    },
+    {
+      "sno": "578707",
+      "internal": "legendary_barb_022",
+      "name": "of Berserk Fury",
+      "snoList": [
+        "578707"
+      ],
+      "internalList": [
+        "legendary_barb_022"
+      ]
+    },
+    {
+      "sno": "578706",
+      "internal": "legendary_barb_001",
+      "name": "of Berserk Ripping",
+      "snoList": [
+        "578706"
+      ],
+      "internalList": [
+        "legendary_barb_001"
+      ]
+    },
+    {
+      "sno": "579749",
+      "internal": "legendary_sorc_004",
+      "name": "of Binding Embers",
+      "snoList": [
+        "579749"
+      ],
+      "internalList": [
+        "legendary_sorc_004"
+      ]
+    },
+    {
+      "sno": "1822341",
+      "internal": "legendary_spiritborn_009_x1",
+      "name": "of Binding Morass",
+      "snoList": [
+        "1822341"
+      ],
+      "internalList": [
+        "legendary_spiritborn_009_x1"
+      ]
+    },
+    {
+      "sno": "2575334",
+      "internal": "legendary_coldUser_003_x2",
+      "name": "of Biting Cold",
+      "snoList": [
+        "2575334"
+      ],
+      "internalList": [
+        "legendary_coldUser_003_x2"
+      ]
+    },
+    {
+      "sno": "2152638",
+      "internal": "legendary_rogue_136",
+      "name": "of Bitter Infection",
+      "snoList": [
+        "2152638"
+      ],
+      "internalList": [
+        "legendary_rogue_136"
+      ]
+    },
+    {
+      "sno": "2569780",
+      "internal": "legendary_barb_010_x2",
+      "name": "of Booming Voice",
+      "snoList": [
+        "2569780"
+      ],
+      "internalList": [
+        "legendary_barb_010_x2"
+      ]
+    },
+    {
+      "sno": "1858276",
+      "internal": "legendary_spiritborn_017_x1",
+      "name": "of Bristling Vengeance",
+      "snoList": [
+        "1858276"
+      ],
+      "internalList": [
+        "legendary_spiritborn_017_x1"
+      ]
+    },
+    {
+      "sno": "578702",
+      "internal": "legendary_barb_026",
+      "name": "of Bul-Kathos",
+      "snoList": [
+        "578702"
+      ],
+      "internalList": [
+        "legendary_barb_026"
+      ]
+    },
+    {
+      "sno": "578738",
+      "internal": "Legendary_Barb_108",
+      "name": "of Burning Rage",
+      "snoList": [
+        "578738"
+      ],
+      "internalList": [
+        "Legendary_Barb_108"
+      ]
+    },
+    {
+      "sno": "1221426",
+      "internal": "legendary_necro_101",
+      "name": "of Bursting Bones",
+      "snoList": [
+        "1221426"
+      ],
+      "internalList": [
+        "legendary_necro_101"
+      ]
+    },
+    {
+      "sno": "578893",
+      "internal": "legendary_rogue_029",
+      "name": "of Bursting Venoms",
+      "snoList": [
+        "578893"
+      ],
+      "internalList": [
+        "legendary_rogue_029"
+      ]
+    },
+    {
+      "sno": "2547909",
+      "internal": "legendary_warlock_004_x2",
+      "name": "of Calamity",
+      "snoList": [
+        "2547909"
+      ],
+      "internalList": [
+        "legendary_warlock_004_x2"
+      ]
+    },
+    {
+      "sno": "2547961",
+      "internal": "legendary_warlock_022_x2",
+      "name": "of Cauterization",
+      "snoList": [
+        "2547961"
+      ],
+      "internalList": [
+        "legendary_warlock_022_x2"
+      ]
+    },
+    {
+      "sno": "2419796",
+      "internal": "legendary_paladin_005",
+      "name": "of Celestial Strife",
+      "snoList": [
+        "2419796"
+      ],
+      "internalList": [
+        "legendary_paladin_005"
+      ]
+    },
+    {
+      "sno": "2574509",
+      "internal": "legendary_generic_135_x2",
+      "name": "of Channeling",
+      "snoList": [
+        "2574509"
+      ],
+      "internalList": [
+        "legendary_generic_135_x2"
+      ]
+    },
+    {
+      "sno": "1925377",
+      "internal": "x1_legendary_sorc_140",
+      "name": "of Charged Flash",
+      "snoList": [
+        "1925377"
+      ],
+      "internalList": [
+        "x1_legendary_sorc_140"
+      ]
+    },
+    {
+      "sno": "2468693",
+      "internal": "legendary_paladin_075",
+      "name": "of Chastisement",
+      "snoList": [
+        "2468693"
+      ],
+      "internalList": [
+        "legendary_paladin_075"
+      ]
+    },
+    {
+      "sno": "2591186",
+      "internal": "legendary_necro_023_x2",
+      "name": "of Coagulation",
+      "snoList": [
+        "2591186"
+      ],
+      "internalList": [
+        "legendary_necro_023_x2"
+      ]
+    },
+    {
+      "sno": "614832",
+      "internal": "legendary_necro_028",
+      "name": "of Coalesced Blood",
+      "snoList": [
+        "614832"
+      ],
+      "internalList": [
+        "legendary_necro_028"
+      ]
+    },
+    {
+      "sno": "2574563",
+      "internal": "S05_BSK_Sorcerer_001_x2",
+      "name": "of Cold Judgement",
+      "snoList": [
+        "2574563"
+      ],
+      "internalList": [
+        "S05_BSK_Sorcerer_001_x2"
+      ]
+    },
+    {
+      "sno": "1822332",
+      "internal": "legendary_spiritborn_006_x1",
+      "name": "of Combined Strikes",
+      "snoList": [
+        "1822332"
+      ],
+      "internalList": [
+        "legendary_spiritborn_006_x1"
+      ]
+    },
+    {
+      "sno": "2575190",
+      "internal": "legendary_sorc_139_x2",
+      "name": "of Combustion",
+      "snoList": [
+        "2575190"
+      ],
+      "internalList": [
+        "legendary_sorc_139_x2"
+      ]
+    },
+    {
+      "sno": "1848038",
+      "internal": "x1_legendary_necro_129",
+      "name": "of Compound Fracture",
+      "snoList": [
+        "1848038"
+      ],
+      "internalList": [
+        "x1_legendary_necro_129"
+      ]
+    },
+    {
+      "sno": "1215682",
+      "internal": "legendary_sorc_128",
+      "name": "of Concentration",
+      "snoList": [
+        "1215682"
+      ],
+      "internalList": [
+        "legendary_sorc_128"
+      ]
+    },
+    {
+      "sno": "2576770",
+      "internal": "legendary_rogue_148_x2",
+      "name": "of Concussive Blend",
+      "snoList": [
+        "2576770"
+      ],
+      "internalList": [
+        "legendary_rogue_148_x2"
+      ]
+    },
+    {
+      "sno": "1919349",
+      "internal": "legendary_generic_125",
+      "name": "of Concussive Strikes",
+      "snoList": [
+        "1919349"
+      ],
+      "internalList": [
+        "legendary_generic_125"
+      ]
+    },
+    {
+      "sno": "1212474",
+      "internal": "legendary_sorc_100",
+      "name": "of Conflagration",
+      "snoList": [
+        "1212474"
+      ],
+      "internalList": [
+        "legendary_sorc_100"
+      ]
+    },
+    {
+      "sno": "2246466",
+      "internal": "legendary_rogue_138",
+      "name": "of Contamination",
+      "snoList": [
+        "2246466"
+      ],
+      "internalList": [
+        "legendary_rogue_138"
+      ]
+    },
+    {
+      "sno": "2457471",
+      "internal": "legendary_paladin_072",
+      "name": "of Contemplation",
+      "snoList": [
+        "2457471"
+      ],
+      "internalList": [
+        "legendary_paladin_072"
+      ]
+    },
+    {
+      "sno": "1186380",
+      "internal": "legendary_rogue_113",
+      "name": "of Corruption",
+      "snoList": [
+        "1186380"
+      ],
+      "internalList": [
+        "legendary_rogue_113"
+      ]
+    },
+    {
+      "sno": "1977089",
+      "internal": "legendary_necro_132",
+      "name": "of Creeping Cadaver",
+      "snoList": [
+        "1977089"
+      ],
+      "internalList": [
+        "legendary_necro_132"
+      ]
+    },
+    {
+      "sno": "1950261",
+      "internal": "S05_BSK_Malignant_Generic_002",
+      "name": "of Creeping Death",
+      "snoList": [
+        "1950261"
+      ],
+      "internalList": [
+        "S05_BSK_Malignant_Generic_002"
+      ]
+    },
+    {
+      "sno": "1221467",
+      "internal": "legendary_necro_105",
+      "name": "of Crippling Darkness",
+      "snoList": [
+        "1221467"
+      ],
+      "internalList": [
+        "legendary_necro_105"
+      ]
+    },
+    {
+      "sno": "2467527",
+      "internal": "legendary_paladin_065",
+      "name": "of Dazzling Light",
+      "snoList": [
+        "2467527"
+      ],
+      "internalList": [
+        "legendary_paladin_065"
+      ]
+    },
+    {
+      "sno": "1841369",
+      "internal": "x1_legendary_necro_128",
+      "name": "of Death Chill",
+      "snoList": [
+        "1841369"
+      ],
+      "internalList": [
+        "x1_legendary_necro_128"
+      ]
+    },
+    {
+      "sno": "2591172",
+      "internal": "legendary_necro_067_x2",
+      "name": "of Death's Defense",
+      "snoList": [
+        "2591172"
+      ],
+      "internalList": [
+        "legendary_necro_067_x2"
+      ]
+    },
+    {
+      "sno": "2620638",
+      "internal": "legendary_necro_022_x2",
+      "name": "of Debilitating Darkness",
+      "snoList": [
+        "2620638"
+      ],
+      "internalList": [
+        "legendary_necro_022_x2"
+      ]
+    },
+    {
+      "sno": "1184010",
+      "internal": "legendary_rogue_104",
+      "name": "of Debilitating Toxins",
+      "snoList": [
+        "1184010"
+      ],
+      "internalList": [
+        "legendary_rogue_104"
+      ]
+    },
+    {
+      "sno": "1221534",
+      "internal": "legendary_necro_107",
+      "name": "of Decay",
+      "snoList": [
+        "1221534"
+      ],
+      "internalList": [
+        "legendary_necro_107"
+      ]
+    },
+    {
+      "sno": "2457976",
+      "internal": "legendary_paladin_066",
+      "name": "of Dedication",
+      "snoList": [
+        "2457976"
+      ],
+      "internalList": [
+        "legendary_paladin_066"
+      ]
+    },
+    {
+      "sno": "2547945",
+      "internal": "legendary_warlock_019_x2",
+      "name": "of Deeper Shadows",
+      "snoList": [
+        "2547945"
+      ],
+      "internalList": [
+        "legendary_warlock_019_x2"
+      ]
+    },
+    {
+      "sno": "1981714",
+      "internal": "legendary_spiritborn_031_x1",
+      "name": "of Deflection",
+      "snoList": [
+        "1981714"
+      ],
+      "internalList": [
+        "legendary_spiritborn_031_x1"
+      ]
+    },
+    {
+      "sno": "2192357",
+      "internal": "legendary_barb_118",
+      "name": "of Delayed Extinction",
+      "snoList": [
+        "2192357"
+      ],
+      "internalList": [
+        "legendary_barb_118"
+      ]
+    },
+    {
+      "sno": "2577956",
+      "internal": "legendary_generic_128_x2",
+      "name": "of Deluge",
+      "snoList": [
+        "2577956"
+      ],
+      "internalList": [
+        "legendary_generic_128_x2"
+      ]
+    },
+    {
+      "sno": "2547940",
+      "internal": "legendary_warlock_018_x2",
+      "name": "of Diabolical Armor",
+      "snoList": [
+        "2547940"
+      ],
+      "internalList": [
+        "legendary_warlock_018_x2"
+      ]
+    },
+    {
+      "sno": "578792",
+      "internal": "legendary_generic_036",
+      "name": "of Disobedience",
+      "snoList": [
+        "578792"
+      ],
+      "internalList": [
+        "legendary_generic_036"
+      ]
+    },
+    {
+      "sno": "2622376",
+      "internal": "legendary_paladin_053_x2",
+      "name": "of Dominance",
+      "snoList": [
+        "2622376"
+      ],
+      "internalList": [
+        "legendary_paladin_053_x2"
+      ]
+    },
+    {
+      "sno": "578764",
+      "internal": "legendary_barb_002",
+      "name": "of Earthquakes",
+      "snoList": [
+        "578764"
+      ],
+      "internalList": [
+        "legendary_barb_002"
+      ]
+    },
+    {
+      "sno": "1212246",
+      "internal": "legendary_sorc_132",
+      "name": "of Efficiency",
+      "snoList": [
+        "1212246"
+      ],
+      "internalList": [
+        "legendary_sorc_132"
+      ]
+    },
+    {
+      "sno": "2145128",
+      "internal": "legendary_druid_130",
+      "name": "of Electrified Claws",
+      "snoList": [
+        "2145128"
+      ],
+      "internalList": [
+        "legendary_druid_130"
+      ]
+    },
+    {
+      "sno": "1965000",
+      "internal": "legendary_sorc_144",
+      "name": "of Elemental Acuity",
+      "snoList": [
+        "1965000"
+      ],
+      "internalList": [
+        "legendary_sorc_144"
+      ]
+    },
+    {
+      "sno": "2577075",
+      "internal": "legendary_sorc_126_x2",
+      "name": "of Elemental Attunement",
+      "snoList": [
+        "2577075"
+      ],
+      "internalList": [
+        "legendary_sorc_126_x2"
+      ]
+    },
+    {
+      "sno": "2574612",
+      "internal": "x1_legendary_sorc_141_x2",
+      "name": "of Elemental Constellation",
+      "snoList": [
+        "2574612"
+      ],
+      "internalList": [
+        "x1_legendary_sorc_141_x2"
+      ]
+    },
+    {
+      "sno": "1485369",
+      "internal": "legendary_generic_114",
+      "name": "of Elemental Fate",
+      "snoList": [
+        "1485369"
+      ],
+      "internalList": [
+        "legendary_generic_114"
+      ]
+    },
+    {
+      "sno": "2620647",
+      "internal": "legendary_rogue_121_x2",
+      "name": "of Elusive Menace",
+      "snoList": [
+        "2620647"
+      ],
+      "internalList": [
+        "legendary_rogue_121_x2"
+      ]
+    },
+    {
+      "sno": "1976571",
+      "internal": "legendary_spiritborn_046_x1",
+      "name": "of Empowered Feathers",
+      "snoList": [
+        "1976571"
+      ],
+      "internalList": [
+        "legendary_spiritborn_046_x1"
+      ]
+    },
+    {
+      "sno": "578868",
+      "internal": "legendary_rogue_011",
+      "name": "of Encircling Blades",
+      "snoList": [
+        "578868"
+      ],
+      "internalList": [
+        "legendary_rogue_011"
+      ]
+    },
+    {
+      "sno": "578751",
+      "internal": "legendary_barb_020",
+      "name": "of Encroaching Wrath",
+      "snoList": [
+        "578751"
+      ],
+      "internalList": [
+        "legendary_barb_020"
+      ]
+    },
+    {
+      "sno": "2553961",
+      "internal": "legendary_barb_002_x2",
+      "name": "of Endless Fury",
+      "snoList": [
+        "2553961"
+      ],
+      "internalList": [
+        "legendary_barb_002_x2"
+      ]
+    },
+    {
+      "sno": "2175683",
+      "internal": "legendary_spiritborn_049",
+      "name": "of Endless Talons",
+      "snoList": [
+        "2175683"
+      ],
+      "internalList": [
+        "legendary_spiritborn_049"
+      ]
+    },
+    {
+      "sno": "1985480",
+      "internal": "legendary_spiritborn_029_x1",
+      "name": "of Endurance",
+      "snoList": [
+        "1985480"
+      ],
+      "internalList": [
+        "legendary_spiritborn_029_x1"
+      ]
+    },
+    {
+      "sno": "1212469",
+      "internal": "legendary_sorc_102",
+      "name": "of Engulfing Flames",
+      "snoList": [
+        "1212469"
+      ],
+      "internalList": [
+        "legendary_sorc_102"
+      ]
+    },
+    {
+      "sno": "2574919",
+      "internal": "legendary_rogue_145_x2",
+      "name": "of Entrapment",
+      "snoList": [
+        "2574919"
+      ],
+      "internalList": [
+        "legendary_rogue_145_x2"
+      ]
+    },
+    {
+      "sno": "2622371",
+      "internal": "legendary_paladin_076_x2",
+      "name": "of Excellence",
+      "snoList": [
+        "2622371"
+      ],
+      "internalList": [
+        "legendary_paladin_076_x2"
+      ]
+    },
+    {
+      "sno": "1822322",
+      "internal": "legendary_spiritborn_003_x1",
+      "name": "of Exhilaration",
+      "snoList": [
+        "1822322"
+      ],
+      "internalList": [
+        "legendary_spiritborn_003_x1"
+      ]
+    },
+    {
+      "sno": "2468717",
+      "internal": "legendary_paladin_067",
+      "name": "of Exorcism ",
+      "snoList": [
+        "2468717"
+      ],
+      "internalList": [
+        "legendary_paladin_067"
+      ]
+    },
+    {
+      "sno": "2580577",
+      "internal": "legendary_rogue_102_x2",
+      "name": "of Explosive Verve",
+      "snoList": [
+        "2580577"
+      ],
+      "internalList": [
+        "legendary_rogue_102_x2"
+      ]
+    },
+    {
+      "sno": "1220424",
+      "internal": "legendary_necro_103",
+      "name": "of Exposed Flesh",
+      "snoList": [
+        "1220424"
+      ],
+      "internalList": [
+        "legendary_necro_103"
+      ]
+    },
+    {
+      "sno": "2621647",
+      "internal": "legendary_spiritborn_010_x2",
+      "name": "of Falling Feathers",
+      "snoList": [
+        "2621647"
+      ],
+      "internalList": [
+        "legendary_spiritborn_010_x2"
+      ]
+    },
+    {
+      "sno": "2547924",
+      "internal": "legendary_warlock_011_x2",
+      "name": "of Fathomless Dark",
+      "snoList": [
+        "2547924"
+      ],
+      "internalList": [
+        "legendary_warlock_011_x2"
+      ]
+    },
+    {
+      "sno": "1926238",
+      "internal": "legendary_druid_124",
+      "name": "of Fevered Mauling",
+      "snoList": [
+        "1926238"
+      ],
+      "internalList": [
+        "legendary_druid_124"
+      ]
+    },
+    {
+      "sno": "2547971",
+      "internal": "legendary_warlock_026_x2",
+      "name": "of Fiendish Oppression",
+      "snoList": [
+        "2547971"
+      ],
+      "internalList": [
+        "legendary_warlock_026_x2"
+      ]
+    },
+    {
+      "sno": "1924068",
+      "internal": "legendary_barb_114",
+      "name": "of Fierce Winds",
+      "snoList": [
+        "1924068"
+      ],
+      "internalList": [
+        "legendary_barb_114"
+      ]
+    },
+    {
+      "sno": "2148881",
+      "internal": "legendary_necro_135",
+      "name": "of Finality",
+      "snoList": [
+        "2148881"
+      ],
+      "internalList": [
+        "legendary_necro_135"
+      ]
+    },
+    {
+      "sno": "2467143",
+      "internal": "legendary_paladin_062",
+      "name": "of Firm Decree",
+      "snoList": [
+        "2467143"
+      ],
+      "internalList": [
+        "legendary_paladin_062"
+      ]
+    },
+    {
+      "sno": "1972587",
+      "internal": "legendary_spiritborn_024_x1",
+      "name": "of Fleet Wings",
+      "snoList": [
+        "1972587"
+      ],
+      "internalList": [
+        "legendary_spiritborn_024_x1"
+      ]
+    },
+    {
+      "sno": "1978626",
+      "internal": "legendary_spiritborn_035_x1",
+      "name": "of Forest Power",
+      "snoList": [
+        "1978626"
+      ],
+      "internalList": [
+        "legendary_spiritborn_035_x1"
+      ]
+    },
+    {
+      "sno": "1212462",
+      "internal": "legendary_sorc_112",
+      "name": "of Fortune",
+      "snoList": [
+        "1212462"
+      ],
+      "internalList": [
+        "legendary_sorc_112"
+      ]
+    },
+    {
+      "sno": "2019033",
+      "internal": "legendary_barb_116",
+      "name": "of Forward Momentum",
+      "snoList": [
+        "2019033"
+      ],
+      "internalList": [
+        "legendary_barb_116"
+      ]
+    },
+    {
+      "sno": "607856",
+      "internal": "legendary_necro_002",
+      "name": "of Frenzied Onslaught",
+      "snoList": [
+        "607856"
+      ],
+      "internalList": [
+        "legendary_necro_002"
+      ]
+    },
+    {
+      "sno": "1893589",
+      "internal": "legendary_generic_124",
+      "name": "of Frosty Strides",
+      "snoList": [
+        "1893589"
+      ],
+      "internalList": [
+        "legendary_generic_124"
+      ]
+    },
+    {
+      "sno": "2575379",
+      "internal": "legendary_coldUser_001_x2",
+      "name": "of Frozen Memories",
+      "snoList": [
+        "2575379"
+      ],
+      "internalList": [
+        "legendary_coldUser_001_x2"
+      ]
+    },
+    {
+      "sno": "578927",
+      "internal": "legendary_sorc_035",
+      "name": "of Frozen Orbit",
+      "snoList": [
+        "578927"
+      ],
+      "internalList": [
+        "legendary_sorc_035"
+      ]
+    },
+    {
+      "sno": "2571959",
+      "internal": "legendary_barb_013_x2",
+      "name": "of Furious Impulse",
+      "snoList": [
+        "2571959"
+      ],
+      "internalList": [
+        "legendary_barb_013_x2"
+      ]
+    },
+    {
+      "sno": "579641",
+      "internal": "legendary_barb_010",
+      "name": "of Giant Strides",
+      "snoList": [
+        "579641"
+      ],
+      "internalList": [
+        "legendary_barb_010"
+      ]
+    },
+    {
+      "sno": "616063",
+      "internal": "legendary_necro_036",
+      "name": "of Gloom",
+      "snoList": [
+        "616063"
+      ],
+      "internalList": [
+        "legendary_necro_036"
+      ]
+    },
+    {
+      "sno": "2445175",
+      "internal": "legendary_paladin_031",
+      "name": "of Glynn's Anvil",
+      "snoList": [
+        "2445175"
+      ],
+      "internalList": [
+        "legendary_paladin_031"
+      ]
+    },
+    {
+      "sno": "1439751",
+      "internal": "legendary_necro_123",
+      "name": "of Gore Quills",
+      "snoList": [
+        "1439751"
+      ],
+      "internalList": [
+        "legendary_necro_123"
+      ]
+    },
+    {
+      "sno": "578728",
+      "internal": "legendary_barb_050",
+      "name": "of Grasping Whirlwind",
+      "snoList": [
+        "578728"
+      ],
+      "internalList": [
+        "legendary_barb_050"
+      ]
+    },
+    {
+      "sno": "2542023",
+      "internal": "Legendary_Druid_119_x2",
+      "name": "of Grim Prognosis",
+      "snoList": [
+        "2542023"
+      ],
+      "internalList": [
+        "Legendary_Druid_119_x2"
+      ]
+    },
+    {
+      "sno": "2569778",
+      "internal": "legendary_barb_009_x2",
+      "name": "of Guttural Yell",
+      "snoList": [
+        "2569778"
+      ],
+      "internalList": [
+        "legendary_barb_009_x2"
+      ]
+    },
+    {
+      "sno": "2466880",
+      "internal": "legendary_paladin_064",
+      "name": "of Hale's Salve",
+      "snoList": [
+        "2466880"
+      ],
+      "internalList": [
+        "legendary_paladin_064"
+      ]
+    },
+    {
+      "sno": "1222592",
+      "internal": "legendary_necro_115",
+      "name": "of Hardened Bones",
+      "snoList": [
+        "1222592"
+      ],
+      "internalList": [
+        "legendary_necro_115"
+      ]
+    },
+    {
+      "sno": "1968061",
+      "internal": "legendary_spiritborn_044_x1",
+      "name": "of Haste",
+      "snoList": [
+        "1968061"
+      ],
+      "internalList": [
+        "legendary_spiritborn_044_x1"
+      ]
+    },
+    {
+      "sno": "2484503",
+      "internal": "legendary_paladin_085",
+      "name": "of Heavenly Strength",
+      "snoList": [
+        "2484503"
+      ],
+      "internalList": [
+        "legendary_paladin_085"
+      ]
+    },
+    {
+      "sno": "2042271",
+      "internal": "legendary_barb_117_x1",
+      "name": "of Herculean Spectacle",
+      "snoList": [
+        "2042271"
+      ],
+      "internalList": [
+        "legendary_barb_117_x1"
+      ]
+    },
+    {
+      "sno": "2547926",
+      "internal": "legendary_warlock_012_x2",
+      "name": "of Heresy",
+      "snoList": [
+        "2547926"
+      ],
+      "internalList": [
+        "legendary_warlock_012_x2"
+      ]
+    },
+    {
+      "sno": "2620559",
+      "internal": "legendary_necro_003_x2",
+      "name": "of Hewed Flesh",
+      "snoList": [
+        "2620559"
+      ],
+      "internalList": [
+        "legendary_necro_003_x2"
+      ]
+    },
+    {
+      "sno": "2040941",
+      "internal": "x1_legendary_rogue_131",
+      "name": "of Hit and Run",
+      "snoList": [
+        "2040941"
+      ],
+      "internalList": [
+        "x1_legendary_rogue_131"
+      ]
+    },
+    {
+      "sno": "2467583",
+      "internal": "legendary_paladin_080",
+      "name": "of Holy Cadence",
+      "snoList": [
+        "2467583"
+      ],
+      "internalList": [
+        "legendary_paladin_080"
+      ]
+    },
+    {
+      "sno": "2470741",
+      "internal": "legendary_paladin_082",
+      "name": "of Holy Punishment",
+      "snoList": [
+        "2470741"
+      ],
+      "internalList": [
+        "legendary_paladin_082"
+      ]
+    },
+    {
+      "sno": "2543598",
+      "internal": "legendary_druid_074_x2",
+      "name": "of Human Ingenuity",
+      "snoList": [
+        "2543598"
+      ],
+      "internalList": [
+        "legendary_druid_074_x2"
+      ]
+    },
+    {
+      "sno": "2547932",
+      "internal": "legendary_warlock_014_x2",
+      "name": "of Ignition",
+      "snoList": [
+        "2547932"
+      ],
+      "internalList": [
+        "legendary_warlock_014_x2"
+      ]
+    },
+    {
+      "sno": "578880",
+      "internal": "legendary_rogue_003",
+      "name": "of Imitated Imbuement",
+      "snoList": [
+        "578880"
+      ],
+      "internalList": [
+        "legendary_rogue_003"
+      ]
+    },
+    {
+      "sno": "2547977",
+      "internal": "legendary_warlock_027_x2",
+      "name": "of Immolation",
+      "snoList": [
+        "2547977"
+      ],
+      "internalList": [
+        "legendary_warlock_027_x2"
+      ]
+    },
+    {
+      "sno": "2548002",
+      "internal": "legendary_warlock_034_x2",
+      "name": "of Impetus",
+      "snoList": [
+        "2548002"
+      ],
+      "internalList": [
+        "legendary_warlock_034_x2"
+      ]
+    },
+    {
+      "sno": "2156287",
+      "internal": "legendary_barb_117",
+      "name": "of Incendiary Fissures",
+      "snoList": [
+        "2156287"
+      ],
+      "internalList": [
+        "legendary_barb_117"
+      ]
+    },
+    {
+      "sno": "1906504",
+      "internal": "S05_BSK_Generic_003",
+      "name": "of Inevitable Fate",
+      "snoList": [
+        "1906504"
+      ],
+      "internalList": [
+        "S05_BSK_Generic_003"
+      ]
+    },
+    {
+      "sno": "1822334",
+      "internal": "legendary_spiritborn_007_x1",
+      "name": "of Infestation",
+      "snoList": [
+        "1822334"
+      ],
+      "internalList": [
+        "legendary_spiritborn_007_x1"
+      ]
+    },
+    {
+      "sno": "578933",
+      "internal": "legendary_generic_014",
+      "name": "of Inner Calm",
+      "snoList": [
+        "578933"
+      ],
+      "internalList": [
+        "legendary_generic_014"
+      ]
+    },
+    {
+      "sno": "2574595",
+      "internal": "legendary_rogue_143_x2",
+      "name": "of Innervation",
+      "snoList": [
+        "2574595"
+      ],
+      "internalList": [
+        "legendary_rogue_143_x2"
+      ]
+    },
+    {
+      "sno": "2620643",
+      "internal": "legendary_spiritborn_034_x2",
+      "name": "of Interdiction",
+      "snoList": [
+        "2620643"
+      ],
+      "internalList": [
+        "legendary_spiritborn_034_x2"
+      ]
+    },
+    {
+      "sno": "1987452;2567333",
+      "internal": "legendary_spiritborn_038_x1;legendary_spiritborn_051",
+      "name": "of Intricacy",
+      "snoList": [
+        "1987452",
+        "2567333"
+      ],
+      "internalList": [
+        "legendary_spiritborn_038_x1",
+        "legendary_spiritborn_051"
+      ]
+    },
+    {
+      "sno": "1989503",
+      "internal": "legendary_spiritborn_030_x1",
+      "name": "of Invigorating Will",
+      "snoList": [
+        "1989503"
+      ],
+      "internalList": [
+        "legendary_spiritborn_030_x1"
+      ]
+    },
+    {
+      "sno": "2576823",
+      "internal": "legendary_rogue_149_x2",
+      "name": "of Iron Rain",
+      "snoList": [
+        "2576823"
+      ],
+      "internalList": [
+        "legendary_rogue_149_x2"
+      ]
+    },
+    {
+      "sno": "2445856",
+      "internal": "legendary_paladin_038",
+      "name": "of Jacques' Fervor",
+      "snoList": [
+        "2445856"
+      ],
+      "internalList": [
+        "legendary_paladin_038"
+      ]
+    },
+    {
+      "sno": "1983255",
+      "internal": "legendary_spiritborn_037_x1",
+      "name": "of Kinetic Suppression",
+      "snoList": [
+        "1983255"
+      ],
+      "internalList": [
+        "legendary_spiritborn_037_x1"
+      ]
+    },
+    {
+      "sno": "2420884",
+      "internal": "legendary_paladin_012",
+      "name": "of Lagera's Sovereignty",
+      "snoList": [
+        "2420884"
+      ],
+      "internalList": [
+        "legendary_paladin_012"
+      ]
+    },
+    {
+      "sno": "2447225",
+      "internal": "legendary_paladin_042",
+      "name": "of Lapa's Scripture",
+      "snoList": [
+        "2447225"
+      ],
+      "internalList": [
+        "legendary_paladin_042"
+      ]
+    },
+    {
+      "sno": "2547936",
+      "internal": "legendary_warlock_016_x2",
+      "name": "of Lava",
+      "snoList": [
+        "2547936"
+      ],
+      "internalList": [
+        "legendary_warlock_016_x2"
+      ]
+    },
+    {
+      "sno": "1987425",
+      "internal": "legendary_spiritborn_033_x1",
+      "name": "of Layered Wards",
+      "snoList": [
+        "1987425"
+      ],
+      "internalList": [
+        "legendary_spiritborn_033_x1"
+      ]
+    },
+    {
+      "sno": "1301761",
+      "internal": "legendary_rogue_120",
+      "name": "of Lethal Dusk",
+      "snoList": [
+        "1301761"
+      ],
+      "internalList": [
+        "legendary_rogue_120"
+      ]
+    },
+    {
+      "sno": "578755",
+      "internal": "Legendary_Barb_110",
+      "name": "of Limitless Rage",
+      "snoList": [
+        "578755"
+      ],
+      "internalList": [
+        "Legendary_Barb_110"
+      ]
+    },
+    {
+      "sno": "2468273",
+      "internal": "legendary_paladin_056",
+      "name": "of Loyalty",
+      "snoList": [
+        "2468273"
+      ],
+      "internalList": [
+        "legendary_paladin_056"
+      ]
+    },
+    {
+      "sno": "2547968",
+      "internal": "legendary_warlock_025_x2",
+      "name": "of Malevolence",
+      "snoList": [
+        "2547968"
+      ],
+      "internalList": [
+        "legendary_warlock_025_x2"
+      ]
+    },
+    {
+      "sno": "2577945",
+      "internal": "legendary_rogue_150_x2",
+      "name": "of Malice",
+      "snoList": [
+        "2577945"
+      ],
+      "internalList": [
+        "legendary_rogue_150_x2"
+      ]
+    },
+    {
+      "sno": "2580483",
+      "internal": "legendary_rogue_152_x2",
+      "name": "of Mending Obscurity",
+      "snoList": [
+        "2580483"
+      ],
+      "internalList": [
+        "legendary_rogue_152_x2"
+      ]
+    },
+    {
+      "sno": "2542620",
+      "internal": "legendary_druid_026_x2",
+      "name": "of Mending Stone",
+      "snoList": [
+        "2542620"
+      ],
+      "internalList": [
+        "legendary_druid_026_x2"
+      ]
+    },
+    {
+      "sno": "2574575",
+      "internal": "legendary_sorc_035_x2",
+      "name": "of Merciless Cold",
+      "snoList": [
+        "2574575"
+      ],
+      "internalList": [
+        "legendary_sorc_035_x2"
+      ]
+    },
+    {
+      "sno": "1865132",
+      "internal": "legendary_generic_121",
+      "name": "of Metamorphosis",
+      "snoList": [
+        "1865132"
+      ],
+      "internalList": [
+        "legendary_generic_121"
+      ]
+    },
+    {
+      "sno": "578708",
+      "internal": "legendary_generic_009",
+      "name": "of Might",
+      "snoList": [
+        "578708"
+      ],
+      "internalList": [
+        "legendary_generic_009"
+      ]
+    },
+    {
+      "sno": "2464389",
+      "internal": "legendary_paladin_055",
+      "name": "of Militance",
+      "snoList": [
+        "2464389"
+      ],
+      "internalList": [
+        "legendary_paladin_055"
+      ]
+    },
+    {
+      "sno": "2147318",
+      "internal": "legendary_sorc_146",
+      "name": "of Mind's Awakening",
+      "snoList": [
+        "2147318"
+      ],
+      "internalList": [
+        "legendary_sorc_146"
+      ]
+    },
+    {
+      "sno": "2547995",
+      "internal": "legendary_warlock_032_x2",
+      "name": "of Misfortune",
+      "snoList": [
+        "2547995"
+      ],
+      "internalList": [
+        "legendary_warlock_032_x2"
+      ]
+    },
+    {
+      "sno": "1983612",
+      "internal": "legendary_spiritborn_043_x1",
+      "name": "of Momentum",
+      "snoList": [
+        "1983612"
+      ],
+      "internalList": [
+        "legendary_spiritborn_043_x1"
+      ]
+    },
+    {
+      "sno": "2547930",
+      "internal": "legendary_warlock_013_x2",
+      "name": "of Mutilation",
+      "snoList": [
+        "2547930"
+      ],
+      "internalList": [
+        "legendary_warlock_013_x2"
+      ]
+    },
+    {
+      "sno": "578816",
+      "internal": "legendary_druid_029",
+      "name": "of Natural Balance",
+      "snoList": [
+        "578816"
+      ],
+      "internalList": [
+        "legendary_druid_029"
+      ]
+    },
+    {
+      "sno": "2544434",
+      "internal": "legendary_druid_128_x2",
+      "name": "of Natural Defenses",
+      "snoList": [
+        "2544434"
+      ],
+      "internalList": [
+        "legendary_druid_128_x2"
+      ]
+    },
+    {
+      "sno": "2540929",
+      "internal": "legendary_druid_062_x2",
+      "name": "of Natural Instincts",
+      "snoList": [
+        "2540929"
+      ],
+      "internalList": [
+        "legendary_druid_062_x2"
+      ]
+    },
+    {
+      "sno": "1882773",
+      "internal": "x1_legendary_necro_130",
+      "name": "of Natural Selection",
+      "snoList": [
+        "1882773"
+      ],
+      "internalList": [
+        "x1_legendary_necro_130"
+      ]
+    },
+    {
+      "sno": "1968381",
+      "internal": "legendary_rogue_130",
+      "name": "of Nebulous Brews",
+      "snoList": [
+        "1968381"
+      ],
+      "internalList": [
+        "legendary_rogue_130"
+      ]
+    },
+    {
+      "sno": "1302491",
+      "internal": "legendary_rogue_117",
+      "name": "of Noxious Ice",
+      "snoList": [
+        "1302491"
+      ],
+      "internalList": [
+        "legendary_rogue_117"
+      ]
+    },
+    {
+      "sno": "578723",
+      "internal": "legendary_barb_017",
+      "name": "of Numbing Wrath",
+      "snoList": [
+        "578723"
+      ],
+      "internalList": [
+        "legendary_barb_017"
+      ]
+    },
+    {
+      "sno": "1937739",
+      "internal": "x1_legendary_sorc_142",
+      "name": "of Overheating",
+      "snoList": [
+        "1937739"
+      ],
+      "internalList": [
+        "x1_legendary_sorc_142"
+      ]
+    },
+    {
+      "sno": "2577860",
+      "internal": "legendary_sorc_117_x2",
+      "name": "of Overwhelming Currents",
+      "snoList": [
+        "2577860"
+      ],
+      "internalList": [
+        "legendary_sorc_117_x2"
+      ]
+    },
+    {
+      "sno": "2547934",
+      "internal": "legendary_warlock_015_x2",
+      "name": "of Peril",
+      "snoList": [
+        "2547934"
+      ],
+      "internalList": [
+        "legendary_warlock_015_x2"
+      ]
+    },
+    {
+      "sno": "578736",
+      "internal": "legendary_barb_100",
+      "name": "of Perpetual Stomping",
+      "snoList": [
+        "578736"
+      ],
+      "internalList": [
+        "legendary_barb_100"
+      ]
+    },
+    {
+      "sno": "1858274",
+      "internal": "legendary_spiritborn_016_x1",
+      "name": "of Pestilence",
+      "snoList": [
+        "1858274"
+      ],
+      "internalList": [
+        "legendary_spiritborn_016_x1"
+      ]
+    },
+    {
+      "sno": "1439746",
+      "internal": "legendary_rogue_126",
+      "name": "of Pestilent Points",
+      "snoList": [
+        "1439746"
+      ],
+      "internalList": [
+        "legendary_rogue_126"
+      ]
+    },
+    {
+      "sno": "2577876",
+      "internal": "legendary_sorc_110_x2",
+      "name": "of Piercing Cold",
+      "snoList": [
+        "2577876"
+      ],
+      "internalList": [
+        "legendary_sorc_110_x2"
+      ]
+    },
+    {
+      "sno": "2574608",
+      "internal": "legendary_sorc_012_x2",
+      "name": "of Piercing Static",
+      "snoList": [
+        "2574608"
+      ],
+      "internalList": [
+        "legendary_sorc_012_x2"
+      ]
+    },
+    {
+      "sno": "2448539",
+      "internal": "legendary_paladin_050",
+      "name": "of Pilgrim's Progress",
+      "snoList": [
+        "2448539"
+      ],
+      "internalList": [
+        "legendary_paladin_050"
+      ]
+    },
+    {
+      "sno": "1978628",
+      "internal": "legendary_spiritborn_027_x1",
+      "name": "of Plains Power",
+      "snoList": [
+        "1978628"
+      ],
+      "internalList": [
+        "legendary_spiritborn_027_x1"
+      ]
+    },
+    {
+      "sno": "2580474",
+      "internal": "legendary_rogue_129_x2",
+      "name": "of Poisonous Clouds",
+      "snoList": [
+        "2580474"
+      ],
+      "internalList": [
+        "legendary_rogue_129_x2"
+      ]
+    },
+    {
+      "sno": "1221645",
+      "internal": "legendary_necro_113",
+      "name": "of Potent Blood",
+      "snoList": [
+        "1221645"
+      ],
+      "internalList": [
+        "legendary_necro_113"
+      ]
+    },
+    {
+      "sno": "1987443",
+      "internal": "legendary_spiritborn_047_x1",
+      "name": "of Potent Exchange",
+      "snoList": [
+        "1987443"
+      ],
+      "internalList": [
+        "legendary_spiritborn_047_x1"
+      ]
+    },
+    {
+      "sno": "2571892",
+      "internal": "legendary_barb_012_x2",
+      "name": "of Prolific Fury",
+      "snoList": [
+        "2571892"
+      ],
+      "internalList": [
+        "legendary_barb_012_x2"
+      ]
+    },
+    {
+      "sno": "2420653",
+      "internal": "legendary_paladin_006",
+      "name": "of Proselytizing",
+      "snoList": [
+        "2420653"
+      ],
+      "internalList": [
+        "legendary_paladin_006"
+      ]
+    },
+    {
+      "sno": "621929",
+      "internal": "legendary_necro_066",
+      "name": "of Putrefaction",
+      "snoList": [
+        "621929"
+      ],
+      "internalList": [
+        "legendary_necro_066"
+      ]
+    },
+    {
+      "sno": "1187879",
+      "internal": "legendary_rogue_110",
+      "name": "of Quickening Fog",
+      "snoList": [
+        "1187879"
+      ],
+      "internalList": [
+        "legendary_rogue_110"
+      ]
+    },
+    {
+      "sno": "988683",
+      "internal": "legendary_druid_018",
+      "name": "of Quicksand",
+      "snoList": [
+        "988683"
+      ],
+      "internalList": [
+        "legendary_druid_018"
+      ]
+    },
+    {
+      "sno": "1822320",
+      "internal": "legendary_spiritborn_002_x1",
+      "name": "of Rallying Reversal",
+      "snoList": [
+        "1822320"
+      ],
+      "internalList": [
+        "legendary_spiritborn_002_x1"
+      ]
+    },
+    {
+      "sno": "1740178",
+      "internal": "legendary_necro_125",
+      "name": "of Rapid Ossification",
+      "snoList": [
+        "1740178"
+      ],
+      "internalList": [
+        "legendary_necro_125"
+      ]
+    },
+    {
+      "sno": "1221702",
+      "internal": "legendary_necro_111",
+      "name": "of Rathma's Chosen",
+      "snoList": [
+        "1221702"
+      ],
+      "internalList": [
+        "legendary_necro_111"
+      ]
+    },
+    {
+      "sno": "1983319",
+      "internal": "legendary_spiritborn_028_x1",
+      "name": "of Reactive Armor",
+      "snoList": [
+        "1983319"
+      ],
+      "internalList": [
+        "legendary_spiritborn_028_x1"
+      ]
+    },
+    {
+      "sno": "1223323",
+      "internal": "legendary_necro_118",
+      "name": "of Reanimation",
+      "snoList": [
+        "1223323"
+      ],
+      "internalList": [
+        "legendary_necro_118"
+      ]
+    },
+    {
+      "sno": "2621643",
+      "internal": "legendary_spiritborn_025_x2",
+      "name": "of Recalling Feathers",
+      "snoList": [
+        "2621643"
+      ],
+      "internalList": [
+        "legendary_spiritborn_025_x2"
+      ]
+    },
+    {
+      "sno": "1858284",
+      "internal": "legendary_spiritborn_021_x1",
+      "name": "of Redirected Force",
+      "snoList": [
+        "1858284"
+      ],
+      "internalList": [
+        "legendary_spiritborn_021_x1"
+      ]
+    },
+    {
+      "sno": "2574656",
+      "internal": "legendary_sorc_017_x2",
+      "name": "of Refutation",
+      "snoList": [
+        "2574656"
+      ],
+      "internalList": [
+        "legendary_sorc_017_x2"
+      ]
+    },
+    {
+      "sno": "579686",
+      "internal": "legendary_druid_071",
+      "name": "of Retaliation",
+      "snoList": [
+        "579686"
+      ],
+      "internalList": [
+        "legendary_druid_071"
+      ]
+    },
+    {
+      "sno": "2616408",
+      "internal": "legendary_generic_038_x2",
+      "name": "of Retribution",
+      "snoList": [
+        "2616408"
+      ],
+      "internalList": [
+        "legendary_generic_038_x2"
+      ]
+    },
+    {
+      "sno": "2445885",
+      "internal": "legendary_paladin_041",
+      "name": "of Righteous Rage",
+      "snoList": [
+        "2445885"
+      ],
+      "internalList": [
+        "legendary_paladin_041"
+      ]
+    },
+    {
+      "sno": "2548008",
+      "internal": "legendary_warlock_036_x2",
+      "name": "of Ritual Synthesis",
+      "snoList": [
+        "2548008"
+      ],
+      "internalList": [
+        "legendary_warlock_036_x2"
+      ]
+    },
+    {
+      "sno": "2460066",
+      "internal": "legendary_paladin_079",
+      "name": "of Salvation",
+      "snoList": [
+        "2460066"
+      ],
+      "internalList": [
+        "legendary_paladin_079"
+      ]
+    },
+    {
+      "sno": "2547922",
+      "internal": "legendary_warlock_010_x2",
+      "name": "of Scorching Heat",
+      "snoList": [
+        "2547922"
+      ],
+      "internalList": [
+        "legendary_warlock_010_x2"
+      ]
+    },
+    {
+      "sno": "2547938",
+      "internal": "legendary_warlock_017_x2",
+      "name": "of Scorn",
+      "snoList": [
+        "2547938"
+      ],
+      "internalList": [
+        "legendary_warlock_017_x2"
+      ]
+    },
+    {
+      "sno": "2574620",
+      "internal": "legendary_sorc_106_x2",
+      "name": "of Searing Impact",
+      "snoList": [
+        "2574620"
+      ],
+      "internalList": [
+        "legendary_sorc_106_x2"
+      ]
+    },
+    {
+      "sno": "1439762",
+      "internal": "legendary_sorc_136",
+      "name": "of Searing Wards",
+      "snoList": [
+        "1439762"
+      ],
+      "internalList": [
+        "legendary_sorc_136"
+      ]
+    },
+    {
+      "sno": "616122",
+      "internal": "legendary_necro_038",
+      "name": "of Serration",
+      "snoList": [
+        "616122"
+      ],
+      "internalList": [
+        "legendary_necro_038"
+      ]
+    },
+    {
+      "sno": "1227283",
+      "internal": "legendary_generic_102",
+      "name": "of Shared Misery",
+      "snoList": [
+        "1227283"
+      ],
+      "internalList": [
+        "legendary_generic_102"
+      ]
+    },
+    {
+      "sno": "1212515",
+      "internal": "legendary_sorc_106",
+      "name": "of Shattered Stars",
+      "snoList": [
+        "1212515"
+      ],
+      "internalList": [
+        "legendary_sorc_106"
+      ]
+    },
+    {
+      "sno": "1791939",
+      "internal": "x1_legendary_barb_114",
+      "name": "of Shattering Steel",
+      "snoList": [
+        "1791939"
+      ],
+      "internalList": [
+        "x1_legendary_barb_114"
+      ]
+    },
+    {
+      "sno": "2536648",
+      "internal": "legendary_druid_063_x2",
+      "name": "of Shelter",
+      "snoList": [
+        "2536648"
+      ],
+      "internalList": [
+        "legendary_druid_063_x2"
+      ]
+    },
+    {
+      "sno": "2620551",
+      "internal": "legendary_necro_054_x2",
+      "name": "of Shielding Bones",
+      "snoList": [
+        "2620551"
+      ],
+      "internalList": [
+        "legendary_necro_054_x2"
+      ]
+    },
+    {
+      "sno": "2574644",
+      "internal": "legendary_sorc_138_x2",
+      "name": "of Shredding Blades",
+      "snoList": [
+        "2574644"
+      ],
+      "internalList": [
+        "legendary_sorc_138_x2"
+      ]
+    },
+    {
+      "sno": "1981761",
+      "internal": "legendary_spiritborn_026_x1",
+      "name": "of Simple Reprisal",
+      "snoList": [
+        "1981761"
+      ],
+      "internalList": [
+        "legendary_spiritborn_026_x1"
+      ]
+    },
+    {
+      "sno": "1213812",
+      "internal": "legendary_sorc_104",
+      "name": "of Singed Extremities",
+      "snoList": [
+        "1213812"
+      ],
+      "internalList": [
+        "legendary_sorc_104"
+      ]
+    },
+    {
+      "sno": "1186378",
+      "internal": "legendary_rogue_112",
+      "name": "of Siphoned Victuals",
+      "snoList": [
+        "1186378"
+      ],
+      "internalList": [
+        "legendary_rogue_112"
+      ]
+    },
+    {
+      "sno": "2152208",
+      "internal": "legendary_rogue_135",
+      "name": "of Siphoning Strikes",
+      "snoList": [
+        "2152208"
+      ],
+      "internalList": [
+        "legendary_rogue_135"
+      ]
+    },
+    {
+      "sno": "1978374",
+      "internal": "legendary_spiritborn_045_x1",
+      "name": "of Sky Power",
+      "snoList": [
+        "1978374"
+      ],
+      "internalList": [
+        "legendary_spiritborn_045_x1"
+      ]
+    },
+    {
+      "sno": "1602954",
+      "internal": "legendary_generic_115",
+      "name": "of Slaughter",
+      "snoList": [
+        "1602954"
+      ],
+      "internalList": [
+        "legendary_generic_115"
+      ]
+    },
+    {
+      "sno": "1923692",
+      "internal": "S05_BSK_Generic_008",
+      "name": "of Sly Steps",
+      "snoList": [
+        "1923692"
+      ],
+      "internalList": [
+        "S05_BSK_Generic_008"
+      ]
+    },
+    {
+      "sno": "1978616",
+      "internal": "legendary_spiritborn_042_x1",
+      "name": "of Soil Power",
+      "snoList": [
+        "1978616"
+      ],
+      "internalList": [
+        "legendary_spiritborn_042_x1"
+      ]
+    },
+    {
+      "sno": "2591176",
+      "internal": "legendary_necro_102_x2",
+      "name": "of Spiked Armor",
+      "snoList": [
+        "2591176"
+      ],
+      "internalList": [
+        "legendary_necro_102_x2"
+      ]
+    },
+    {
+      "sno": "2574634",
+      "internal": "legendary_sorc_121_x2",
+      "name": "of Splintering Energy",
+      "snoList": [
+        "2574634"
+      ],
+      "internalList": [
+        "legendary_sorc_121_x2"
+      ]
+    },
+    {
+      "sno": "1768379",
+      "internal": "x1_legendary_rogue_130",
+      "name": "of Splintering Shards",
+      "snoList": [
+        "1768379"
+      ],
+      "internalList": [
+        "x1_legendary_rogue_130"
+      ]
+    },
+    {
+      "sno": "1186856",
+      "internal": "legendary_rogue_108",
+      "name": "of Stolen Vigor",
+      "snoList": [
+        "1186856"
+      ],
+      "internalList": [
+        "legendary_rogue_108"
+      ]
+    },
+    {
+      "sno": "1737620",
+      "internal": "legendary_barb_113",
+      "name": "of Sundered Ground",
+      "snoList": [
+        "1737620"
+      ],
+      "internalList": [
+        "legendary_barb_113"
+      ]
+    },
+    {
+      "sno": "2567355",
+      "internal": "legendary_spiritborn_052",
+      "name": "of Supremacy",
+      "snoList": [
+        "2567355"
+      ],
+      "internalList": [
+        "legendary_spiritborn_052"
+      ]
+    },
+    {
+      "sno": "578885",
+      "internal": "legendary_rogue_018",
+      "name": "of Surprise",
+      "snoList": [
+        "578885"
+      ],
+      "internalList": [
+        "legendary_rogue_018"
+      ]
+    },
+    {
+      "sno": "2466053",
+      "internal": "legendary_paladin_054",
+      "name": "of Swift Spirit",
+      "snoList": [
+        "2466053"
+      ],
+      "internalList": [
+        "legendary_paladin_054"
+      ]
+    },
+    {
+      "sno": "2620651",
+      "internal": "legendary_rogue_119_x2",
+      "name": "of Synergy",
+      "snoList": [
+        "2620651"
+      ],
+      "internalList": [
+        "legendary_rogue_119_x2"
+      ]
+    },
+    {
+      "sno": "2574470",
+      "internal": "legendary_rogue_140_x2",
+      "name": "of Target Practice",
+      "snoList": [
+        "2574470"
+      ],
+      "internalList": [
+        "legendary_rogue_140_x2"
+      ]
+    },
+    {
+      "sno": "1200856",
+      "internal": "legendary_barb_105",
+      "name": "of Tempering Blows",
+      "snoList": [
+        "1200856"
+      ],
+      "internalList": [
+        "legendary_barb_105"
+      ]
+    },
+    {
+      "sno": "1983766",
+      "internal": "legendary_spiritborn_032_x1",
+      "name": "of Tenacity",
+      "snoList": [
+        "1983766"
+      ],
+      "internalList": [
+        "legendary_spiritborn_032_x1"
+      ]
+    },
+    {
+      "sno": "1956797",
+      "internal": "legendary_sorc_141",
+      "name": "of Tenuous Agility",
+      "snoList": [
+        "1956797"
+      ],
+      "internalList": [
+        "legendary_sorc_141"
+      ]
+    },
+    {
+      "sno": "1926363",
+      "internal": "legendary_sorc_140",
+      "name": "of Tenuous Survival",
+      "snoList": [
+        "1926363"
+      ],
+      "internalList": [
+        "legendary_sorc_140"
+      ]
+    },
+    {
+      "sno": "1220474",
+      "internal": "legendary_necro_104",
+      "name": "of Terror",
+      "snoList": [
+        "1220474"
+      ],
+      "internalList": [
+        "legendary_necro_104"
+      ]
+    },
+    {
+      "sno": "614914",
+      "internal": "legendary_necro_029",
+      "name": "of Thickened Blood",
+      "snoList": [
+        "614914"
+      ],
+      "internalList": [
+        "legendary_necro_029"
+      ]
+    },
+    {
+      "sno": "1224753",
+      "internal": "legendary_necro_100",
+      "name": "of Torment",
+      "snoList": [
+        "1224753"
+      ],
+      "internalList": [
+        "legendary_necro_100"
+      ]
+    },
+    {
+      "sno": "610047",
+      "internal": "Legendary_Necro_122",
+      "name": "of Transfusion",
+      "snoList": [
+        "610047"
+      ],
+      "internalList": [
+        "Legendary_Necro_122"
+      ]
+    },
+    {
+      "sno": "1942672",
+      "internal": "S05_BSK_Rogue_002",
+      "name": "of True Sight",
+      "snoList": [
+        "1942672"
+      ],
+      "internalList": [
+        "S05_BSK_Rogue_002"
+      ]
+    },
+    {
+      "sno": "1983349",
+      "internal": "legendary_spiritborn_039_x1",
+      "name": "of Turbulence",
+      "snoList": [
+        "1983349"
+      ],
+      "internalList": [
+        "legendary_spiritborn_039_x1"
+      ]
+    },
+    {
+      "sno": "2447675",
+      "internal": "legendary_paladin_045",
+      "name": "of Tyrael's Jurisdiction",
+      "snoList": [
+        "2447675"
+      ],
+      "internalList": [
+        "legendary_paladin_045"
+      ]
+    },
+    {
+      "sno": "616076",
+      "internal": "Legendary_Necro_121",
+      "name": "of Ultimate Shadow",
+      "snoList": [
+        "616076"
+      ],
+      "internalList": [
+        "Legendary_Necro_121"
+      ]
+    },
+    {
+      "sno": "1184418",
+      "internal": "legendary_rogue_103",
+      "name": "of Uncanny Treachery",
+      "snoList": [
+        "1184418"
+      ],
+      "internalList": [
+        "legendary_rogue_103"
+      ]
+    },
+    {
+      "sno": "1974301",
+      "internal": "legendary_necro_131",
+      "name": "of Unnatural Movement",
+      "snoList": [
+        "1974301"
+      ],
+      "internalList": [
+        "legendary_necro_131"
+      ]
+    },
+    {
+      "sno": "578850",
+      "internal": "legendary_rogue_020",
+      "name": "of Unstable Imbuements",
+      "snoList": [
+        "578850"
+      ],
+      "internalList": [
+        "legendary_rogue_020"
+      ]
+    },
+    {
+      "sno": "2462321",
+      "internal": "legendary_paladin_058",
+      "name": "of Unstoppable Force",
+      "snoList": [
+        "2462321"
+      ],
+      "internalList": [
+        "legendary_paladin_058"
+      ]
+    },
+    {
+      "sno": "1221707",
+      "internal": "legendary_necro_112",
+      "name": "of Untimely Death",
+      "snoList": [
+        "1221707"
+      ],
+      "internalList": [
+        "legendary_necro_112"
+      ]
+    },
+    {
+      "sno": "1822329",
+      "internal": "legendary_spiritborn_005_x1",
+      "name": "of Unyielding Hits",
+      "snoList": [
+        "1822329"
+      ],
+      "internalList": [
+        "legendary_spiritborn_005_x1"
+      ]
+    },
+    {
+      "sno": "2467629",
+      "internal": "legendary_paladin_081",
+      "name": "of Utmost Glory",
+      "snoList": [
+        "2467629"
+      ],
+      "internalList": [
+        "legendary_paladin_081"
+      ]
+    },
+    {
+      "sno": "2455492",
+      "internal": "legendary_paladin_052",
+      "name": "of Valiance",
+      "snoList": [
+        "2455492"
+      ],
+      "internalList": [
+        "legendary_paladin_052"
+      ]
+    },
+    {
+      "sno": "2439231",
+      "internal": "legendary_paladin_017",
+      "name": "of Verdant Restoration",
+      "snoList": [
+        "2439231"
+      ],
+      "internalList": [
+        "legendary_paladin_017"
+      ]
+    },
+    {
+      "sno": "579652",
+      "internal": "legendary_barb_007",
+      "name": "of Vocalized Empowerment",
+      "snoList": [
+        "579652"
+      ],
+      "internalList": [
+        "legendary_barb_007"
+      ]
+    },
+    {
+      "sno": "578854",
+      "internal": "legendary_rogue_013",
+      "name": "of Volatile Shadows",
+      "snoList": [
+        "578854"
+      ],
+      "internalList": [
+        "legendary_rogue_013"
+      ]
+    },
+    {
+      "sno": "578762",
+      "internal": "legendary_barb_013",
+      "name": "of Voracious Rage",
+      "snoList": [
+        "578762"
+      ],
+      "internalList": [
+        "legendary_barb_013"
+      ]
+    },
+    {
+      "sno": "2553966",
+      "internal": "legendary_barb_003_x2",
+      "name": "of Walloping",
+      "snoList": [
+        "2553966"
+      ],
+      "internalList": [
+        "legendary_barb_003_x2"
+      ]
+    },
+    {
+      "sno": "2576074",
+      "internal": "legendary_sorc_136_x2",
+      "name": "of Warmth",
+      "snoList": [
+        "2576074"
+      ],
+      "internalList": [
+        "legendary_sorc_136_x2"
+      ]
+    },
+    {
+      "sno": "2448369",
+      "internal": "legendary_paladin_049",
+      "name": "of Watkins' Law",
+      "snoList": [
+        "2448369"
+      ],
+      "internalList": [
+        "legendary_paladin_049"
+      ]
+    },
+    {
+      "sno": "1822324",
+      "internal": "legendary_spiritborn_004_x1",
+      "name": "of Wild Claws",
+      "snoList": [
+        "1822324"
+      ],
+      "internalList": [
+        "legendary_spiritborn_004_x1"
+      ]
+    },
+    {
+      "sno": "2176630",
+      "internal": "legendary_druid_131",
+      "name": "of Wolf's Rain",
+      "snoList": [
+        "2176630"
+      ],
+      "internalList": [
+        "legendary_druid_131"
+      ]
+    },
+    {
+      "sno": "2465855",
+      "internal": "legendary_paladin_071",
+      "name": "of the Arbiter's Zephyr",
+      "snoList": [
+        "2465855"
+      ],
+      "internalList": [
+        "legendary_paladin_071"
+      ]
+    },
+    {
+      "sno": "1229076",
+      "internal": "legendary_sorc_123",
+      "name": "of the Bounding Conduit",
+      "snoList": [
+        "1229076"
+      ],
+      "internalList": [
+        "legendary_sorc_123"
+      ]
+    },
+    {
+      "sno": "2533690",
+      "internal": "legendary_druid_010_X2",
+      "name": "of the Calm Breeze",
+      "snoList": [
+        "2533690"
+      ],
+      "internalList": [
+        "legendary_druid_010_X2"
+      ]
+    },
+    {
+      "sno": "1201951",
+      "internal": "legendary_druid_038",
+      "name": "of the Changeling's Debt",
+      "snoList": [
+        "1201951"
+      ],
+      "internalList": [
+        "legendary_druid_038"
+      ]
+    },
+    {
+      "sno": "578825",
+      "internal": "legendary_generic_065",
+      "name": "of the Crowded Sage",
+      "snoList": [
+        "578825"
+      ],
+      "internalList": [
+        "legendary_generic_065"
+      ]
+    },
+    {
+      "sno": "1946028",
+      "internal": "S05_BSK_Necro_001",
+      "name": "of the Cursed Aura",
+      "snoList": [
+        "1946028"
+      ],
+      "internalList": [
+        "S05_BSK_Necro_001"
+      ]
+    },
+    {
+      "sno": "1221015",
+      "internal": "legendary_necro_106",
+      "name": "of the Damned",
+      "snoList": [
+        "1221015"
+      ],
+      "internalList": [
+        "legendary_necro_106"
+      ]
+    },
+    {
+      "sno": "1950240",
+      "internal": "S05_BSK_Malignant_Generic_001",
+      "name": "of the Dark Dance",
+      "snoList": [
+        "1950240"
+      ],
+      "internalList": [
+        "S05_BSK_Malignant_Generic_001"
+      ]
+    },
+    {
+      "sno": "1201797",
+      "internal": "legendary_druid_102",
+      "name": "of the Dark Howl",
+      "snoList": [
+        "1201797"
+      ],
+      "internalList": [
+        "legendary_druid_102"
+      ]
+    },
+    {
+      "sno": "1225449",
+      "internal": "legendary_generic_107",
+      "name": "of the Deflecting Barrier",
+      "snoList": [
+        "1225449"
+      ],
+      "internalList": [
+        "legendary_generic_107"
+      ]
+    },
+    {
+      "sno": "578735",
+      "internal": "legendary_barb_025",
+      "name": "of the Dire Whirlwind",
+      "snoList": [
+        "578735"
+      ],
+      "internalList": [
+        "legendary_barb_025"
+      ]
+    },
+    {
+      "sno": "2622381",
+      "internal": "legendary_paladin_059_x2",
+      "name": "of the Disciple",
+      "snoList": [
+        "2622381"
+      ],
+      "internalList": [
+        "legendary_paladin_059_x2"
+      ]
+    },
+    {
+      "sno": "2620659",
+      "internal": "legendary_necro_120_x2",
+      "name": "of the Embalmer",
+      "snoList": [
+        "2620659"
+      ],
+      "internalList": [
+        "legendary_necro_120_x2"
+      ]
+    },
+    {
+      "sno": "2575290",
+      "internal": "legendary_sorc_142_x2",
+      "name": "of the Enchanter",
+      "snoList": [
+        "2575290"
+      ],
+      "internalList": [
+        "legendary_sorc_142_x2"
+      ]
+    },
+    {
+      "sno": "578865",
+      "internal": "legendary_generic_067",
+      "name": "of the Expectant",
+      "snoList": [
+        "578865"
+      ],
+      "internalList": [
+        "legendary_generic_067"
+      ]
+    },
+    {
+      "sno": "1963371",
+      "internal": "legendary_sorc_142",
+      "name": "of the Firebird",
+      "snoList": [
+        "1963371"
+      ],
+      "internalList": [
+        "legendary_sorc_142"
+      ]
+    },
+    {
+      "sno": "1803887",
+      "internal": "x1_legendary_barb_115",
+      "name": "of the Flaming Rampage",
+      "snoList": [
+        "1803887"
+      ],
+      "internalList": [
+        "x1_legendary_barb_115"
+      ]
+    },
+    {
+      "sno": "2541048",
+      "internal": "legendary_druid_013_x2",
+      "name": "of the Followed Path",
+      "snoList": [
+        "2541048"
+      ],
+      "internalList": [
+        "legendary_druid_013_x2"
+      ]
+    },
+    {
+      "sno": "2014186",
+      "internal": "S05_BSK_Barbarian_004",
+      "name": "of the Fortress",
+      "snoList": [
+        "2014186"
+      ],
+      "internalList": [
+        "S05_BSK_Barbarian_004"
+      ]
+    },
+    {
+      "sno": "1212281",
+      "internal": "legendary_sorc_116",
+      "name": "of the Frozen Tundra",
+      "snoList": [
+        "1212281"
+      ],
+      "internalList": [
+        "legendary_sorc_116"
+      ]
+    },
+    {
+      "sno": "2574628",
+      "internal": "legendary_sorc_109_x2",
+      "name": "of the Frozen Wake",
+      "snoList": [
+        "2574628"
+      ],
+      "internalList": [
+        "legendary_sorc_109_x2"
+      ]
+    },
+    {
+      "sno": "2463911",
+      "internal": "legendary_paladin_061",
+      "name": "of the Golden Hour",
+      "snoList": [
+        "2463911"
+      ],
+      "internalList": [
+        "legendary_paladin_061"
+      ]
+    },
+    {
+      "sno": "1950503",
+      "internal": "S05_BSK_Malignant_Necro_001",
+      "name": "of the Great Feast",
+      "snoList": [
+        "1950503"
+      ],
+      "internalList": [
+        "S05_BSK_Malignant_Necro_001"
+      ]
+    },
+    {
+      "sno": "2439349",
+      "internal": "legendary_paladin_020",
+      "name": "of the Indomitable",
+      "snoList": [
+        "2439349"
+      ],
+      "internalList": [
+        "legendary_paladin_020"
+      ]
+    },
+    {
+      "sno": "578756",
+      "internal": "legendary_barb_008",
+      "name": "of the Iron Warrior",
+      "snoList": [
+        "578756"
+      ],
+      "internalList": [
+        "legendary_barb_008"
+      ]
+    },
+    {
+      "sno": "2448361",
+      "internal": "legendary_paladin_048",
+      "name": "of the Judicator",
+      "snoList": [
+        "2448361"
+      ],
+      "internalList": [
+        "legendary_paladin_048"
+      ]
+    },
+    {
+      "sno": "2445818",
+      "internal": "legendary_paladin_033",
+      "name": "of the Juggernaut's Covenant",
+      "snoList": [
+        "2445818"
+      ],
+      "internalList": [
+        "legendary_paladin_033"
+      ]
+    },
+    {
+      "sno": "2621651",
+      "internal": "legendary_paladin_063_x2",
+      "name": "of the Light's Mending",
+      "snoList": [
+        "2621651"
+      ],
+      "internalList": [
+        "legendary_paladin_063_x2"
+      ]
+    },
+    {
+      "sno": "1622847",
+      "internal": "legendary_necro_124",
+      "name": "of the Long Shadow",
+      "snoList": [
+        "1622847"
+      ],
+      "internalList": [
+        "legendary_necro_124"
+      ]
+    },
+    {
+      "sno": "1860795",
+      "internal": "legendary_generic_120",
+      "name": "of the Moonrise",
+      "snoList": [
+        "1860795"
+      ],
+      "internalList": [
+        "legendary_generic_120"
+      ]
+    },
+    {
+      "sno": "2416740",
+      "internal": "legendary_paladin_022",
+      "name": "of the Northern Guard",
+      "snoList": [
+        "2416740"
+      ],
+      "internalList": [
+        "legendary_paladin_022"
+      ]
+    },
+    {
+      "sno": "2584885",
+      "internal": "legendary_generic_131_x2",
+      "name": "of the Orange Herald",
+      "snoList": [
+        "2584885"
+      ],
+      "internalList": [
+        "legendary_generic_131_x2"
+      ]
+    },
+    {
+      "sno": "2538155",
+      "internal": "legendary_druid_075_x2",
+      "name": "of the Pack Alpha",
+      "snoList": [
+        "2538155"
+      ],
+      "internalList": [
+        "legendary_druid_075_x2"
+      ]
+    },
+    {
+      "sno": "578842",
+      "internal": "legendary_generic_011",
+      "name": "of the Protector",
+      "snoList": [
+        "578842"
+      ],
+      "internalList": [
+        "legendary_generic_011"
+      ]
+    },
+    {
+      "sno": "1950266",
+      "internal": "S05_BSK_Malignant_Generic_003",
+      "name": "of the Prudent Heart",
+      "snoList": [
+        "1950266"
+      ],
+      "internalList": [
+        "S05_BSK_Malignant_Generic_003"
+      ]
+    },
+    {
+      "sno": "1814245",
+      "internal": "x1_legendary_druid_125",
+      "name": "of the Rabid Beast",
+      "snoList": [
+        "1814245"
+      ],
+      "internalList": [
+        "x1_legendary_druid_125"
+      ]
+    },
+    {
+      "sno": "578745",
+      "internal": "legendary_barb_021",
+      "name": "of the Relentless Armsmaster",
+      "snoList": [
+        "578745"
+      ],
+      "internalList": [
+        "legendary_barb_021"
+      ]
+    },
+    {
+      "sno": "2014637",
+      "internal": "legendary_druid_127",
+      "name": "of the Rushing Wilds",
+      "snoList": [
+        "2014637"
+      ],
+      "internalList": [
+        "legendary_druid_127"
+      ]
+    },
+    {
+      "sno": "2533703",
+      "internal": "legendary_druid_002_x2",
+      "name": "of the Shapeshifter",
+      "snoList": [
+        "2533703"
+      ],
+      "internalList": [
+        "legendary_druid_002_x2"
+      ]
+    },
+    {
+      "sno": "2117213",
+      "internal": "legendary_necro_134",
+      "name": "of the Solitary Shadow",
+      "snoList": [
+        "2117213"
+      ],
+      "internalList": [
+        "legendary_necro_134"
+      ]
+    },
+    {
+      "sno": "1222402",
+      "internal": "Legendary_Druid_117",
+      "name": "of the Stampede",
+      "snoList": [
+        "1222402"
+      ],
+      "internalList": [
+        "Legendary_Druid_117"
+      ]
+    },
+    {
+      "sno": "578897",
+      "internal": "legendary_generic_021",
+      "name": "of the Umbral",
+      "snoList": [
+        "578897"
+      ],
+      "internalList": [
+        "legendary_generic_021"
+      ]
+    },
+    {
+      "sno": "1225298",
+      "internal": "legendary_sorc_122",
+      "name": "of the Unbroken Tether",
+      "snoList": [
+        "1225298"
+      ],
+      "internalList": [
+        "legendary_sorc_122"
+      ]
+    },
+    {
+      "sno": "1972501",
+      "internal": "legendary_necro_127",
+      "name": "of the Unholy Confederate",
+      "snoList": [
+        "1972501"
+      ],
+      "internalList": [
+        "legendary_necro_127"
+      ]
+    },
+    {
+      "sno": "2544522",
+      "internal": "legendary_druid_133_x2",
+      "name": "of the Unleashed Beast",
+      "snoList": [
+        "2544522"
+      ],
+      "internalList": [
+        "legendary_druid_133_x2"
+      ]
+    },
+    {
+      "sno": "579704",
+      "internal": "legendary_druid_002",
+      "name": "of the Unsatiated",
+      "snoList": [
+        "579704"
+      ],
+      "internalList": [
+        "legendary_druid_002"
+      ]
+    },
+    {
+      "sno": "2575135",
+      "internal": "legendary_sorc_008_x2",
+      "name": "of the Untarnished Blaze",
+      "snoList": [
+        "2575135"
+      ],
+      "internalList": [
+        "legendary_sorc_008_x2"
+      ]
+    },
+    {
+      "sno": "1225191",
+      "internal": "legendary_sorc_126",
+      "name": "of the Unwavering",
+      "snoList": [
+        "1225191"
+      ],
+      "internalList": [
+        "legendary_sorc_126"
+      ]
+    },
+    {
+      "sno": "2541132",
+      "internal": "legendary_druid_066_x2",
+      "name": "of the Ursine Horror",
+      "snoList": [
+        "2541132"
+      ],
+      "internalList": [
+        "legendary_druid_066_x2"
+      ]
+    },
+    {
+      "sno": "2420751",
+      "internal": "legendary_paladin_007",
+      "name": "of the Valintyr",
+      "snoList": [
+        "2420751"
+      ],
+      "internalList": [
+        "legendary_paladin_007"
+      ]
+    },
+    {
+      "sno": "610216",
+      "internal": "legendary_necro_017",
+      "name": "of the Void",
+      "snoList": [
+        "610216"
+      ],
+      "internalList": [
+        "legendary_necro_017"
+      ]
+    },
+    {
+      "sno": "2553921",
+      "internal": "legendary_barb_001_x2",
+      "name": "of the Warpath",
+      "snoList": [
+        "2553921"
+      ],
+      "internalList": [
+        "legendary_barb_001_x2"
+      ]
+    },
+    {
+      "sno": "2620543",
+      "internal": "legendary_druid_106_x2",
+      "name": "of the Wildrage",
+      "snoList": [
+        "2620543"
+      ],
+      "internalList": [
+        "legendary_druid_106_x2"
+      ]
+    },
+    {
+      "sno": "2445850",
+      "internal": "legendary_paladin_036",
+      "name": "of the Zealot's Covenant",
+      "snoList": [
+        "2445850"
+      ],
+      "internalList": [
+        "legendary_paladin_036"
+      ]
+    }
+  ]
+}
